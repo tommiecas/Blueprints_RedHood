@@ -237,7 +237,10 @@
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Idle.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_React.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Walk.uasset",
-				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset"
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Game/BP_RedHoodGameMode.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Game/BP_RedHoodGameModet.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Maps/DungeonMap.umap"
 			]
 		}
 	]
