@@ -5956,3 +5956,388 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.11.19-03.59.00:892][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.11.19-03.59.00:892][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.11.19-03.59.00:892][420]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.19-03.59.59:415][731]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.19-03.59.59:420][731]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.19-03.59.59:426][732]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.19-04.00.02:430][ 93]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2024.11.19-04.00.02:430][ 93]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.19-04.00.12:203][245]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.19-04.00.12:207][245]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.19-04.00.12:222][247]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.19-04.00.15:451][635]LogContentBrowser: Attempting asset rename: NewFolder -> InputActions
+[2024.11.19-04.00.15:451][635]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.19-04.00.26:947][925]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.11.19-04.00.26:952][925]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.11.19-04.00.26:966][927]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.11.19-04.00.32:288][562]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.11.19-04.00.32:289][562]LogContentBrowser: End creating deferred item NewInputAction
+[2024.11.19-04.00.43:053][805]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.11.19-04.00.43:059][805]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.11.19-04.00.43:064][806]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.11.19-04.00.48:001][394]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Jump
+[2024.11.19-04.00.48:002][394]LogContentBrowser: End creating deferred item NewInputAction
+[2024.11.19-04.00.54:057][115]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Input/InputActions/IA_Move.IA_Move
+[2024.11.19-04.00.59:609][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.00.59:663][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/InputActions/IA_Move] ([1] browsable assets)...
+[2024.11.19-04.00.59:663][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/InputActions/IA_Move]
+[2024.11.19-04.00.59:664][751]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/InputActions/IA_Move
+[2024.11.19-04.00.59:664][751]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/IA_Move4EEDA85944C7B13E9846829ECC1A0566.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Input/InputActions/IA_Move.uasset'
+[2024.11.19-04.00.59:669][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.524 ms (total: 2.20 sec)
+[2024.11.19-04.00.59:725][751]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.00.59:725][751]LogContentValidation: Enabled validators:
+[2024.11.19-04.00.59:725][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.00.59:725][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.00.59:725][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.00.59:725][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.00.59:725][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.00.59:725][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.00.59:725][751]AssetCheck: /Game/Blueprints/Input/InputActions/IA_Move Validating asset
+[2024.11.19-04.01.05:469][422]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Input/InputActions/IA_Jump.IA_Jump
+[2024.11.19-04.01.09:626][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.01.09:682][898]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/InputActions/IA_Jump] ([1] browsable assets)...
+[2024.11.19-04.01.09:682][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/InputActions/IA_Jump]
+[2024.11.19-04.01.09:682][898]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/InputActions/IA_Jump
+[2024.11.19-04.01.09:682][898]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/IA_JumpEF9E549346C3C144A6CA9DA4CF09DCFC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Input/InputActions/IA_Jump.uasset'
+[2024.11.19-04.01.09:688][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.089 ms (total: 2.27 sec)
+[2024.11.19-04.01.09:749][898]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.01.09:749][898]LogContentValidation: Enabled validators:
+[2024.11.19-04.01.09:749][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.01.09:749][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.01.09:749][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.01.09:749][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.01.09:749][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.01.09:749][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.01.09:750][898]AssetCheck: /Game/Blueprints/Input/InputActions/IA_Jump Validating asset
+[2024.11.19-04.01.22:804][336]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.11.19-04.01.22:809][336]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.11.19-04.01.22:817][337]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.11.19-04.01.26:351][757]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_RedHood
+[2024.11.19-04.01.26:351][757]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.11.19-04.01.28:397][999]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Input/IMC_RedHood.IMC_RedHood
+[2024.11.19-04.01.56:077][263]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.19-04.04.22:106][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.04.22:145][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Input/IMC_RedHood] ([1] browsable assets)...
+[2024.11.19-04.04.22:146][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Input/IMC_RedHood]
+[2024.11.19-04.04.22:146][574]LogSavePackage: Moving output files for package: /Game/Blueprints/Input/IMC_RedHood
+[2024.11.19-04.04.22:146][574]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/IMC_RedHood3D97E8D844022412C6D9C8AC6B26EE9C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Input/IMC_RedHood.uasset'
+[2024.11.19-04.04.22:150][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.255 ms (total: 2.31 sec)
+[2024.11.19-04.04.22:198][574]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.04.22:198][574]LogContentValidation: Enabled validators:
+[2024.11.19-04.04.22:198][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.04.22:198][574]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.04.22:198][574]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.04.22:198][574]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.04.22:198][574]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.04.22:198][574]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.04.22:198][574]AssetCheck: /Game/Blueprints/Input/IMC_RedHood Validating asset
+[2024.11.19-04.04.29:257][401]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-04.04.29:257][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.04.29:330][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.19-04.07.36:072][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.19-04.07.37:201][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.07.37:242][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.07.37:242][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.07.37:245][243]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.19-04.07.37:246][243]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood3E7B26914D4FC278487435BED827AE84.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.19-04.07.37:250][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.645 ms (total: 2.36 sec)
+[2024.11.19-04.07.37:314][243]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.07.37:314][243]LogContentValidation: Enabled validators:
+[2024.11.19-04.07.37:314][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.07.37:314][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.07.37:314][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.07.37:314][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.07.37:314][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.07.37:314][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.07.37:314][243]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.19-04.07.40:786][646]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-04.07.40:789][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-04.07.40:789][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.07.40:790][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001122s)
+[2024.11.19-04.07.40:790][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001145s)
+[2024.11.19-04.07.40:802][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.19-04.07.40:803][646]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2024.11.19-04.07.40:804][646]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2024.11.19-04.07.40:805][646]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-04.07.40:805][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-04.07.40:805][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-04.07.40:805][646]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-04.07.40:805][646]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-04.07.40:805][646]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-04.07.40:807][646]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-04.07.40:816][646]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.19-04.07.40:816][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-04.07.40:816][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-04.07.40:816][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-04.07.40:817][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.11.19-04.07.40:817][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.11.19-04.07.40:818][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.11.19-04.07.40:818][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.11.19-04.07.40:818][646]LogInit: FAudioDevice initialized with ID 8.
+[2024.11.19-04.07.40:818][646]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2024.11.19-04.07.40:818][646]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.19-04.07.40:820][646]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.19-04.07.40:820][646]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.19-04.07.40:822][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.11.18-20.07.40
+[2024.11.19-04.07.40:822][646]LogWorld: Bringing up level for play took: 0.000631
+[2024.11.19-04.07.40:823][646]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.11.19-04.07.40:824][646]PIE: Server logged in
+[2024.11.19-04.07.40:825][646]PIE: Play in editor total start time 0.037 seconds.
+[2024.11.19-04.07.57:733][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.07.57:733][662]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.07.57:733][662]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-04.07.57:734][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.07.57:739][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-04.07.57:741][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.07.57:752][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.07.57:753][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.11.19-04.07.57:753][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.19-04.07.57:754][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.11.19-04.07.57:759][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.19-04.07.57:794][664]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.11.19-04.11.00:588][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.19-04.11.01:621][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.11.01:681][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.11.01:681][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.11.01:686][110]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.19-04.11.01:686][110]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodACFAA0B545E1DB64E209E891BC9987F6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.19-04.11.01:690][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.487 ms (total: 2.43 sec)
+[2024.11.19-04.11.01:728][110]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.11.01:728][110]LogContentValidation: Enabled validators:
+[2024.11.19-04.11.01:728][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.11.01:728][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.11.01:728][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.11.01:728][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.11.01:728][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.11.01:728][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.11.01:728][110]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.19-04.11.02:362][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.11.02:412][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.11.02:412][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.11.02:417][186]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.19-04.11.02:417][186]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood2308FBFC49C10DBD89B1B8927FE355DD.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.19-04.11.02:421][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.451 ms (total: 2.49 sec)
+[2024.11.19-04.11.02:462][186]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.11.02:462][186]LogContentValidation: Enabled validators:
+[2024.11.19-04.11.02:462][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.11.02:462][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.11.02:462][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.11.02:462][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.11.02:462][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.11.02:462][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.11.02:462][186]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.19-04.11.10:167][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.19-04.12.24:934][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.11.19-04.12.25:708][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.12.25:753][901]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.12.25:753][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.12.25:757][901]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.19-04.12.25:758][901]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood8ADAE15E442D60B3FD35BAA93919EAE9.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.19-04.12.25:763][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.271 ms (total: 2.54 sec)
+[2024.11.19-04.12.25:822][901]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.12.25:822][901]LogContentValidation: Enabled validators:
+[2024.11.19-04.12.25:822][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.12.25:822][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.12.25:822][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.12.25:822][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.12.25:822][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.12.25:822][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.12.25:822][901]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.19-04.12.28:044][158]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-04.12.28:047][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-04.12.28:081][158]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.12.28:083][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002069s)
+[2024.11.19-04.12.28:083][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002122s)
+[2024.11.19-04.12.28:099][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.19-04.12.28:101][158]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2024.11.19-04.12.28:102][158]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2024.11.19-04.12.28:103][158]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-04.12.28:103][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-04.12.28:103][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-04.12.28:103][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-04.12.28:103][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-04.12.28:103][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-04.12.28:105][158]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-04.12.28:114][158]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.19-04.12.28:115][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-04.12.28:115][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-04.12.28:115][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-04.12.28:115][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.11.19-04.12.28:115][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.11.19-04.12.28:116][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.19-04.12.28:116][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.11.19-04.12.28:116][158]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.19-04.12.28:116][158]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2024.11.19-04.12.28:116][158]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.19-04.12.28:119][158]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.19-04.12.28:119][158]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.19-04.12.28:119][158]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.11.18-20.12.28
+[2024.11.19-04.12.28:120][158]LogWorld: Bringing up level for play took: 0.000576
+[2024.11.19-04.12.28:120][158]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.11.19-04.12.28:122][158]PIE: Server logged in
+[2024.11.19-04.12.28:123][158]PIE: Play in editor total start time 0.076 seconds.
+[2024.11.19-04.12.38:991][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.12.38:991][455]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.12.38:991][455]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-04.12.38:991][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.12.38:995][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-04.12.38:997][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.12.39:012][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.12.39:012][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.19-04.12.39:012][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.19-04.12.39:014][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.19-04.12.39:018][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.19-04.12.39:075][457]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.11.19-04.12.56:031][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.19-04.12.57:869][665]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-04.12.57:873][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-04.12.57:911][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.12.57:914][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002230s)
+[2024.11.19-04.12.57:914][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.002281s)
+[2024.11.19-04.12.57:930][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.19-04.12.57:931][665]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2024.11.19-04.12.57:933][665]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2024.11.19-04.12.57:933][665]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-04.12.57:933][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-04.12.57:933][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-04.12.57:933][665]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-04.12.57:933][665]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-04.12.57:933][665]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-04.12.57:935][665]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-04.12.57:944][665]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.19-04.12.57:944][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-04.12.57:944][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-04.12.57:944][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-04.12.57:945][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.11.19-04.12.57:945][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.11.19-04.12.57:946][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.11.19-04.12.57:946][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.11.19-04.12.57:946][665]LogInit: FAudioDevice initialized with ID 10.
+[2024.11.19-04.12.57:946][665]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2024.11.19-04.12.57:946][665]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.19-04.12.57:948][665]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.19-04.12.57:948][665]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.19-04.12.57:949][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.11.18-20.12.57
+[2024.11.19-04.12.57:949][665]LogWorld: Bringing up level for play took: 0.000578
+[2024.11.19-04.12.57:950][665]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.11.19-04.12.57:952][665]PIE: Server logged in
+[2024.11.19-04.12.57:952][665]PIE: Play in editor total start time 0.08 seconds.
+[2024.11.19-04.13.25:292][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.13.25:292][937]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.13.25:292][937]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-04.13.25:292][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.13.25:295][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-04.13.25:297][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.13.25:312][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.13.25:312][937]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.19-04.13.25:312][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.19-04.13.25:315][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.19-04.13.25:319][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.19-04.13.25:375][939]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.11.19-04.13.43:735][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.19-04.13.44:603][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.13.44:641][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.13.44:641][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.13.44:646][ 41]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.19-04.13.44:647][ 41]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodEA55CD51443F9334CD0F8995CFA6A255.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.19-04.13.44:651][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.959 ms (total: 2.59 sec)
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: Enabled validators:
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.13.44:707][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.13.44:707][ 41]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.19-04.13.46:472][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-04.13.46:475][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-04.13.46:513][244]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.13.46:514][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001594s)
+[2024.11.19-04.13.46:514][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.001639s)
+[2024.11.19-04.13.46:530][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.19-04.13.46:532][244]LogChaosDD: Creating Chaos Debug Draw Scene for world TestMap
+[2024.11.19-04.13.46:533][244]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2024.11.19-04.13.46:533][244]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-04.13.46:533][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-04.13.46:533][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-04.13.46:533][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-04.13.46:533][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-04.13.46:533][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-04.13.46:535][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-04.13.46:544][244]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.19-04.13.46:544][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-04.13.46:544][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-04.13.46:544][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-04.13.46:545][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.11.19-04.13.46:545][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.11.19-04.13.46:546][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.19-04.13.46:546][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.11.19-04.13.46:546][244]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.19-04.13.46:546][244]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2024.11.19-04.13.46:546][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.19-04.13.46:548][244]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.19-04.13.46:548][244]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.19-04.13.46:549][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2024.11.18-20.13.46
+[2024.11.19-04.13.46:549][244]LogWorld: Bringing up level for play took: 0.000568
+[2024.11.19-04.13.46:550][244]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.11.19-04.13.46:551][244]PIE: Server logged in
+[2024.11.19-04.13.46:552][244]PIE: Play in editor total start time 0.077 seconds.
+[2024.11.19-04.14.06:534][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.14.06:534][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2024.11.19-04.14.06:534][634]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-04.14.06:534][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.14.06:537][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-04.14.06:540][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-04.14.06:558][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-04.14.06:558][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.19-04.14.06:558][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.19-04.14.06:560][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.19-04.14.06:565][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.19-04.14.06:622][636]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.11.19-04.14.56:589][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.19-04.14.56:591][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.018
+[2024.11.19-04.14.56:591][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.14.56:591][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.14.56:597][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto5
+[2024.11.19-04.14.56:597][490]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood_Auto5F0597B954D48BAB4BB96B98ED9A32819.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto5.uasset'
+[2024.11.19-04.14.56:597][490]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.11.19-04.15.42:585][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.19-04.15.43:997][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-04.15.44:052][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.19-04.15.44:052][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.19-04.15.44:058][ 91]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.19-04.15.44:058][ 91]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodE3D914E0491F89526250AF81184B343B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.19-04.15.44:063][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.585 ms (total: 2.65 sec)
+[2024.11.19-04.15.44:114][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: Enabled validators:
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-04.15.44:115][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-04.15.44:115][ 91]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
