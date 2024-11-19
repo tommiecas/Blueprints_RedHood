@@ -3237,3 +3237,982 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.11.19-01.19.40:566][238]AssetCheck: /Game/Assets/Torches/Sprites/torch_3_Sprite Validating asset
 [2024.11.19-01.19.40:566][238]AssetCheck: /Game/Assets/Torches/Sprites/torch_4 Validating asset
 [2024.11.19-01.19.40:566][238]AssetCheck: /Game/Assets/Torches/Sprites/torch_4_Sprite Validating asset
+[2024.11.19-01.20.24:034][639]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.19-01.20.34:582][855]LogContentBrowser: Deferred new asset file creation: coin
+[2024.11.19-01.20.34:596][855]LogContentBrowser: Creating deferred item: coin
+[2024.11.19-01.20.34:608][856]LogContentBrowser: Renaming the item being created (Deferred Item: coin).
+[2024.11.19-01.20.39:438][436]LogContentBrowser: Attempting asset rename: coin -> FB_Coin
+[2024.11.19-01.20.39:439][436]LogContentBrowser: End creating deferred item coin
+[2024.11.19-01.20.42:870][844]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin
+[2024.11.19-01.20.42:872][844]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.11.19-01.20.51:960][875]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin
+[2024.11.19-01.20.51:960][875]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin
+[2024.11.19-01.20.51:961][875]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_0
+[2024.11.19-01.20.51:961][875]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_0
+[2024.11.19-01.20.53:624][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.19-01.20.53:626][ 72]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2024.11.19-01.20.53:629][ 72]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin
+[2024.11.19-01.20.53:629][ 72]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin
+[2024.11.19-01.20.53:630][ 72]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_1
+[2024.11.19-01.20.53:630][ 72]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Coins/Sprites/FB_Coin.FB_Coin as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_1
+[2024.11.19-01.20.56:451][400]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2024.11.19-01.21.02:525][118]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: ================================================
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Total job queries 144, among them cache hits 10 (6.94%), DDC hits 126 (87.50%), Duplicates 2 (1.39%)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Tracking 132 distinct input hashes that result in 129 distinct outputs (97.73%)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: RAM used: 112.47 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Average time worker was idle: 455.84 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 1.21 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 1.26
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Shader code size: average 7.273 KiB, min 4.102 KiB, max 12.086 KiB
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.12 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Average processing rate: 2.83 jobs/sec
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Total thread time: 1.69 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Total thread preprocess time: 2.5 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Percentage time preprocessing: 147.92%
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                    TVoxelizeVolumePS<VMode_Primitive_Sphere> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 45.10% of total time (compiled    3 times, average 0.25 sec, max 0.30 sec, min 0.23 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 30.72% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                                  FHitProxyPS - 12.55% of total time (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                                                  FHitProxyVS - 11.63% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display:                    TVoxelizeVolumePS<VMode_Primitive_Sphere> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: === Material stats ===
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Materials Translated:    125
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Material Translation Only: 0.02 s (39%)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: Material Cache Hits: 40 (32%)
+[2024.11.19-01.21.15:350][621]LogShaderCompilers: Display: ================================================
+[2024.11.19-01.21.49:672][695]LogContentBrowser: Deferred new asset file creation: side_torch
+[2024.11.19-01.21.49:677][695]LogContentBrowser: Creating deferred item: side_torch
+[2024.11.19-01.21.49:685][696]LogContentBrowser: Renaming the item being created (Deferred Item: side_torch).
+[2024.11.19-01.21.56:421][505]LogContentBrowser: Attempting asset rename: side_torch -> FB_SideTorch
+[2024.11.19-01.21.56:421][505]LogContentBrowser: End creating deferred item side_torch
+[2024.11.19-01.22.03:939][373]LogContentBrowser: Deferred new asset file creation: torch
+[2024.11.19-01.22.03:944][373]LogContentBrowser: Creating deferred item: torch
+[2024.11.19-01.22.03:951][374]LogContentBrowser: Renaming the item being created (Deferred Item: torch).
+[2024.11.19-01.22.07:929][852]LogContentBrowser: Attempting asset rename: torch -> FB_Torch
+[2024.11.19-01.22.07:929][852]LogContentBrowser: End creating deferred item torch
+[2024.11.19-01.22.14:290][551]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.19-01.22.14:296][551]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.19-01.22.14:301][552]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.19-01.22.21:198][380]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.11.19-01.22.21:198][380]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.19-01.22.40:208][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.22.40:208][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Torches/FB_SideTorch] ([1] browsable assets)...
+[2024.11.19-01.22.40:210][585]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Torches/FB_SideTorch.FB_SideTorch]
+[2024.11.19-01.22.40:210][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Torches/FB_SideTorch]
+[2024.11.19-01.22.40:211][585]LogSavePackage: Moving output files for package: /Game/Assets/Torches/FB_SideTorch
+[2024.11.19-01.22.40:211][585]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_SideTorch4932FE744775B76BA3F573A742801FC5.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/FB_SideTorch.uasset'
+[2024.11.19-01.22.40:211][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.091 ms (total: 506.515 ms)
+[2024.11.19-01.22.40:234][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.22.40:242][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.22.40:249][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.11.19-01.22.40:262][585]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.22.40:262][585]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.22.40:262][585]LogContentValidation: Enabled validators:
+[2024.11.19-01.22.40:262][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.22.40:262][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.22.40:262][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.22.40:262][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.22.40:262][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.22.40:262][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.22.40:262][585]AssetCheck: /Game/Assets/Torches/FB_SideTorch Validating asset
+[2024.11.19-01.22.51:882][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.22.51:883][914]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Torches/FB_Torch] ([1] browsable assets)...
+[2024.11.19-01.22.51:884][914]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Torches/FB_Torch.FB_Torch]
+[2024.11.19-01.22.51:884][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Torches/FB_Torch]
+[2024.11.19-01.22.51:884][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Torches/FB_Torch" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/FB_Torch.uasset" SILENT=true
+[2024.11.19-01.22.51:884][914]LogSavePackage: Moving output files for package: /Game/Assets/Torches/FB_Torch
+[2024.11.19-01.22.51:884][914]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_TorchC25277BA4DFD055C7C8BEA871666C7BB.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/FB_Torch.uasset'
+[2024.11.19-01.22.51:885][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.426 ms (total: 508.942 ms)
+[2024.11.19-01.22.51:906][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.22.51:913][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.22.51:920][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.22.51:933][914]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.22.51:933][914]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.22.51:933][914]LogContentValidation: Enabled validators:
+[2024.11.19-01.22.51:933][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.22.51:933][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.22.51:933][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.22.51:933][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.22.51:933][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.22.51:933][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.22.51:933][914]AssetCheck: /Game/Assets/Torches/FB_Torch Validating asset
+[2024.11.19-01.23.07:126][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.23.07:126][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Coins/FB_Coin] ([1] browsable assets)...
+[2024.11.19-01.23.07:128][643]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Coins/FB_Coin.FB_Coin]
+[2024.11.19-01.23.07:128][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Coins/FB_Coin]
+[2024.11.19-01.23.07:128][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Coins/FB_Coin" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Coins/FB_Coin.uasset" SILENT=true
+[2024.11.19-01.23.07:128][643]LogSavePackage: Moving output files for package: /Game/Assets/Coins/FB_Coin
+[2024.11.19-01.23.07:128][643]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Coin9993B8884301E68E05F10FAC8A8CB487.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Coins/FB_Coin.uasset'
+[2024.11.19-01.23.07:128][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.147 ms (total: 512.090 ms)
+[2024.11.19-01.23.07:153][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.23.07:159][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.23.07:166][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.23.07:180][643]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.23.07:180][643]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.23.07:180][643]LogContentValidation: Enabled validators:
+[2024.11.19-01.23.07:180][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.23.07:180][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.23.07:180][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.23.07:180][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.23.07:180][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.23.07:180][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.23.07:180][643]AssetCheck: /Game/Assets/Coins/FB_Coin Validating asset
+[2024.11.19-01.24.42:282][979]LogContentBrowser: Deferred new asset file creation: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.24.42:288][979]LogContentBrowser: Creating deferred item: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.24.42:297][980]LogContentBrowser: Renaming the item being created (Deferred Item: itch_light_atk_sheet-Sheet1).
+[2024.11.19-01.24.52:242][174]LogContentBrowser: Attempting asset rename: itch_light_atk_sheet-Sheet1 -> FB_Attack
+[2024.11.19-01.24.52:243][174]LogContentBrowser: End creating deferred item itch_light_atk_sheet-Sheet1
+[2024.11.19-01.24.54:117][396]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/RedHood/Sprite/Attack/FB_Attack.FB_Attack
+[2024.11.19-01.24.54:117][396]LogChaosDD: Creating Chaos Debug Draw Scene for world World_4
+[2024.11.19-01.27.34:347][187]LogContentBrowser: Deferred new asset file creation: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.27.34:351][187]LogContentBrowser: Creating deferred item: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.27.34:358][188]LogContentBrowser: Renaming the item being created (Deferred Item: itch_light_atk_sheet-Sheet1).
+[2024.11.19-01.27.45:162][485]LogContentBrowser: Attempting asset rename: itch_light_atk_sheet-Sheet1 -> FB_RedHood_Attack1
+[2024.11.19-01.27.45:163][485]LogContentBrowser: End creating deferred item itch_light_atk_sheet-Sheet1
+[2024.11.19-01.28.10:991][545]LogContentBrowser: Deferred new asset file creation: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.28.10:995][545]LogContentBrowser: Creating deferred item: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.28.11:001][546]LogContentBrowser: Renaming the item being created (Deferred Item: itch_light_atk_sheet-Sheet1).
+[2024.11.19-01.28.21:864][850]LogContentBrowser: Attempting asset rename: itch_light_atk_sheet-Sheet1 -> FB_RedHood_Attack2
+[2024.11.19-01.28.21:865][850]LogContentBrowser: End creating deferred item itch_light_atk_sheet-Sheet1
+[2024.11.19-01.28.33:717][242]LogContentBrowser: Deferred new asset file creation: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.28.33:729][242]LogContentBrowser: Creating deferred item: itch_light_atk_sheet-Sheet1
+[2024.11.19-01.28.33:742][243]LogContentBrowser: Renaming the item being created (Deferred Item: itch_light_atk_sheet-Sheet1).
+[2024.11.19-01.28.44:171][495]LogContentBrowser: Attempting asset rename: itch_light_atk_sheet-Sheet1 -> FB_RedHood_Attack3
+[2024.11.19-01.28.44:172][495]LogContentBrowser: End creating deferred item itch_light_atk_sheet-Sheet1
+[2024.11.19-01.29.52:403][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.29.52:403][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_Attack1] ([1] browsable assets)...
+[2024.11.19-01.29.52:404][570]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Attack1.FB_RedHood_Attack1]
+[2024.11.19-01.29.52:404][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_Attack1]
+[2024.11.19-01.29.52:405][570]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_Attack1
+[2024.11.19-01.29.52:405][570]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Attack17ACB74094C2D699A2FEAB0AD5B504790.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Attack1.uasset'
+[2024.11.19-01.29.52:406][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_Attack2] ([1] browsable assets)...
+[2024.11.19-01.29.52:407][570]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Attack2.FB_RedHood_Attack2]
+[2024.11.19-01.29.52:407][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_Attack2]
+[2024.11.19-01.29.52:408][570]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_Attack2
+[2024.11.19-01.29.52:408][570]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Attack28A0F3D57423D0ED3960C35BFAB29A95E.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Attack2.uasset'
+[2024.11.19-01.29.52:408][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_Attack3] ([1] browsable assets)...
+[2024.11.19-01.29.52:409][570]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Attack3.FB_RedHood_Attack3]
+[2024.11.19-01.29.52:409][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_Attack3]
+[2024.11.19-01.29.52:410][570]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_Attack3
+[2024.11.19-01.29.52:410][570]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Attack36EBEEC0D4ACCA7E652FDD1B3009D60B0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Attack3.uasset'
+[2024.11.19-01.29.52:410][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.278 ms (total: 519.368 ms)
+[2024.11.19-01.29.52:479][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.11.19-01.29.52:486][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.19-01.29.52:493][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.11.19-01.29.52:506][570]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.29.52:506][570]LogContentValidation: Display: Starting to validate 3 assets
+[2024.11.19-01.29.52:506][570]LogContentValidation: Enabled validators:
+[2024.11.19-01.29.52:506][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.29.52:506][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.29.52:506][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.29.52:506][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.29.52:506][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.29.52:507][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.29.52:507][570]AssetCheck: /Game/Assets/RedHood/FB_RedHood_Attack1 Validating asset
+[2024.11.19-01.29.52:507][570]AssetCheck: /Game/Assets/RedHood/FB_RedHood_Attack2 Validating asset
+[2024.11.19-01.29.52:507][570]AssetCheck: /Game/Assets/RedHood/FB_RedHood_Attack3 Validating asset
+[2024.11.19-01.29.55:639][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.29.57:336][930]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.19-01.29.57:372][930]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-01.29.57:372][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-01.29.57:378][930]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/RedHood/Sprite/Attack/FB_Attack.FB_Attack
+	Asset Type: PaperFlipbook
+[2024.11.19-01.29.57:469][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.29.57:478][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.19-01.29.57:489][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.29.57:499][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.30.23:233][943]LogContentBrowser: Attempting asset rename: itch_jump_sheet-Sheet_Sprite_0 -> itch_jump_sheet-Sheet_Sprite_0
+[2024.11.19-01.30.28:561][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.11.19-01.30.28:567][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestMap_Auto2
+[2024.11.19-01.30.28:567][575]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TestMap_Auto2212E45664DED4B1BC898E0A6005107AF.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Maps/TestMap_Auto2.umap'
+[2024.11.19-01.30.28:567][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.015
+[2024.11.19-01.30.28:567][575]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2024.11.19-01.30.33:124][102]LogContentBrowser: Deferred new asset file creation: itch_jump_sheet-Sheet1
+[2024.11.19-01.30.33:134][102]LogContentBrowser: Creating deferred item: itch_jump_sheet-Sheet1
+[2024.11.19-01.30.33:141][103]LogContentBrowser: Renaming the item being created (Deferred Item: itch_jump_sheet-Sheet1).
+[2024.11.19-01.30.36:904][555]LogContentBrowser: Attempting asset rename: itch_jump_sheet-Sheet1 -> FB_FullJump
+[2024.11.19-01.30.36:904][555]LogContentBrowser: End creating deferred item itch_jump_sheet-Sheet1
+[2024.11.19-01.30.45:458][538]LogContentBrowser: Deferred new asset file creation: itch_jump_sheet-Sheet1
+[2024.11.19-01.30.45:463][538]LogContentBrowser: Creating deferred item: itch_jump_sheet-Sheet1
+[2024.11.19-01.30.45:469][539]LogContentBrowser: Renaming the item being created (Deferred Item: itch_jump_sheet-Sheet1).
+[2024.11.19-01.30.56:948][917]LogContentBrowser: Attempting asset rename: itch_jump_sheet-Sheet1 -> FB_RedHood_JumpStart
+[2024.11.19-01.30.56:949][917]LogContentBrowser: End creating deferred item itch_jump_sheet-Sheet1
+[2024.11.19-01.31.11:037][586]LogContentBrowser: Deferred new asset file creation: itch_jump_sheet-Sheet1
+[2024.11.19-01.31.11:041][586]LogContentBrowser: Creating deferred item: itch_jump_sheet-Sheet1
+[2024.11.19-01.31.11:047][587]LogContentBrowser: Renaming the item being created (Deferred Item: itch_jump_sheet-Sheet1).
+[2024.11.19-01.31.18:260][453]LogContentBrowser: Attempting asset rename: itch_jump_sheet-Sheet1 -> FB_RedHood_JumpLoop
+[2024.11.19-01.31.18:260][453]LogContentBrowser: End creating deferred item itch_jump_sheet-Sheet1
+[2024.11.19-01.31.30:175][843]LogContentBrowser: Deferred new asset file creation: itch_jump_sheet-Sheet1
+[2024.11.19-01.31.30:179][843]LogContentBrowser: Creating deferred item: itch_jump_sheet-Sheet1
+[2024.11.19-01.31.30:184][844]LogContentBrowser: Renaming the item being created (Deferred Item: itch_jump_sheet-Sheet1).
+[2024.11.19-01.31.36:380][588]LogContentBrowser: Attempting asset rename: itch_jump_sheet-Sheet1 -> FB_RedHood_JumpEnd
+[2024.11.19-01.31.36:381][588]LogContentBrowser: End creating deferred item itch_jump_sheet-Sheet1
+[2024.11.19-01.31.53:300][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.31.53:300][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_JumpEnd] ([1] browsable assets)...
+[2024.11.19-01.31.53:302][542]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_JumpEnd.FB_RedHood_JumpEnd]
+[2024.11.19-01.31.53:302][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_JumpEnd]
+[2024.11.19-01.31.53:302][542]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_JumpEnd
+[2024.11.19-01.31.53:302][542]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_JumpEndFC3DFB024C24689A322DA19F64275A0B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_JumpEnd.uasset'
+[2024.11.19-01.31.53:303][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_JumpLoop] ([1] browsable assets)...
+[2024.11.19-01.31.53:304][542]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_JumpLoop.FB_RedHood_JumpLoop]
+[2024.11.19-01.31.53:304][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_JumpLoop]
+[2024.11.19-01.31.53:305][542]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_JumpLoop
+[2024.11.19-01.31.53:305][542]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_JumpLoop5C70D8864D8768F34FCE49821F0883E8.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_JumpLoop.uasset'
+[2024.11.19-01.31.53:305][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_JumpStart] ([1] browsable assets)...
+[2024.11.19-01.31.53:306][542]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_JumpStart.FB_RedHood_JumpStart]
+[2024.11.19-01.31.53:306][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_JumpStart]
+[2024.11.19-01.31.53:307][542]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_JumpStart
+[2024.11.19-01.31.53:307][542]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_JumpStartB06B6E1D4CACADAE1EAC3D95DA507E07.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_JumpStart.uasset'
+[2024.11.19-01.31.53:307][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.601 ms (total: 525.969 ms)
+[2024.11.19-01.31.53:353][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.19-01.31.53:361][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.31.53:368][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.31.53:379][542]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.31.53:379][542]LogContentValidation: Display: Starting to validate 3 assets
+[2024.11.19-01.31.53:379][542]LogContentValidation: Enabled validators:
+[2024.11.19-01.31.53:379][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.31.53:379][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.31.53:379][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.31.53:379][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.31.53:379][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.31.53:379][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.31.53:379][542]AssetCheck: /Game/Assets/RedHood/FB_RedHood_JumpEnd Validating asset
+[2024.11.19-01.31.53:379][542]AssetCheck: /Game/Assets/RedHood/FB_RedHood_JumpLoop Validating asset
+[2024.11.19-01.31.53:379][542]AssetCheck: /Game/Assets/RedHood/FB_RedHood_JumpStart Validating asset
+[2024.11.19-01.31.57:431][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.31.59:331][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.19-01.31.59:349][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.31.59:364][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.19-01.31.59:370][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.32.20:023][445]LogContentBrowser: Deferred new asset file creation: itch_hurt_2_sheet-Sheet1
+[2024.11.19-01.32.20:027][445]LogContentBrowser: Creating deferred item: itch_hurt_2_sheet-Sheet1
+[2024.11.19-01.32.20:033][446]LogContentBrowser: Renaming the item being created (Deferred Item: itch_hurt_2_sheet-Sheet1).
+[2024.11.19-01.32.25:655][121]LogContentBrowser: Attempting asset rename: itch_hurt_2_sheet-Sheet1 -> FB_RedHood_Hurt
+[2024.11.19-01.32.25:655][121]LogContentBrowser: End creating deferred item itch_hurt_2_sheet-Sheet1
+[2024.11.19-01.32.30:253][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.32.30:253][629]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_Hurt] ([1] browsable assets)...
+[2024.11.19-01.32.30:254][629]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Hurt.FB_RedHood_Hurt]
+[2024.11.19-01.32.30:254][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_Hurt]
+[2024.11.19-01.32.30:255][629]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_Hurt
+[2024.11.19-01.32.30:255][629]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Hurt32E566F940C24997D1A70DA3F1713C6C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Hurt.uasset'
+[2024.11.19-01.32.30:255][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.488 ms (total: 528.458 ms)
+[2024.11.19-01.32.30:277][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.19-01.32.30:286][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.32.30:292][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.32.30:304][629]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.32.30:304][629]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.32.30:304][629]LogContentValidation: Enabled validators:
+[2024.11.19-01.32.30:304][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.32.30:304][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.32.30:304][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.32.30:304][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.32.30:304][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.32.30:304][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.32.30:305][629]AssetCheck: /Game/Assets/RedHood/FB_RedHood_Hurt Validating asset
+[2024.11.19-01.32.38:534][554]LogContentBrowser: Deferred new asset file creation: idle_sheet-Sheet1
+[2024.11.19-01.32.38:538][554]LogContentBrowser: Creating deferred item: idle_sheet-Sheet1
+[2024.11.19-01.32.38:544][555]LogContentBrowser: Renaming the item being created (Deferred Item: idle_sheet-Sheet1).
+[2024.11.19-01.32.45:183][352]LogContentBrowser: Attempting asset rename: idle_sheet-Sheet1 -> FB_RedHood_Idle
+[2024.11.19-01.32.45:183][352]LogContentBrowser: End creating deferred item idle_sheet-Sheet1
+[2024.11.19-01.32.50:815][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.32.50:815][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_Idle] ([1] browsable assets)...
+[2024.11.19-01.32.50:816][982]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle]
+[2024.11.19-01.32.50:816][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_Idle]
+[2024.11.19-01.32.50:817][982]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_Idle
+[2024.11.19-01.32.50:817][982]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Idle996A86A740C89B7C4FD098B583A6E17A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Idle.uasset'
+[2024.11.19-01.32.50:817][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.551 ms (total: 531.010 ms)
+[2024.11.19-01.32.50:846][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.19-01.32.50:862][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.19-01.32.50:872][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.11.19-01.32.50:885][982]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.32.50:885][982]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.32.50:885][982]LogContentValidation: Enabled validators:
+[2024.11.19-01.32.50:885][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.32.50:885][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.32.50:885][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.32.50:885][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.32.50:885][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.32.50:885][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.32.50:885][982]AssetCheck: /Game/Assets/RedHood/FB_RedHood_Idle Validating asset
+[2024.11.19-01.33.06:249][768]LogContentBrowser: Deferred new asset file creation: itch_run-Sheet_sheet1
+[2024.11.19-01.33.06:260][768]LogContentBrowser: Creating deferred item: itch_run-Sheet_sheet1
+[2024.11.19-01.33.06:267][769]LogContentBrowser: Renaming the item being created (Deferred Item: itch_run-Sheet_sheet1).
+[2024.11.19-01.33.17:373][102]LogContentBrowser: Attempting asset rename: itch_run-Sheet_sheet1 -> FB_RedHood_Run
+[2024.11.19-01.33.17:373][102]LogContentBrowser: End creating deferred item itch_run-Sheet_sheet1
+[2024.11.19-01.33.25:246][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.33.25:246][987]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/RedHood/FB_RedHood_Run] ([1] browsable assets)...
+[2024.11.19-01.33.25:247][987]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Run.FB_RedHood_Run]
+[2024.11.19-01.33.25:247][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/RedHood/FB_RedHood_Run]
+[2024.11.19-01.33.25:249][987]LogSavePackage: Moving output files for package: /Game/Assets/RedHood/FB_RedHood_Run
+[2024.11.19-01.33.25:249][987]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Run0F6D63514CEDCC17C8FF6D92D8E1E926.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Run.uasset'
+[2024.11.19-01.33.25:249][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.091 ms (total: 534.102 ms)
+[2024.11.19-01.33.25:275][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.19-01.33.25:283][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.33.25:288][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.33.25:300][987]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.33.25:300][987]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.33.25:300][987]LogContentValidation: Enabled validators:
+[2024.11.19-01.33.25:300][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.33.25:300][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.33.25:300][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.33.25:300][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.33.25:300][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.33.25:300][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.33.25:300][987]AssetCheck: /Game/Assets/RedHood/FB_RedHood_Run Validating asset
+[2024.11.19-01.33.56:362][634]LogContentBrowser: Deferred new asset file creation: Skeleton_Attack1
+[2024.11.19-01.33.56:375][634]LogContentBrowser: Creating deferred item: Skeleton_Attack1
+[2024.11.19-01.33.56:380][635]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_Attack1).
+[2024.11.19-01.34.12:845][611]LogContentBrowser: Attempting asset rename: Skeleton_Attack1 -> FB_Skeleton_FullAttack
+[2024.11.19-01.34.12:845][611]LogContentBrowser: End creating deferred item Skeleton_Attack1
+[2024.11.19-01.34.14:701][823]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Skeletons/Sprites/Attack/FB_Skeleton_FullAttack.FB_Skeleton_FullAttack
+[2024.11.19-01.34.14:702][823]LogChaosDD: Creating Chaos Debug Draw Scene for world World_5
+[2024.11.19-01.34.28:410][434]LogContentBrowser: Attempting asset rename: FB_Skeleton_FullAttack -> FB_Skeleton_Attack
+[2024.11.19-01.34.28:500][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.34.28:500][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack] ([1] browsable assets)...
+[2024.11.19-01.34.28:502][434]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack.FB_Skeleton_Attack]
+[2024.11.19-01.34.28:502][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack]
+[2024.11.19-01.34.28:503][434]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack
+[2024.11.19-01.34.28:503][434]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_AttackB03056B544337614537240B0D9B0D6A4.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack.uasset'
+[2024.11.19-01.34.28:503][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.941 ms (total: 537.043 ms)
+[2024.11.19-01.34.28:529][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.34.28:536][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.34.28:543][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.34.28:584][434]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.34.28:584][434]LogContentValidation: Enabled validators:
+[2024.11.19-01.34.28:584][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.34.28:584][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.34.28:584][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.34.28:584][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.34.28:584][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.34.28:584][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.34.28:584][434]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack Validating asset
+[2024.11.19-01.34.34:995][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.34.34:995][129]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Skeletons/FB_Skeleton_Attack] ([1] browsable assets)...
+[2024.11.19-01.34.34:995][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/FB_Skeleton_Attack]
+[2024.11.19-01.34.34:996][129]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/FB_Skeleton_Attack
+[2024.11.19-01.34.34:996][129]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_Attack70E2188243AEEE2E2188669166933DEA.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Attack.uasset'
+[2024.11.19-01.34.34:996][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.484 ms (total: 538.527 ms)
+[2024.11.19-01.34.35:020][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.19-01.34.35:027][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.34.35:039][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.34.35:051][129]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.34.35:051][129]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.34.35:051][129]LogContentValidation: Enabled validators:
+[2024.11.19-01.34.35:051][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.34.35:051][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.34.35:051][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.34.35:051][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.34.35:051][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.34.35:051][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.34.35:051][129]AssetCheck: /Game/Assets/Skeletons/FB_Skeleton_Attack Validating asset
+[2024.11.19-01.34.43:260][ 55]LogContentBrowser: Deferred new asset file creation: Skeleton_Dead1
+[2024.11.19-01.34.43:264][ 55]LogContentBrowser: Creating deferred item: Skeleton_Dead1
+[2024.11.19-01.34.43:270][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_Dead1).
+[2024.11.19-01.34.52:467][160]LogContentBrowser: Attempting asset rename: Skeleton_Dead1 -> FB_Skeleton_Dead
+[2024.11.19-01.34.52:467][160]LogContentBrowser: End creating deferred item Skeleton_Dead1
+[2024.11.19-01.34.57:807][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.34.57:807][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/FB_Skeleton_Dead] ([1] browsable assets)...
+[2024.11.19-01.34.57:810][761]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Dead.FB_Skeleton_Dead]
+[2024.11.19-01.34.57:810][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/FB_Skeleton_Dead]
+[2024.11.19-01.34.57:811][761]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/FB_Skeleton_Dead
+[2024.11.19-01.34.57:811][761]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_Dead0C2EB69C46DF0F0912C9D8A0B96E601C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Dead.uasset'
+[2024.11.19-01.34.57:812][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.567 ms (total: 543.095 ms)
+[2024.11.19-01.34.57:835][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.34.57:842][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.34.57:850][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.34.57:861][761]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.34.57:861][761]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.34.57:861][761]LogContentValidation: Enabled validators:
+[2024.11.19-01.34.57:861][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.34.57:862][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.34.57:862][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.34.57:862][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.34.57:862][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.34.57:862][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.34.57:862][761]AssetCheck: /Game/Assets/Skeletons/FB_Skeleton_Dead Validating asset
+[2024.11.19-01.35.08:702][ 28]LogContentBrowser: Deferred new asset file creation: Skeleton_Hit1
+[2024.11.19-01.35.08:714][ 28]LogContentBrowser: Creating deferred item: Skeleton_Hit1
+[2024.11.19-01.35.08:721][ 29]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_Hit1).
+[2024.11.19-01.35.15:542][848]LogContentBrowser: Attempting asset rename: Skeleton_Hit1 -> FB_Skeleton_Hit
+[2024.11.19-01.35.15:543][848]LogContentBrowser: End creating deferred item Skeleton_Hit1
+[2024.11.19-01.35.20:340][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.35.20:340][379]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/FB_Skeleton_Hit] ([1] browsable assets)...
+[2024.11.19-01.35.20:343][379]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Hit.FB_Skeleton_Hit]
+[2024.11.19-01.35.20:343][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/FB_Skeleton_Hit]
+[2024.11.19-01.35.20:344][379]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/FB_Skeleton_Hit
+[2024.11.19-01.35.20:344][379]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_Hit0D9F6D0C425E1FAD76EBCA84A9434883.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Hit.uasset'
+[2024.11.19-01.35.20:345][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.444 ms (total: 547.539 ms)
+[2024.11.19-01.35.20:367][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.35.20:374][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.19-01.35.20:381][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.35.20:393][379]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.35.20:393][379]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.35.20:393][379]LogContentValidation: Enabled validators:
+[2024.11.19-01.35.20:393][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.35.20:393][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.35.20:393][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.35.20:393][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.35.20:393][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.35.20:393][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.35.20:393][379]AssetCheck: /Game/Assets/Skeletons/FB_Skeleton_Hit Validating asset
+[2024.11.19-01.35.26:672][ 83]LogContentBrowser: Deferred new asset file creation: Skeleton_Idle1
+[2024.11.19-01.35.26:684][ 83]LogContentBrowser: Creating deferred item: Skeleton_Idle1
+[2024.11.19-01.35.26:690][ 84]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_Idle1).
+[2024.11.19-01.35.34:895][ 69]LogContentBrowser: Attempting asset rename: Skeleton_Idle1 -> FB_Skeleton_Idle
+[2024.11.19-01.35.34:895][ 69]LogContentBrowser: End creating deferred item Skeleton_Idle1
+[2024.11.19-01.35.43:061][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.35.43:061][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/FB_Skeleton_Idle] ([1] browsable assets)...
+[2024.11.19-01.35.43:063][993]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle]
+[2024.11.19-01.35.43:063][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/FB_Skeleton_Idle]
+[2024.11.19-01.35.43:064][993]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/FB_Skeleton_Idle
+[2024.11.19-01.35.43:064][993]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_IdleF686F0A2464B07EBA044ACABFA170468.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Idle.uasset'
+[2024.11.19-01.35.43:065][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.717 ms (total: 551.257 ms)
+[2024.11.19-01.35.43:088][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.11.19-01.35.43:096][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.35.43:103][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.11.19-01.35.43:115][993]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.35.43:115][993]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.35.43:115][993]LogContentValidation: Enabled validators:
+[2024.11.19-01.35.43:115][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.35.43:115][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.35.43:115][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.35.43:115][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.35.43:115][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.35.43:115][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.35.43:115][993]AssetCheck: /Game/Assets/Skeletons/FB_Skeleton_Idle Validating asset
+[2024.11.19-01.35.48:993][649]LogContentBrowser: Deferred new asset file creation: Skeleton_React1
+[2024.11.19-01.35.48:997][649]LogContentBrowser: Creating deferred item: Skeleton_React1
+[2024.11.19-01.35.49:003][650]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_React1).
+[2024.11.19-01.35.54:999][370]LogContentBrowser: Attempting asset rename: Skeleton_React1 -> FB_Skeleton_React
+[2024.11.19-01.35.54:999][370]LogContentBrowser: End creating deferred item Skeleton_React1
+[2024.11.19-01.35.59:708][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.35.59:709][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/FB_Skeleton_React] ([1] browsable assets)...
+[2024.11.19-01.35.59:710][885]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_React.FB_Skeleton_React]
+[2024.11.19-01.35.59:710][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/FB_Skeleton_React]
+[2024.11.19-01.35.59:710][885]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/FB_Skeleton_React
+[2024.11.19-01.35.59:710][885]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_ReactA0614D284EAD0FFF34B21C98072AD8A6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_React.uasset'
+[2024.11.19-01.35.59:711][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.362 ms (total: 554.619 ms)
+[2024.11.19-01.35.59:735][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.19-01.35.59:742][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.35.59:748][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.35.59:760][885]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.35.59:760][885]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.35.59:760][885]LogContentValidation: Enabled validators:
+[2024.11.19-01.35.59:760][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.35.59:760][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.35.59:760][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.35.59:760][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.35.59:760][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.35.59:760][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.35.59:761][885]AssetCheck: /Game/Assets/Skeletons/FB_Skeleton_React Validating asset
+[2024.11.19-01.36.10:545][128]LogContentBrowser: Deferred new asset file creation: Skeleton_Walk1
+[2024.11.19-01.36.10:549][128]LogContentBrowser: Creating deferred item: Skeleton_Walk1
+[2024.11.19-01.36.10:554][129]LogContentBrowser: Renaming the item being created (Deferred Item: Skeleton_Walk1).
+[2024.11.19-01.36.19:159][162]LogContentBrowser: Attempting asset rename: Skeleton_Walk1 -> FB_Skeleton_Walk
+[2024.11.19-01.36.19:160][162]LogContentBrowser: End creating deferred item Skeleton_Walk1
+[2024.11.19-01.36.27:309][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.36.27:309][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/FB_Skeleton_Walk] ([1] browsable assets)...
+[2024.11.19-01.36.27:310][ 82]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Walk.FB_Skeleton_Walk]
+[2024.11.19-01.36.27:310][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/FB_Skeleton_Walk]
+[2024.11.19-01.36.27:311][ 82]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/FB_Skeleton_Walk
+[2024.11.19-01.36.27:311][ 82]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_Skeleton_WalkD3C3AA764D819B416E29A2A82B613E01.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Walk.uasset'
+[2024.11.19-01.36.27:312][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.339 ms (total: 557.959 ms)
+[2024.11.19-01.36.27:337][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.11.19-01.36.27:349][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.11.19-01.36.27:360][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.36.27:373][ 82]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: Enabled validators:
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.36.27:373][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.36.27:373][ 82]AssetCheck: /Game/Assets/Skeletons/FB_Skeleton_Walk Validating asset
+[2024.11.19-01.37.55:681][589]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle
+[2024.11.19-01.37.55:681][589]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle
+[2024.11.19-01.37.55:682][589]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_2
+[2024.11.19-01.37.55:682][589]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_2
+[2024.11.19-01.37.56:976][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.19-01.37.56:977][743]LogEditorActor: Deleted 0 Actors (0.008 secs)
+[2024.11.19-01.37.56:980][743]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle
+[2024.11.19-01.37.56:981][743]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle
+[2024.11.19-01.37.56:982][743]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_3
+[2024.11.19-01.37.56:982][743]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/RedHood/FB_RedHood_Idle.FB_RedHood_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_3
+[2024.11.19-01.38.14:190][775]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle
+[2024.11.19-01.38.14:190][775]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle
+[2024.11.19-01.38.14:191][775]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_4
+[2024.11.19-01.38.14:191][775]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_4
+[2024.11.19-01.38.17:238][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.38.17:239][139]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2024.11.19-01.38.17:242][139]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle
+[2024.11.19-01.38.17:242][139]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle
+[2024.11.19-01.38.17:243][139]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_5
+[2024.11.19-01.38.17:243][139]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Skeletons/FB_Skeleton_Idle.FB_Skeleton_Idle as actor: PaperFlipbookActor /Game/Maps/TestMap.TestMap:PersistentLevel.PaperFlipbookActor_5
+[2024.11.19-01.40.17:515][420]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2024.11.19-01.41.20:659][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.41.20:691][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_0] ([1] browsable assets)...
+[2024.11.19-01.41.20:692][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_0.Skeleton_Attack_Sprite_0]
+[2024.11.19-01.41.20:692][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_0]
+[2024.11.19-01.41.20:693][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_0
+[2024.11.19-01.41.20:694][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_0B1D1B08A471CF68540AC75896A9638AD.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_0.uasset'
+[2024.11.19-01.41.20:694][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_1] ([1] browsable assets)...
+[2024.11.19-01.41.20:695][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_1.Skeleton_Attack_Sprite_1]
+[2024.11.19-01.41.20:695][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_1]
+[2024.11.19-01.41.20:696][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_1
+[2024.11.19-01.41.20:696][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_128A8862D48FE4780D68BD9AB21AE5266.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_1.uasset'
+[2024.11.19-01.41.20:697][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_2] ([1] browsable assets)...
+[2024.11.19-01.41.20:698][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_2.Skeleton_Attack_Sprite_2]
+[2024.11.19-01.41.20:698][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_2]
+[2024.11.19-01.41.20:699][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_2
+[2024.11.19-01.41.20:699][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_2FFD3EA5E4F78936E06BC6F8D46358340.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_2.uasset'
+[2024.11.19-01.41.20:700][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_3] ([1] browsable assets)...
+[2024.11.19-01.41.20:701][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_3.Skeleton_Attack_Sprite_3]
+[2024.11.19-01.41.20:701][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_3]
+[2024.11.19-01.41.20:702][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_3
+[2024.11.19-01.41.20:702][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_3CB6F936B4F4635F78319F6AFF92908B0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_3.uasset'
+[2024.11.19-01.41.20:703][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_4] ([1] browsable assets)...
+[2024.11.19-01.41.20:704][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_4.Skeleton_Attack_Sprite_4]
+[2024.11.19-01.41.20:704][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_4]
+[2024.11.19-01.41.20:705][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_4
+[2024.11.19-01.41.20:705][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_4B66985074D92BFDBCF25D3B2ECE55153.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_4.uasset'
+[2024.11.19-01.41.20:705][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_5] ([1] browsable assets)...
+[2024.11.19-01.41.20:706][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_5.Skeleton_Attack_Sprite_5]
+[2024.11.19-01.41.20:706][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_5]
+[2024.11.19-01.41.20:707][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_5
+[2024.11.19-01.41.20:707][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_5BF753792423A8E80AF48F7B04E4D80B4.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_5.uasset'
+[2024.11.19-01.41.20:708][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_6] ([1] browsable assets)...
+[2024.11.19-01.41.20:709][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_6.Skeleton_Attack_Sprite_6]
+[2024.11.19-01.41.20:709][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_6]
+[2024.11.19-01.41.20:709][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_6
+[2024.11.19-01.41.20:709][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_6B13A8F56455E127484F116A92A817A67.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_6.uasset'
+[2024.11.19-01.41.20:710][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_7] ([1] browsable assets)...
+[2024.11.19-01.41.20:711][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_7.Skeleton_Attack_Sprite_7]
+[2024.11.19-01.41.20:711][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_7]
+[2024.11.19-01.41.20:712][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_7
+[2024.11.19-01.41.20:712][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_781553109428E4094F5C6DAAF985FDC43.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_7.uasset'
+[2024.11.19-01.41.20:712][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_8] ([1] browsable assets)...
+[2024.11.19-01.41.20:713][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_8.Skeleton_Attack_Sprite_8]
+[2024.11.19-01.41.20:713][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_8]
+[2024.11.19-01.41.20:714][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_8
+[2024.11.19-01.41.20:714][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_8EB3C1D56473AFA951778F4BC68794E1B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_8.uasset'
+[2024.11.19-01.41.20:715][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_9] ([1] browsable assets)...
+[2024.11.19-01.41.20:716][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_9.Skeleton_Attack_Sprite_9]
+[2024.11.19-01.41.20:716][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_9]
+[2024.11.19-01.41.20:717][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_9
+[2024.11.19-01.41.20:717][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_9CD0A2CF642381DDEE08DD38F9779BA6A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_9.uasset'
+[2024.11.19-01.41.20:717][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_10] ([1] browsable assets)...
+[2024.11.19-01.41.20:718][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_10.Skeleton_Attack_Sprite_10]
+[2024.11.19-01.41.20:718][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_10]
+[2024.11.19-01.41.20:720][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_10
+[2024.11.19-01.41.20:720][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_10A799973E49384AC42A776080CAC0AD81.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_10.uasset'
+[2024.11.19-01.41.20:721][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_11] ([1] browsable assets)...
+[2024.11.19-01.41.20:722][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_11.Skeleton_Attack_Sprite_11]
+[2024.11.19-01.41.20:722][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_11]
+[2024.11.19-01.41.20:722][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_11
+[2024.11.19-01.41.20:723][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_11EDA57184484ADE4541F8758E8A71BFFA.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_11.uasset'
+[2024.11.19-01.41.20:723][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_12] ([1] browsable assets)...
+[2024.11.19-01.41.20:724][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_12.Skeleton_Attack_Sprite_12]
+[2024.11.19-01.41.20:724][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_12]
+[2024.11.19-01.41.20:725][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_12
+[2024.11.19-01.41.20:725][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_12E88417E74C780C7A4FB50D92A0079652.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_12.uasset'
+[2024.11.19-01.41.20:726][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_13] ([1] browsable assets)...
+[2024.11.19-01.41.20:727][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_13.Skeleton_Attack_Sprite_13]
+[2024.11.19-01.41.20:727][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_13]
+[2024.11.19-01.41.20:728][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_13
+[2024.11.19-01.41.20:728][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_13F933AA0B431151015A7333A87C8A6834.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_13.uasset'
+[2024.11.19-01.41.20:728][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_14] ([1] browsable assets)...
+[2024.11.19-01.41.20:729][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_14.Skeleton_Attack_Sprite_14]
+[2024.11.19-01.41.20:729][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_14]
+[2024.11.19-01.41.20:730][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_14
+[2024.11.19-01.41.20:730][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_14B99407B4456B6F0DC693D2ADF3CE035B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_14.uasset'
+[2024.11.19-01.41.20:731][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_15] ([1] browsable assets)...
+[2024.11.19-01.41.20:732][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_15.Skeleton_Attack_Sprite_15]
+[2024.11.19-01.41.20:732][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_15]
+[2024.11.19-01.41.20:733][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_15
+[2024.11.19-01.41.20:733][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_156FC19B4F4DD95C56E589D0862DF0F30D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_15.uasset'
+[2024.11.19-01.41.20:733][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_16] ([1] browsable assets)...
+[2024.11.19-01.41.20:734][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_16.Skeleton_Attack_Sprite_16]
+[2024.11.19-01.41.20:734][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_16]
+[2024.11.19-01.41.20:735][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_16
+[2024.11.19-01.41.20:735][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_1655F353CF49DB90BE86AE7CBCB40A540F.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_16.uasset'
+[2024.11.19-01.41.20:736][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_17] ([1] browsable assets)...
+[2024.11.19-01.41.20:737][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_17.Skeleton_Attack_Sprite_17]
+[2024.11.19-01.41.20:737][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_17]
+[2024.11.19-01.41.20:738][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_17
+[2024.11.19-01.41.20:738][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Attack_Sprite_177FAFC5874918C02B4C8907A82D316AA0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_17.uasset'
+[2024.11.19-01.41.20:739][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_0] ([1] browsable assets)...
+[2024.11.19-01.41.20:740][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_0.Skeleton_Dead_Sprite_0]
+[2024.11.19-01.41.20:740][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_0]
+[2024.11.19-01.41.20:740][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_0
+[2024.11.19-01.41.20:740][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_092FF66374F523F32D4490FAAFA8B2954.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_0.uasset'
+[2024.11.19-01.41.20:740][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_1] ([1] browsable assets)...
+[2024.11.19-01.41.20:742][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_1.Skeleton_Dead_Sprite_1]
+[2024.11.19-01.41.20:742][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_1]
+[2024.11.19-01.41.20:743][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_1
+[2024.11.19-01.41.20:743][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_149A26DE44E40428896C0419CBFB3CC48.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_1.uasset'
+[2024.11.19-01.41.20:744][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_2] ([1] browsable assets)...
+[2024.11.19-01.41.20:745][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_2.Skeleton_Dead_Sprite_2]
+[2024.11.19-01.41.20:745][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_2]
+[2024.11.19-01.41.20:746][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_2
+[2024.11.19-01.41.20:746][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_212CCF4784D96149C08CBC3A2C758CAC8.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_2.uasset'
+[2024.11.19-01.41.20:746][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_3] ([1] browsable assets)...
+[2024.11.19-01.41.20:747][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_3.Skeleton_Dead_Sprite_3]
+[2024.11.19-01.41.20:747][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_3]
+[2024.11.19-01.41.20:748][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_3
+[2024.11.19-01.41.20:748][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_39752571748578827B2C331A2D76DF49B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_3.uasset'
+[2024.11.19-01.41.20:749][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_4] ([1] browsable assets)...
+[2024.11.19-01.41.20:750][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_4.Skeleton_Dead_Sprite_4]
+[2024.11.19-01.41.20:750][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_4]
+[2024.11.19-01.41.20:751][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_4
+[2024.11.19-01.41.20:751][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_42F474C214608901CB30D76BC11A8F57B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_4.uasset'
+[2024.11.19-01.41.20:752][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_5] ([1] browsable assets)...
+[2024.11.19-01.41.20:753][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_5.Skeleton_Dead_Sprite_5]
+[2024.11.19-01.41.20:753][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_5]
+[2024.11.19-01.41.20:754][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_5
+[2024.11.19-01.41.20:754][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_5AE89BE0149923C26F4486B86BD9098E6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_5.uasset'
+[2024.11.19-01.41.20:754][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_6] ([1] browsable assets)...
+[2024.11.19-01.41.20:755][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_6.Skeleton_Dead_Sprite_6]
+[2024.11.19-01.41.20:755][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_6]
+[2024.11.19-01.41.20:756][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_6
+[2024.11.19-01.41.20:756][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_647D6395F41A76F0B365AF88F9C2C86C0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_6.uasset'
+[2024.11.19-01.41.20:756][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_7] ([1] browsable assets)...
+[2024.11.19-01.41.20:757][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_7.Skeleton_Dead_Sprite_7]
+[2024.11.19-01.41.20:757][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_7]
+[2024.11.19-01.41.20:758][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_7
+[2024.11.19-01.41.20:758][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_79C73EB1F44551BF1B8E1A6816E536C09.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_7.uasset'
+[2024.11.19-01.41.20:758][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_8] ([1] browsable assets)...
+[2024.11.19-01.41.20:760][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_8.Skeleton_Dead_Sprite_8]
+[2024.11.19-01.41.20:760][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_8]
+[2024.11.19-01.41.20:761][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_8
+[2024.11.19-01.41.20:761][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_8BA1713124D4C397B0724C99F4E1D3794.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_8.uasset'
+[2024.11.19-01.41.20:762][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_9] ([1] browsable assets)...
+[2024.11.19-01.41.20:763][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_9.Skeleton_Dead_Sprite_9]
+[2024.11.19-01.41.20:763][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_9]
+[2024.11.19-01.41.20:764][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_9
+[2024.11.19-01.41.20:764][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_90C125A3E48CFBE17E6710781B1C16493.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_9.uasset'
+[2024.11.19-01.41.20:764][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_10] ([1] browsable assets)...
+[2024.11.19-01.41.20:765][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_10.Skeleton_Dead_Sprite_10]
+[2024.11.19-01.41.20:765][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_10]
+[2024.11.19-01.41.20:766][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_10
+[2024.11.19-01.41.20:767][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_103783B51C4075E88B6A86C0A71DEBA2AF.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_10.uasset'
+[2024.11.19-01.41.20:767][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_11] ([1] browsable assets)...
+[2024.11.19-01.41.20:768][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_11.Skeleton_Dead_Sprite_11]
+[2024.11.19-01.41.20:768][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_11]
+[2024.11.19-01.41.20:769][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_11
+[2024.11.19-01.41.20:769][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_11C6CC0AE64CAC425BF91581B7DEC79762.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_11.uasset'
+[2024.11.19-01.41.20:770][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_12] ([1] browsable assets)...
+[2024.11.19-01.41.20:770][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_12.Skeleton_Dead_Sprite_12]
+[2024.11.19-01.41.20:770][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_12]
+[2024.11.19-01.41.20:771][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_12
+[2024.11.19-01.41.20:771][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_1270540E644283D10D4FFA94BD139C70E8.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_12.uasset'
+[2024.11.19-01.41.20:772][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_13] ([1] browsable assets)...
+[2024.11.19-01.41.20:773][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_13.Skeleton_Dead_Sprite_13]
+[2024.11.19-01.41.20:773][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_13]
+[2024.11.19-01.41.20:774][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_13
+[2024.11.19-01.41.20:774][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_13B6703F7240F93CFF342256BC50C62B17.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_13.uasset'
+[2024.11.19-01.41.20:775][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_14] ([1] browsable assets)...
+[2024.11.19-01.41.20:776][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_14.Skeleton_Dead_Sprite_14]
+[2024.11.19-01.41.20:776][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_14]
+[2024.11.19-01.41.20:776][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_14
+[2024.11.19-01.41.20:777][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Dead_Sprite_14CF1816844D24F0169BFAD6B3BF3C21B9.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_14.uasset'
+[2024.11.19-01.41.20:777][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_0] ([1] browsable assets)...
+[2024.11.19-01.41.20:778][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_0.Skeleton_Hit_Sprite_0]
+[2024.11.19-01.41.20:778][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_0]
+[2024.11.19-01.41.20:778][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_0
+[2024.11.19-01.41.20:780][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_0090BC7B74E7FBCADFE1626928CE77629.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_0.uasset'
+[2024.11.19-01.41.20:780][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_1] ([1] browsable assets)...
+[2024.11.19-01.41.20:781][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_1.Skeleton_Hit_Sprite_1]
+[2024.11.19-01.41.20:781][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_1]
+[2024.11.19-01.41.20:782][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_1
+[2024.11.19-01.41.20:782][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_1078DF36C4820D92FE0CE5288BBF5C8F9.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_1.uasset'
+[2024.11.19-01.41.20:783][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_2] ([1] browsable assets)...
+[2024.11.19-01.41.20:784][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_2.Skeleton_Hit_Sprite_2]
+[2024.11.19-01.41.20:784][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_2]
+[2024.11.19-01.41.20:784][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_2
+[2024.11.19-01.41.20:785][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_2F0069EC8472E8FCFEB41A38E9E34995B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_2.uasset'
+[2024.11.19-01.41.20:785][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_3] ([1] browsable assets)...
+[2024.11.19-01.41.20:786][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_3.Skeleton_Hit_Sprite_3]
+[2024.11.19-01.41.20:786][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_3]
+[2024.11.19-01.41.20:787][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_3
+[2024.11.19-01.41.20:787][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_396ABF1AF49FBE02ADDD07AADF0D9C86C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_3.uasset'
+[2024.11.19-01.41.20:788][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_4] ([1] browsable assets)...
+[2024.11.19-01.41.20:789][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_4.Skeleton_Hit_Sprite_4]
+[2024.11.19-01.41.20:789][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_4]
+[2024.11.19-01.41.20:790][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_4
+[2024.11.19-01.41.20:790][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_4CE7F470F41F26AA94D52EEBB1DE152E8.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_4.uasset'
+[2024.11.19-01.41.20:790][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_5] ([1] browsable assets)...
+[2024.11.19-01.41.20:791][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_5.Skeleton_Hit_Sprite_5]
+[2024.11.19-01.41.20:791][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_5]
+[2024.11.19-01.41.20:792][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_5
+[2024.11.19-01.41.20:792][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_56C2CB4E441711A2EDC68BF97824BD394.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_5.uasset'
+[2024.11.19-01.41.20:793][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_6] ([1] browsable assets)...
+[2024.11.19-01.41.20:794][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_6.Skeleton_Hit_Sprite_6]
+[2024.11.19-01.41.20:794][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_6]
+[2024.11.19-01.41.20:795][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_6
+[2024.11.19-01.41.20:795][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_6471A6106430E4E8AD3D5A5AEB667E92E.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_6.uasset'
+[2024.11.19-01.41.20:795][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_7] ([1] browsable assets)...
+[2024.11.19-01.41.20:796][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_7.Skeleton_Hit_Sprite_7]
+[2024.11.19-01.41.20:796][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_7]
+[2024.11.19-01.41.20:797][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_7
+[2024.11.19-01.41.20:797][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Hit_Sprite_7D030B62341633AB1273D76B403E0D490.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_7.uasset'
+[2024.11.19-01.41.20:798][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_0] ([1] browsable assets)...
+[2024.11.19-01.41.20:799][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_0.Skeleton_Idle_Sprite_0]
+[2024.11.19-01.41.20:799][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_0]
+[2024.11.19-01.41.20:800][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_0
+[2024.11.19-01.41.20:800][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_044AB795649B6C0345911CFB0DD452717.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_0.uasset'
+[2024.11.19-01.41.20:801][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_1] ([1] browsable assets)...
+[2024.11.19-01.41.20:801][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_1.Skeleton_Idle_Sprite_1]
+[2024.11.19-01.41.20:801][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_1]
+[2024.11.19-01.41.20:802][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_1
+[2024.11.19-01.41.20:802][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_1ADE13E2A43DD5CF52174898ADFC9C4F7.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_1.uasset'
+[2024.11.19-01.41.20:803][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_2] ([1] browsable assets)...
+[2024.11.19-01.41.20:804][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_2.Skeleton_Idle_Sprite_2]
+[2024.11.19-01.41.20:804][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_2]
+[2024.11.19-01.41.20:805][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_2
+[2024.11.19-01.41.20:805][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_2DD535B0C4761F5CF15ED1EA8C61ABC1C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_2.uasset'
+[2024.11.19-01.41.20:805][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_3] ([1] browsable assets)...
+[2024.11.19-01.41.20:806][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_3.Skeleton_Idle_Sprite_3]
+[2024.11.19-01.41.20:806][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_3]
+[2024.11.19-01.41.20:807][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_3
+[2024.11.19-01.41.20:808][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_3EF8AF2A04B63408C3CD9A692451CCEE3.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_3.uasset'
+[2024.11.19-01.41.20:808][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_4] ([1] browsable assets)...
+[2024.11.19-01.41.20:809][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_4.Skeleton_Idle_Sprite_4]
+[2024.11.19-01.41.20:809][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_4]
+[2024.11.19-01.41.20:811][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_4
+[2024.11.19-01.41.20:811][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_4480D12C94E0D3112A1270D995CC393DC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_4.uasset'
+[2024.11.19-01.41.20:811][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_5] ([1] browsable assets)...
+[2024.11.19-01.41.20:812][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_5.Skeleton_Idle_Sprite_5]
+[2024.11.19-01.41.20:812][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_5]
+[2024.11.19-01.41.20:813][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_5
+[2024.11.19-01.41.20:813][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_57B2BCFE14F7AE70E7D58F2B12D1302B0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_5.uasset'
+[2024.11.19-01.41.20:814][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_6] ([1] browsable assets)...
+[2024.11.19-01.41.20:815][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_6.Skeleton_Idle_Sprite_6]
+[2024.11.19-01.41.20:815][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_6]
+[2024.11.19-01.41.20:815][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_6
+[2024.11.19-01.41.20:816][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_66FE34CED4CFED2A6FF26E2A9CA2C2FD1.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_6.uasset'
+[2024.11.19-01.41.20:816][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_7] ([1] browsable assets)...
+[2024.11.19-01.41.20:817][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_7.Skeleton_Idle_Sprite_7]
+[2024.11.19-01.41.20:817][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_7]
+[2024.11.19-01.41.20:818][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_7
+[2024.11.19-01.41.20:818][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_7220FB842464891E2AD28EC8CD12437B2.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_7.uasset'
+[2024.11.19-01.41.20:819][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_8] ([1] browsable assets)...
+[2024.11.19-01.41.20:820][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_8.Skeleton_Idle_Sprite_8]
+[2024.11.19-01.41.20:820][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_8]
+[2024.11.19-01.41.20:821][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_8
+[2024.11.19-01.41.20:821][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_8140C82BB464B5861CB870BB62A0A389D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_8.uasset'
+[2024.11.19-01.41.20:821][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_9] ([1] browsable assets)...
+[2024.11.19-01.41.20:822][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_9.Skeleton_Idle_Sprite_9]
+[2024.11.19-01.41.20:822][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_9]
+[2024.11.19-01.41.20:823][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_9
+[2024.11.19-01.41.20:824][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_9CEA49A8E4A6C57CA6A5410B6CE589495.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_9.uasset'
+[2024.11.19-01.41.20:824][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_10] ([1] browsable assets)...
+[2024.11.19-01.41.20:825][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_10.Skeleton_Idle_Sprite_10]
+[2024.11.19-01.41.20:825][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_10]
+[2024.11.19-01.41.20:826][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_10
+[2024.11.19-01.41.20:826][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Idle_Sprite_100E86ED0C44CD1A18CABBDFB7F1602CB4.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_10.uasset'
+[2024.11.19-01.41.20:827][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_0] ([1] browsable assets)...
+[2024.11.19-01.41.20:827][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_0.Skeleton_React_Sprite_0]
+[2024.11.19-01.41.20:827][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_0]
+[2024.11.19-01.41.20:828][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_0
+[2024.11.19-01.41.20:829][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_React_Sprite_01A111B4046CE140E1897C9A8F1FF85EC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_0.uasset'
+[2024.11.19-01.41.20:829][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_1] ([1] browsable assets)...
+[2024.11.19-01.41.20:830][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_1.Skeleton_React_Sprite_1]
+[2024.11.19-01.41.20:830][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_1]
+[2024.11.19-01.41.20:831][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_1
+[2024.11.19-01.41.20:831][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_React_Sprite_17FDB998D4FB1928785A559B33A5A52B6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_1.uasset'
+[2024.11.19-01.41.20:832][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_2] ([1] browsable assets)...
+[2024.11.19-01.41.20:832][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_2.Skeleton_React_Sprite_2]
+[2024.11.19-01.41.20:832][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_2]
+[2024.11.19-01.41.20:833][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_2
+[2024.11.19-01.41.20:834][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_React_Sprite_2BCE56BB1448F92ECCD02FBB33530F397.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_2.uasset'
+[2024.11.19-01.41.20:834][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_3] ([1] browsable assets)...
+[2024.11.19-01.41.20:835][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_3.Skeleton_React_Sprite_3]
+[2024.11.19-01.41.20:835][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_3]
+[2024.11.19-01.41.20:836][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_3
+[2024.11.19-01.41.20:836][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_React_Sprite_36D783F974E59CF80982401B23900FBBF.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_3.uasset'
+[2024.11.19-01.41.20:837][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_0] ([1] browsable assets)...
+[2024.11.19-01.41.20:838][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_0.Skeleton_Walk_Sprite_0]
+[2024.11.19-01.41.20:838][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_0]
+[2024.11.19-01.41.20:839][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_0
+[2024.11.19-01.41.20:839][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_00C11DF1C4D31B2A7844EE6B1568D9E68.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_0.uasset'
+[2024.11.19-01.41.20:840][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_1] ([1] browsable assets)...
+[2024.11.19-01.41.20:841][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_1.Skeleton_Walk_Sprite_1]
+[2024.11.19-01.41.20:841][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_1]
+[2024.11.19-01.41.20:841][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_1
+[2024.11.19-01.41.20:842][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_1771D5CF043146231EFE59D834D458FC5.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_1.uasset'
+[2024.11.19-01.41.20:842][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_2] ([1] browsable assets)...
+[2024.11.19-01.41.20:843][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_2.Skeleton_Walk_Sprite_2]
+[2024.11.19-01.41.20:843][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_2]
+[2024.11.19-01.41.20:844][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_2
+[2024.11.19-01.41.20:844][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_256F61F044F56EDED2BE0B596FC839C12.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_2.uasset'
+[2024.11.19-01.41.20:845][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_3] ([1] browsable assets)...
+[2024.11.19-01.41.20:846][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_3.Skeleton_Walk_Sprite_3]
+[2024.11.19-01.41.20:846][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_3]
+[2024.11.19-01.41.20:846][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_3
+[2024.11.19-01.41.20:847][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_34155E2F447367C69BB2F52B7F73AF97D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_3.uasset'
+[2024.11.19-01.41.20:847][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_4] ([1] browsable assets)...
+[2024.11.19-01.41.20:848][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_4.Skeleton_Walk_Sprite_4]
+[2024.11.19-01.41.20:848][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_4]
+[2024.11.19-01.41.20:849][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_4
+[2024.11.19-01.41.20:849][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_4D056C95F4F41CB6811F48D983B4C0026.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_4.uasset'
+[2024.11.19-01.41.20:850][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_5] ([1] browsable assets)...
+[2024.11.19-01.41.20:850][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_5.Skeleton_Walk_Sprite_5]
+[2024.11.19-01.41.20:850][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_5]
+[2024.11.19-01.41.20:851][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_5
+[2024.11.19-01.41.20:852][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_5EEAB80B44993B5328DA1D98DB064B35B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_5.uasset'
+[2024.11.19-01.41.20:852][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_6] ([1] browsable assets)...
+[2024.11.19-01.41.20:853][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_6.Skeleton_Walk_Sprite_6]
+[2024.11.19-01.41.20:853][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_6]
+[2024.11.19-01.41.20:854][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_6
+[2024.11.19-01.41.20:854][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_639CC3B0645341DDC9698529F88687367.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_6.uasset'
+[2024.11.19-01.41.20:855][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_7] ([1] browsable assets)...
+[2024.11.19-01.41.20:855][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_7.Skeleton_Walk_Sprite_7]
+[2024.11.19-01.41.20:855][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_7]
+[2024.11.19-01.41.20:857][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_7
+[2024.11.19-01.41.20:857][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_713560C8C40752525A59DEE8755F39CEA.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_7.uasset'
+[2024.11.19-01.41.20:858][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_8] ([1] browsable assets)...
+[2024.11.19-01.41.20:859][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_8.Skeleton_Walk_Sprite_8]
+[2024.11.19-01.41.20:859][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_8]
+[2024.11.19-01.41.20:859][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_8
+[2024.11.19-01.41.20:859][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_8271879804540670B0C60F49FD934D72C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_8.uasset'
+[2024.11.19-01.41.20:860][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_9] ([1] browsable assets)...
+[2024.11.19-01.41.20:860][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_9.Skeleton_Walk_Sprite_9]
+[2024.11.19-01.41.20:860][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_9]
+[2024.11.19-01.41.20:861][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_9
+[2024.11.19-01.41.20:862][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_9E7E5A1374F54FBA8960C769E7B576C9D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_9.uasset'
+[2024.11.19-01.41.20:862][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_10] ([1] browsable assets)...
+[2024.11.19-01.41.20:863][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_10.Skeleton_Walk_Sprite_10]
+[2024.11.19-01.41.20:863][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_10]
+[2024.11.19-01.41.20:864][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_10
+[2024.11.19-01.41.20:864][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_104BD1992949A9799F974513867D82A440.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_10.uasset'
+[2024.11.19-01.41.20:864][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_11] ([1] browsable assets)...
+[2024.11.19-01.41.20:865][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_11.Skeleton_Walk_Sprite_11]
+[2024.11.19-01.41.20:865][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_11]
+[2024.11.19-01.41.20:866][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_11
+[2024.11.19-01.41.20:866][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_110EBE7E574B87DBD4D37DF2BBD43B3B62.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_11.uasset'
+[2024.11.19-01.41.20:867][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_12] ([1] browsable assets)...
+[2024.11.19-01.41.20:868][803]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_12.Skeleton_Walk_Sprite_12]
+[2024.11.19-01.41.20:868][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_12]
+[2024.11.19-01.41.20:868][803]LogSavePackage: Moving output files for package: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_12
+[2024.11.19-01.41.20:868][803]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Skeleton_Walk_Sprite_1257A610DE4E82E757AEF045A828D56599.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_12.uasset'
+[2024.11.19-01.41.20:874][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 215.182 ms (total: 773.142 ms)
+[2024.11.19-01.41.20:945][803]LogContentValidation: Display: Starting to validate 69 assets
+[2024.11.19-01.41.20:945][803]LogContentValidation: Enabled validators:
+[2024.11.19-01.41.20:945][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.41.20:945][803]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.41.20:945][803]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.41.20:945][803]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.41.20:945][803]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.41.20:945][803]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_0 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_1 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_2 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_3 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_4 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_5 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_6 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_7 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_8 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_9 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_10 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_11 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_12 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_13 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_14 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_15 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_16 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Attack/Skeleton_Attack_Sprite_17 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_0 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_1 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_2 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_3 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_4 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_5 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_6 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_7 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_8 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_9 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_10 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_11 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_12 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_13 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Dead/Skeleton_Dead_Sprite_14 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_0 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_1 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_2 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_3 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_4 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_5 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_6 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Hit/Skeleton_Hit_Sprite_7 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_0 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_1 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_2 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_3 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_4 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_5 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_6 Validating asset
+[2024.11.19-01.41.20:946][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_7 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_8 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_9 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Idle/Skeleton_Idle_Sprite_10 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_0 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_1 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_2 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/React/Skeleton_React_Sprite_3 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_0 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_1 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_2 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_3 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_4 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_5 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_6 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_7 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_8 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_9 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_10 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_11 Validating asset
+[2024.11.19-01.41.20:947][803]AssetCheck: /Game/Assets/Skeletons/Sprites/Walk/Skeleton_Walk_Sprite_12 Validating asset
+[2024.11.19-01.43.15:728][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.19-01.43.15:732][485]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/TestMap_Auto3
+[2024.11.19-01.43.15:732][485]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TestMap_Auto33764E2E74438AD2C71A6DE8F3BB475FA.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Maps/TestMap_Auto3.umap'
+[2024.11.19-01.43.15:734][485]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.027
+[2024.11.19-01.43.15:734][485]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2024.11.19-01.43.30:023][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.19-01.43.31:327][408]LogSlate: Window 'Save Content' being destroyed
+[2024.11.19-01.43.31:343][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-01.43.31:413][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.19-01.43.31:417][408]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2024.11.19-01.43.31:417][408]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TestMapD6F4968743CB89C8B083A498B037D115.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Maps/TestMap.umap'
+[2024.11.19-01.43.31:421][408]LogFileHelpers: Saving map 'TestMap' took 0.021
+[2024.11.19-01.43.31:426][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.196 ms (total: 856.338 ms)
+[2024.11.19-01.43.31:483][408]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-01.43.31:483][408]LogContentValidation: Enabled validators:
+[2024.11.19-01.43.31:483][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.19-01.43.31:483][408]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-01.43.31:483][408]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-01.43.31:483][408]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.19-01.43.31:483][408]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-01.43.31:483][408]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.19-01.43.31:483][408]AssetCheck: /Game/Maps/TestMap Validating asset

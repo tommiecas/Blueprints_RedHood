@@ -217,7 +217,26 @@
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/Sprites/torch_1_Sprite.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/Sprites/torch_2_Sprite.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/Sprites/torch_3_Sprite.uasset",
-				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/Sprites/torch_4_Sprite.uasset"
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/Sprites/torch_4_Sprite.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/FB_SideTorch.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Torches/FB_Torch.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Coins/FB_Coin.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Attack1.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Attack2.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Attack3.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_JumpEnd.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_JumpLoop.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_JumpStart.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Hurt.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Idle.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/RedHood/FB_RedHood_Run.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/Sprites/Attack/FB_Skeleton_Attack.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Attack.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Dead.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Hit.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Idle.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_React.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Skeletons/FB_Skeleton_Walk.uasset"
 			]
 		}
 	]
