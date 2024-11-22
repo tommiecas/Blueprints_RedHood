@@ -2129,3 +2129,220 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.11.22-02.27.07:981][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.11.22-02.27.07:981][368]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
 [2024.11.22-02.27.39:449][ 98]LogSlate: Window 'BT_Enemy' being destroyed
+[2024.11.22-02.32.52:326][750]LogSlate: Window 'Save Asset As' being destroyed
+[2024.11.22-02.32.52:339][750]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AI/BTService_DistToTarget.BTService_DistToTarget
+[2024.11.22-02.32.52:340][750]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.11.22-02.32.52:395][750]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/AI/BTService_DistToTarget.
+[2024.11.22-02.34.26:798][955]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.22-02.34.26:798][955]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Blueprints/AI/BTService_DistToTarget (0xBF02D8DE6D86C5DD) - The package to load does not exist on disk or in the loader
+[2024.11.22-02.34.35:671][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.22-02.34.36:532][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.34.36:585][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTService_DistToTarget] ([2] browsable assets)...
+[2024.11.22-02.34.36:585][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTService_DistToTarget]
+[2024.11.22-02.34.36:587][103]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTService_DistToTarget
+[2024.11.22-02.34.36:587][103]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BTService_DistToTargetF082D5B94E53F0A06291F7ABE9EAACFE.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BTService_DistToTarget.uasset'
+[2024.11.22-02.34.36:587][103]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/AI/BTService_DistToTarget.
+[2024.11.22-02.34.36:592][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.092 ms (total: 618.374 ms)
+[2024.11.22-02.34.36:651][103]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.34.36:651][103]LogContentValidation: Enabled validators:
+[2024.11.22-02.34.36:651][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.22-02.34.36:651][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.34.36:651][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.34.36:651][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.22-02.34.36:651][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.34.36:651][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.22-02.34.36:651][103]AssetCheck: /Game/Blueprints/AI/BTService_DistToTarget Validating asset
+[2024.11.22-02.37.19:482][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.22-02.37.28:092][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.37.28:114][351]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BB_Enemy] ([1] browsable assets)...
+[2024.11.22-02.37.28:114][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BB_Enemy]
+[2024.11.22-02.37.28:114][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BB_Enemy" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BB_Enemy.uasset" SILENT=true
+[2024.11.22-02.37.28:115][351]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BB_Enemy
+[2024.11.22-02.37.28:115][351]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BB_Enemy0F6ACDBF4A066EF15B01AEB751AC0F56.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BB_Enemy.uasset'
+[2024.11.22-02.37.28:116][351]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_Enemy] ([1] browsable assets)...
+[2024.11.22-02.37.28:116][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_Enemy]
+[2024.11.22-02.37.28:116][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_Enemy" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BT_Enemy.uasset" SILENT=true
+[2024.11.22-02.37.28:117][351]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_Enemy
+[2024.11.22-02.37.28:117][351]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BT_Enemy32F22EEA4E101466A14ED2A8BFD48ED4.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BT_Enemy.uasset'
+[2024.11.22-02.37.28:120][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.911 ms (total: 647.286 ms)
+[2024.11.22-02.37.28:147][351]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.22-02.37.28:147][351]LogContentValidation: Enabled validators:
+[2024.11.22-02.37.28:147][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.22-02.37.28:147][351]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.37.28:147][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.37.28:147][351]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.22-02.37.28:147][351]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.37.28:147][351]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.22-02.37.28:147][351]AssetCheck: /Game/Blueprints/AI/BB_Enemy Validating asset
+[2024.11.22-02.37.28:148][351]AssetCheck: /Game/Blueprints/AI/BT_Enemy Validating asset
+[2024.11.22-02.40.34:048][599]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.22-02.40.41:476][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.22-02.40.42:338][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.40.42:376][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTService_DistToTarget] ([2] browsable assets)...
+[2024.11.22-02.40.42:376][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTService_DistToTarget]
+[2024.11.22-02.40.42:379][577]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTService_DistToTarget
+[2024.11.22-02.40.42:379][577]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BTService_DistToTargetA4002F7C42B0B080095D9493CAA24CD3.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BTService_DistToTarget.uasset'
+[2024.11.22-02.40.42:382][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.795 ms (total: 692.082 ms)
+[2024.11.22-02.40.42:408][577]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-02.40.42:408][577]LogContentValidation: Enabled validators:
+[2024.11.22-02.40.42:408][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.22-02.40.42:408][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.40.42:408][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.40.42:408][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.22-02.40.42:408][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.40.42:408][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.22-02.40.42:408][577]AssetCheck: /Game/Blueprints/AI/BTService_DistToTarget Validating asset
+[2024.11.22-02.40.51:812][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-02.40.51:821][691]LogPlayLevel: [PlayLevel] Compiling BTTask_RandomLocation before play...
+[2024.11.22-02.40.51:842][691]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBase before play...
+[2024.11.22-02.40.51:842][691]LogPlayLevel: [PlayLevel]   Compiling BP_Skeleton as a dependent...
+[2024.11.22-02.40.51:887][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.22-02.40.51:888][691]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (3 blueprints)
+[2024.11.22-02.40.51:888][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.22-02.40.51:890][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
+[2024.11.22-02.40.51:890][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001745s)
+[2024.11.22-02.40.51:905][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.22-02.40.51:906][691]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.22-02.40.51:907][691]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2024.11.22-02.40.51:908][691]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-02.40.51:908][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-02.40.51:908][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-02.40.51:908][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-02.40.51:908][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-02.40.51:908][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-02.40.51:909][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-02.40.51:919][691]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.22-02.40.51:919][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-02.40.51:919][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-02.40.51:919][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-02.40.51:920][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.11.22-02.40.51:920][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.11.22-02.40.51:922][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.22-02.40.51:922][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.11.22-02.40.51:922][691]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.22-02.40.51:922][691]LogAudio: Display: Audio Device (ID: 11) registered with world 'DungeonMap'.
+[2024.11.22-02.40.51:922][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.22-02.40.51:924][691]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.22-02.40.51:924][691]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.22-02.40.51:926][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 0) at 2024.11.21-18.40.51
+[2024.11.22-02.40.51:926][691]LogWorld: Bringing up level for play took: 0.002973
+[2024.11.22-02.40.51:928][691]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.11.22-02.40.51:936][691]PIE: Server logged in
+[2024.11.22-02.40.51:936][691]PIE: Play in editor total start time 0.12 seconds.
+[2024.11.22-02.40.57:295][331]Cmd: LevelEditor.ToggleImmersive
+[2024.11.22-02.40.57:308][331]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.22-02.41.46:398][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-02.41.46:398][207]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.22-02.41.46:398][207]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.41.46:398][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.41.46:403][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-02.41.46:406][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.41.46:417][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-02.41.46:417][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.22-02.41.46:417][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.22-02.41.46:419][207]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.22-02.41.46:424][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.22-02.41.46:457][209]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.11.22-02.42.11:391][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.22-02.42.11:392][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.019
+[2024.11.22-02.42.11:392][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_EnemyBase] ([2] browsable assets)...
+[2024.11.22-02.42.11:392][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_EnemyBase]
+[2024.11.22-02.42.11:396][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_EnemyBase_Auto1
+[2024.11.22-02.42.11:396][138]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_EnemyBase_Auto10CA9C3E4439443431DB88289D930EF24.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/BP_EnemyBase_Auto1.uasset'
+[2024.11.22-02.42.11:397][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_Enemy] ([1] browsable assets)...
+[2024.11.22-02.42.11:397][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_Enemy]
+[2024.11.22-02.42.11:398][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BT_Enemy_Auto1
+[2024.11.22-02.42.11:398][138]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BT_Enemy_Auto1B1B08408482BA61FCDDB6BB840AFBEEC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/AI/BT_Enemy_Auto1.uasset'
+[2024.11.22-02.42.11:399][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTTask_RandomLocation] ([2] browsable assets)...
+[2024.11.22-02.42.11:399][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTTask_RandomLocation]
+[2024.11.22-02.42.11:401][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BTTask_RandomLocation_Auto1
+[2024.11.22-02.42.11:401][138]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BTTask_RandomLocation_Auto1D0D1B39E45ACA96B7DD77795D8465E46.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/AI/BTTask_RandomLocation_Auto1.uasset'
+[2024.11.22-02.42.11:402][138]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BP_EnemyPatrolBox] ([2] browsable assets)...
+[2024.11.22-02.42.11:402][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_EnemyPatrolBox]
+[2024.11.22-02.42.11:404][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AI/BP_EnemyPatrolBox_Auto1
+[2024.11.22-02.42.11:404][138]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_EnemyPatrolBox_Auto1935F4C4443060BDE453D379D2AEF4BDC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/AI/BP_EnemyPatrolBox_Auto1.uasset'
+[2024.11.22-02.42.11:404][138]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: ================================================
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Total job queries 154, among them cache hits 9 (5.84%), DDC hits 141 (91.56%), Duplicates 3 (1.95%)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Tracking 142 distinct input hashes that result in 134 distinct outputs (94.37%)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: RAM used: 114.56 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 1.01 s
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 1.03
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Shader code size: average 5.777 KiB, min 5.777 KiB, max 5.777 KiB
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.03 s
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Average processing rate: 0.97 jobs/sec
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Total thread time: 0.221 s
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Total thread preprocess time: 1.981 s
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Percentage time preprocessing: 896.52%
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Effective parallelization: 0.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                          TVoxelizeVolumeGS<VMode_Object_Box> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                                  FHitProxyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display:                          TVoxelizeVolumeGS<VMode_Object_Box> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: === Material stats ===
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Materials Translated:    128
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Material Translation Only: 0.03 s (33%)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: Material Cache Hits: 35 (27%)
+[2024.11.22-02.42.54:428][299]LogShaderCompilers: Display: ================================================
+[2024.11.22-02.43.47:314][644]LogGeomTools: Triangulation of poly failed.
+[2024.11.22-02.43.47:314][644]LogGeomTools: Triangulation of poly failed.
+[2024.11.22-02.43.47:314][644]LogGeomTools: Triangulation of poly failed.
+[2024.11.22-02.43.47:314][644]LogGeomTools: Triangulation of poly failed.
+[2024.11.22-02.43.47:314][644]LogGeomTools: Triangulation of poly failed.
+[2024.11.22-02.45.30:850][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.22-02.45.31:788][649]LogSlate: Window 'Save Content' being destroyed
+[2024.11.22-02.45.31:793][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-02.45.31:844][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_EnemyBase] ([2] browsable assets)...
+[2024.11.22-02.45.31:844][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_EnemyBase]
+[2024.11.22-02.45.31:848][649]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_EnemyBase
+[2024.11.22-02.45.31:848][649]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_EnemyBase72AF09F645A63A6A73DFAEB9657CB5F1.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_EnemyBase.uasset'
+[2024.11.22-02.45.31:849][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BP_EnemyPatrolBox] ([2] browsable assets)...
+[2024.11.22-02.45.31:849][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BP_EnemyPatrolBox]
+[2024.11.22-02.45.31:851][649]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BP_EnemyPatrolBox
+[2024.11.22-02.45.31:852][649]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_EnemyPatrolBox886B863D468E3B02C20B6EA605706E3D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BP_EnemyPatrolBox.uasset'
+[2024.11.22-02.45.31:852][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BT_Enemy] ([1] browsable assets)...
+[2024.11.22-02.45.31:852][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BT_Enemy]
+[2024.11.22-02.45.31:852][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AI/BT_Enemy" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BT_Enemy.uasset" SILENT=true
+[2024.11.22-02.45.31:853][649]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BT_Enemy
+[2024.11.22-02.45.31:854][649]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BT_Enemy22C8D1E1439B26F0DEDA549EDABED2FB.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BT_Enemy.uasset'
+[2024.11.22-02.45.31:854][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AI/BTTask_RandomLocation] ([2] browsable assets)...
+[2024.11.22-02.45.31:854][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI/BTTask_RandomLocation]
+[2024.11.22-02.45.31:856][649]LogSavePackage: Moving output files for package: /Game/Blueprints/AI/BTTask_RandomLocation
+[2024.11.22-02.45.31:857][649]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BTTask_RandomLocation68B4E660457D53415FC552A7A48A8CC6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/AI/BTTask_RandomLocation.uasset'
+[2024.11.22-02.45.31:861][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.898 ms (total: 759.980 ms)
+[2024.11.22-02.45.31:893][649]LogContentValidation: Display: Starting to validate 4 assets
+[2024.11.22-02.45.31:893][649]LogContentValidation: Enabled validators:
+[2024.11.22-02.45.31:893][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.22-02.45.31:893][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-02.45.31:893][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-02.45.31:893][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.22-02.45.31:893][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-02.45.31:893][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.22-02.45.31:893][649]AssetCheck: /Game/Blueprints/Characters/BP_EnemyBase Validating asset
+[2024.11.22-02.45.31:893][649]AssetCheck: /Game/Blueprints/AI/BP_EnemyPatrolBox Validating asset
+[2024.11.22-02.45.31:893][649]AssetCheck: /Game/Blueprints/AI/BT_Enemy Validating asset
+[2024.11.22-02.45.31:893][649]AssetCheck: /Game/Blueprints/AI/BTTask_RandomLocation Validating asset
