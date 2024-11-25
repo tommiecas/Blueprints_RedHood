@@ -2270,3 +2270,1610 @@ LogInit: Object subsystem initialized
 [2024.11.25-02.53.11:164][304]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_CharacterBase_Auto1
 [2024.11.25-02.53.11:164][304]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase_Auto13C80A65847523380CD34628054D5647D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/BP_CharacterBase_Auto1.uasset'
 [2024.11.25-02.53.11:165][304]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.11.25-02.55.33:872][ 23]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Blueprints/Characters/RedHood/AS_RedHood_AnimSource.AS_RedHood_AnimSource
+[2024.11.25-02.55.33:894][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world World_14
+[2024.11.25-02.55.48:880][776]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Assets/Sprites/RedHood/FB_RedHood_Hurt.FB_RedHood_Hurt
+[2024.11.25-02.55.48:881][776]LogChaosDD: Creating Chaos Debug Draw Scene for world World_15
+[2024.11.25-02.59.35:891][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.25-02.59.39:059][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-02.59.39:066][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-02.59.39:096][795]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-02.59.39:098][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002566s)
+[2024.11.25-02.59.39:098][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.002612s)
+[2024.11.25-02.59.39:113][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.25-02.59.39:117][795]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-02.59.39:118][795]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2024.11.25-02.59.39:118][795]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-02.59.39:118][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-02.59.39:118][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-02.59.39:118][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-02.59.39:118][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-02.59.39:119][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-02.59.39:121][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-02.59.39:131][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-02.59.39:131][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-02.59.39:132][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-02.59.39:132][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-02.59.39:132][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.11.25-02.59.39:132][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.11.25-02.59.39:133][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.11.25-02.59.39:133][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.11.25-02.59.39:133][795]LogInit: FAudioDevice initialized with ID 9.
+[2024.11.25-02.59.39:133][795]LogAudio: Display: Audio Device (ID: 9) registered with world 'DungeonMap'.
+[2024.11.25-02.59.39:133][795]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.25-02.59.39:135][795]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-02.59.39:135][795]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-02.59.39:137][795]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 0) at 2024.11.24-18.59.39
+[2024.11.25-02.59.39:138][795]LogWorld: Bringing up level for play took: 0.002740
+[2024.11.25-02.59.39:140][795]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.11.25-02.59.39:147][795]PIE: Server logged in
+[2024.11.25-02.59.39:148][795]PIE: Play in editor total start time 0.084 seconds.
+[2024.11.25-02.59.49:076][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-02.59.49:076][979]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-02.59.49:076][979]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-02.59.49:077][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-02.59.49:080][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-02.59.49:083][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-02.59.49:098][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-02.59.49:098][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.11.25-02.59.49:098][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.25-02.59.49:100][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.11.25-02.59.49:102][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-02.59.49:105][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.25-02.59.49:146][981]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.11.25-03.01.58:672][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.25-03.01.59:610][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-03.01.59:652][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.25-03.01.59:652][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.25-03.01.59:659][309]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.25-03.01.59:660][309]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBaseCD4FC82B418C9A17E573BAA7E30A51C1.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.25-03.01.59:663][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.198 ms (total: 1.29 sec)
+[2024.11.25-03.01.59:722][309]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-03.01.59:722][309]LogContentValidation: Enabled validators:
+[2024.11.25-03.01.59:722][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-03.01.59:722][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-03.01.59:722][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-03.01.59:722][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-03.01.59:722][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-03.01.59:722][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-03.01.59:722][309]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.25-03.03.20:119][743]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.25-03.03.20:128][743]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.25-03.03.20:133][743]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.25-03.03.20:139][744]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.25-03.03.32:876][272]LogContentBrowser: Attempting asset rename: NewBlueprint -> AN_EnableInput
+[2024.11.25-03.03.32:878][272]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/Characters/RedHood/AN_EnableInput.
+[2024.11.25-03.03.32:880][272]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.25-03.03.35:186][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/RedHood/AN_EnableInput.AN_EnableInput
+[2024.11.25-03.03.35:186][544]LogChaosDD: Creating Chaos Debug Draw Scene for world World_16
+[2024.11.25-03.05.23:223][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.25-03.05.24:280][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-03.05.24:341][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/AN_EnableInput] ([2] browsable assets)...
+[2024.11.25-03.05.24:341][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/AN_EnableInput]
+[2024.11.25-03.05.24:343][362]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/AN_EnableInput
+[2024.11.25-03.05.24:343][362]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AN_EnableInput1EC892934F1B3E93AD84FD97E6ACF85E.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/AN_EnableInput.uasset'
+[2024.11.25-03.05.24:343][362]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Characters/RedHood/AN_EnableInput.
+[2024.11.25-03.05.24:350][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.863 ms (total: 1.36 sec)
+[2024.11.25-03.05.24:408][362]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-03.05.24:408][362]LogContentValidation: Enabled validators:
+[2024.11.25-03.05.24:408][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-03.05.24:408][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-03.05.24:408][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-03.05.24:408][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-03.05.24:408][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-03.05.24:408][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-03.05.24:408][362]AssetCheck: /Game/Blueprints/Characters/RedHood/AN_EnableInput Validating asset
+[2024.11.25-03.06.37:621][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-03.06.37:672][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/AS_RedHood_AnimSource] ([1] browsable assets)...
+[2024.11.25-03.06.37:672][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/AS_RedHood_AnimSource]
+[2024.11.25-03.06.37:673][ 59]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/AS_RedHood_AnimSource
+[2024.11.25-03.06.37:673][ 59]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AS_RedHood_AnimSourceBFA3CCA8455BB919884EC9A799A02517.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/AS_RedHood_AnimSource.uasset'
+[2024.11.25-03.06.37:676][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.326 ms (total: 1.42 sec)
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: Enabled validators:
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-03.06.37:722][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-03.06.37:722][ 59]AssetCheck: /Game/Blueprints/Characters/RedHood/AS_RedHood_AnimSource Validating asset
+[2024.11.25-03.06.52:293][788]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-03.06.52:300][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-03.06.52:325][788]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-03.06.52:328][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002825s)
+[2024.11.25-03.06.52:328][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.002871s)
+[2024.11.25-03.06.52:343][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.25-03.06.52:345][788]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-03.06.52:346][788]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2024.11.25-03.06.52:347][788]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-03.06.52:347][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-03.06.52:347][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-03.06.52:347][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-03.06.52:347][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-03.06.52:347][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-03.06.52:349][788]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-03.06.52:359][788]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-03.06.52:359][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-03.06.52:359][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-03.06.52:359][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-03.06.52:359][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.11.25-03.06.52:359][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.11.25-03.06.52:360][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.11.25-03.06.52:360][788]LogInit: FAudioDevice initialized with ID 10.
+[2024.11.25-03.06.52:360][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.11.25-03.06.52:360][788]LogAudio: Display: Audio Device (ID: 10) registered with world 'DungeonMap'.
+[2024.11.25-03.06.52:361][788]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.25-03.06.52:363][788]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-03.06.52:363][788]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-03.06.52:364][788]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 0) at 2024.11.24-19.06.52
+[2024.11.25-03.06.52:365][788]LogWorld: Bringing up level for play took: 0.002833
+[2024.11.25-03.06.52:367][788]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.11.25-03.06.52:375][788]PIE: Server logged in
+[2024.11.25-03.06.52:375][788]PIE: Play in editor total start time 0.077 seconds.
+[2024.11.25-03.07.14:016][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-03.07.14:016][380]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-03.07.14:016][380]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-03.07.14:017][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-03.07.14:020][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-03.07.14:023][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-03.07.14:035][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-03.07.14:035][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.11.25-03.07.14:035][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.25-03.07.14:037][380]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.11.25-03.07.14:042][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.25-03.07.14:092][383]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.11.25-03.10.35:891][443]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-03.41.24:149][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.25-03.41.24:150][149]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.019
+[2024.11.25-03.41.24:150][149]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/AnimSequences/Hurt] ([1] browsable assets)...
+[2024.11.25-03.41.24:150][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/AnimSequences/Hurt]
+[2024.11.25-03.41.24:151][149]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/RedHood/AnimSequences/Hurt_Auto2
+[2024.11.25-03.41.24:151][149]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Hurt_Auto235473E2249824596E6CB9A9773743FC6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/RedHood/AnimSequences/Hurt_Auto2.uasset'
+[2024.11.25-03.41.24:152][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sprites/RedHood/FB_RedHood_Hurt] ([1] browsable assets)...
+[2024.11.25-03.41.24:155][149]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Assets/Sprites/RedHood/FB_RedHood_Hurt.FB_RedHood_Hurt]
+[2024.11.25-03.41.24:155][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sprites/RedHood/FB_RedHood_Hurt]
+[2024.11.25-03.41.24:157][149]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Sprites/RedHood/FB_RedHood_Hurt_Auto2
+[2024.11.25-03.41.24:157][149]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_Hurt_Auto21735596148008F7DC5E275A5F208E6DF.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Assets/Sprites/RedHood/FB_RedHood_Hurt_Auto2.uasset'
+[2024.11.25-03.41.24:157][149]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.11.25-04.10.35:963][356]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-05.10.36:025][349]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-06.10.36:082][341]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-07.10.36:537][310]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-08.10.36:846][923]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-09.10.37:061][722]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-10.10.37:215][520]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-11.10.37:331][318]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-12.10.37:423][116]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-13.10.37:499][914]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-14.10.37:564][713]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-15.10.37:624][511]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-16.10.38:046][309]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-17.10.38:365][108]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-18.10.38:589][906]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-19.10.38:748][704]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-20.10.38:868][502]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-20.39.47:454][932]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.25-20.39.47:473][932]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.25-20.39.47:479][933]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.25-20.39.52:291][511]LogContentBrowser: Attempting asset rename: NewFolder -> Effects
+[2024.11.25-20.39.52:292][511]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.25-20.40.48:420][962]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:420][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:468][962]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:468][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:486][962]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:486][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:533][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.25-20.40.48:533][962]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:533][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:576][962]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:576][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:609][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.25-20.40.48:609][962]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:609][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:647][962]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:647][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:679][962]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:679][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:694][962]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:694][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:724][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.25-20.40.48:724][962]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:724][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:767][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.25-20.40.48:767][962]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:767][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:811][962]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:811][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:858][962]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:858][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:875][962]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:875][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:894][962]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.40.48:894][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.40.48:934][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.25-20.41.00:686][338]LogStreaming: Display: FlushAsyncLoading(561): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-20.41.00:724][338]LogChaosDD: Creating Chaos Debug Draw Scene for world World_17
+[2024.11.25-20.41.21:288][338]LogSlate: Window 'Create Niagara System - Select an emitter or system as a base' being destroyed
+[2024.11.25-20.41.21:642][338]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-20.41.21:642][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-20.41.21:657][338]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2024.11.25-20.41.21:677][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.25-20.41.21:683][338]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2024.11.25-20.41.21:698][340]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2024.11.25-20.41.28:206][121]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> NS_Blood
+[2024.11.25-20.41.28:449][121]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2024.11.25-20.41.30:494][353]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_Blood.NS_Blood took 2.274467 sec (time since issued), 1.955455 sec (combined shader worker time).
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: ================================================
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Total job queries 150, among them cache hits 14 (9.33%), DDC hits 131 (87.33%), Duplicates 1 (0.67%)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 131 distinct outputs (97.04%)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: RAM used: 115.41 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Average time worker was idle: 0.11 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Job execution time: average 0.38 s, max 1.21 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Job life time (pending + execution): average 0.42 s, max 1.26
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Shader code size: average 10.983 KiB, min 1.877 KiB, max 22.603 KiB
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.70 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Average processing rate: 2.36 jobs/sec
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Total thread time: 0.263 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Total thread preprocess time: 2.158 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Percentage time preprocessing: 819.74%
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Effective parallelization: 0.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    4 times, average 0.07 sec, max 0.14 sec, min 0.03 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                     FPathTracingBuildCloudCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    4 times, average 0.07 sec, max 0.14 sec, min 0.03 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                     FPathTracingBuildCloudCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Materials Translated:    130
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Material Translation Only: 0.02 s (27%)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: Material Cache Hits: 35 (27%)
+[2024.11.25-20.41.57:050][533]LogShaderCompilers: Display: ================================================
+[2024.11.25-20.46.33:682][627]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-20.46.34:204][675]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.34:204][675]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.34:205][675]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_0
+[2024.11.25-20.46.34:205][675]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_0
+[2024.11.25-20.46.35:861][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.25-20.46.35:864][870]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2024.11.25-20.46.35:868][870]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.35:868][870]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.35:869][870]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_1
+[2024.11.25-20.46.35:869][870]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_1
+[2024.11.25-20.46.45:279][973]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.45:279][973]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.45:279][973]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_2
+[2024.11.25-20.46.45:279][973]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_2
+[2024.11.25-20.46.47:198][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.25-20.46.47:200][201]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.11.25-20.46.47:204][201]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.47:204][201]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.46.47:205][201]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_4
+[2024.11.25-20.46.47:205][201]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_4
+[2024.11.25-20.47.23:388][493]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.47.23:388][493]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.47.23:388][493]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_6
+[2024.11.25-20.47.23:388][493]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_6
+[2024.11.25-20.47.26:267][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.11.25-20.47.26:270][836]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2024.11.25-20.47.26:274][836]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.47.26:274][836]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.47.26:275][836]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_7
+[2024.11.25-20.47.26:275][836]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_7
+[2024.11.25-20.47.52:445][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.25-20.47.57:663][955]LogSlate: Window 'Save Content' being destroyed
+[2024.11.25-20.47.57:683][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-20.47.57:770][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.25-20.47.57:776][955]LogSavePackage: Moving output files for package: /Game/Maps/DungeonMap
+[2024.11.25-20.47.57:776][955]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/DungeonMapD129912F419EAA6D55E74BB2D1B2D2FE.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Maps/DungeonMap.umap'
+[2024.11.25-20.47.57:783][955]LogFileHelpers: Saving map 'DungeonMap' took 0.038
+[2024.11.25-20.47.57:783][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Sprites/RedHood/FB_RedHood_Hurt] ([1] browsable assets)...
+[2024.11.25-20.47.57:783][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sprites/RedHood/FB_RedHood_Hurt]
+[2024.11.25-20.47.57:784][955]LogSavePackage: Moving output files for package: /Game/Assets/Sprites/RedHood/FB_RedHood_Hurt
+[2024.11.25-20.47.57:784][955]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/FB_RedHood_HurtFDB664B04ED6BE0C0AC9B3B9174EE5D7.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Sprites/RedHood/FB_RedHood_Hurt.uasset'
+[2024.11.25-20.47.57:784][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/AnimSequences/Hurt] ([1] browsable assets)...
+[2024.11.25-20.47.57:784][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/AnimSequences/Hurt]
+[2024.11.25-20.47.57:785][955]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/AnimSequences/Hurt
+[2024.11.25-20.47.57:785][955]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Hurt62AFC9874B562CD72D15CFB6874A9C0E.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/AnimSequences/Hurt.uasset'
+[2024.11.25-20.47.57:786][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Effects/NS_Blood] ([1] browsable assets)...
+[2024.11.25-20.47.57:786][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Effects/NS_Blood]
+[2024.11.25-20.47.57:805][955]LogSavePackage: Moving output files for package: /Game/Blueprints/Effects/NS_Blood
+[2024.11.25-20.47.57:805][955]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/NS_BloodD3CC3ECE43560A6A86CA5A9F09C5E84D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Effects/NS_Blood.uasset'
+[2024.11.25-20.47.57:810][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.915 ms (total: 1.54 sec)
+[2024.11.25-20.47.57:857][955]LogContentValidation: Display: Starting to validate 4 assets
+[2024.11.25-20.47.57:857][955]LogContentValidation: Enabled validators:
+[2024.11.25-20.47.57:857][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-20.47.57:857][955]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-20.47.57:857][955]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-20.47.57:857][955]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-20.47.57:857][955]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-20.47.57:857][955]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-20.47.57:857][955]AssetCheck: /Game/Maps/DungeonMap Validating asset
+[2024.11.25-20.47.57:857][955]AssetCheck: /Game/Assets/Sprites/RedHood/FB_RedHood_Hurt Validating asset
+[2024.11.25-20.47.57:857][955]AssetCheck: /Game/Blueprints/Characters/RedHood/AnimSequences/Hurt Validating asset
+[2024.11.25-20.47.57:857][955]AssetCheck: /Game/Blueprints/Effects/NS_Blood Validating asset
+[2024.11.25-20.47.59:911][197]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.47.59:911][197]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.47.59:911][197]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.47.59:911][197]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.47.59:911][197]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.49.25:126][369]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.49.25:126][369]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.49.25:126][369]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_8
+[2024.11.25-20.49.25:127][369]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_8
+[2024.11.25-20.49.27:587][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.25-20.49.27:589][662]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.11.25-20.49.27:593][662]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.49.27:593][662]LogActorFactory: Actor Factory attempting to spawn PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch
+[2024.11.25-20.49.27:594][662]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_9
+[2024.11.25-20.49.27:594][662]LogActorFactory: Actor Factory spawned PaperFlipbook /Game/Assets/Sprites/Torches/FB_Torch.FB_Torch as actor: PaperFlipbookActor /Game/Maps/DungeonMap.DungeonMap:PersistentLevel.PaperFlipbookActor_9
+[2024.11.25-20.51.43:246][861]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-20.51.43:247][861]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Dungeons/Sprites/Dungeon_Tile_Set.Dungeon_Tile_Set
+[2024.11.25-20.52.19:929][223]LogAssetEditorSubsystem: Opening Asset editor for PaperTileSet /Game/Assets/Dungeons/Sprites/TS_Dungeon.TS_Dungeon
+[2024.11.25-20.52.19:933][223]LogChaosDD: Creating Chaos Debug Draw Scene for world World_18
+[2024.11.25-20.54.19:198][486]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Assets/Dungeons/Sprites/TM_Dungeon.TM_Dungeon
+[2024.11.25-20.54.19:198][486]LogChaosDD: Creating Chaos Debug Draw Scene for world World_19
+[2024.11.25-20.54.19:346][486]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.54.19:346][486]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.54.19:346][486]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.54.19:346][486]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-20.54.19:346][486]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.00.53:453][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.25-21.00.53:464][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/DungeonMap_Auto3
+[2024.11.25-21.00.53:465][521]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/DungeonMap_Auto3C153AD3445D8556B5A52FF9695416447.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Maps/DungeonMap_Auto3.umap'
+[2024.11.25-21.00.53:465][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.078
+[2024.11.25-21.00.53:466][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2024.11.25-21.00.53:466][521]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Dungeons/Sprites/TS_Dungeon] ([1] browsable assets)...
+[2024.11.25-21.00.53:467][521]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Assets/Dungeons/Sprites/TS_Dungeon.TS_Dungeon]
+[2024.11.25-21.00.53:467][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Dungeons/Sprites/TS_Dungeon]
+[2024.11.25-21.00.53:479][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Dungeons/Sprites/TS_Dungeon_Auto3
+[2024.11.25-21.00.53:479][521]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TS_Dungeon_Auto3F49A6C5E44FD3100FBAE4FADE36DF5EE.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Assets/Dungeons/Sprites/TS_Dungeon_Auto3.uasset'
+[2024.11.25-21.00.53:479][521]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.11.25-21.06.11:120][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.06.11:166][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Dungeons/Sprites/TS_Dungeon] ([1] browsable assets)...
+[2024.11.25-21.06.11:167][448]OBJ SavePackage:     Rendered thumbnail for [PaperTileSet /Game/Assets/Dungeons/Sprites/TS_Dungeon.TS_Dungeon]
+[2024.11.25-21.06.11:167][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Dungeons/Sprites/TS_Dungeon]
+[2024.11.25-21.06.11:179][448]LogSavePackage: Moving output files for package: /Game/Assets/Dungeons/Sprites/TS_Dungeon
+[2024.11.25-21.06.11:179][448]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TS_Dungeon4AE2772D4E5661989CB3D4B9FE00A127.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Dungeons/Sprites/TS_Dungeon.uasset'
+[2024.11.25-21.06.11:184][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.284 ms (total: 1.61 sec)
+[2024.11.25-21.06.11:212][448]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-21.06.11:212][448]LogContentValidation: Enabled validators:
+[2024.11.25-21.06.11:212][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.06.11:212][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.06.11:212][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.06.11:212][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.06.11:212][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.06.11:212][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.06.11:212][448]AssetCheck: /Game/Assets/Dungeons/Sprites/TS_Dungeon Validating asset
+[2024.11.25-21.07.55:099][901]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.55:099][901]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.55:099][901]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.55:099][901]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.55:099][901]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.57:338][167]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.57:338][167]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.57:338][167]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.57:338][167]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.07.57:338][167]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.08.01:198][628]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.08.01:198][628]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.08.01:198][628]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.08.01:198][628]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.08.01:198][628]LogGeomTools: Triangulation of poly failed.
+[2024.11.25-21.09.49:082][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-21.09.49:091][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-21.09.49:131][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.09.49:135][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004225s)
+[2024.11.25-21.09.49:135][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.004292s)
+[2024.11.25-21.09.49:154][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.25-21.09.49:158][511]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-21.09.49:159][511]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2024.11.25-21.09.49:160][511]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-21.09.49:160][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-21.09.49:160][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-21.09.49:160][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-21.09.49:160][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-21.09.49:160][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-21.09.49:162][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-21.09.49:173][511]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-21.09.49:173][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-21.09.49:173][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-21.09.49:173][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-21.09.49:174][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.11.25-21.09.49:174][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.11.25-21.09.49:175][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.11.25-21.09.49:175][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.11.25-21.09.49:175][511]LogInit: FAudioDevice initialized with ID 11.
+[2024.11.25-21.09.49:175][511]LogAudio: Display: Audio Device (ID: 11) registered with world 'DungeonMap'.
+[2024.11.25-21.09.49:175][511]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.25-21.09.49:177][511]LogStreaming: Display: FlushAsyncLoading(569): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-21.09.49:178][511]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-21.09.49:180][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 0) at 2024.11.25-13.09.49
+[2024.11.25-21.09.49:183][511]LogWorld: Bringing up level for play took: 0.004036
+[2024.11.25-21.09.49:184][511]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.11.25-21.09.49:232][511]PIE: Server logged in
+[2024.11.25-21.09.49:233][511]PIE: Play in editor total start time 0.146 seconds.
+[2024.11.25-21.10.38:963][475]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-21.10.59:604][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.10.59:604][946]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.10.59:605][946]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-21.10.59:605][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.10.59:611][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-21.10.59:613][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.10.59:627][946]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-21.10.59:627][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.11.25-21.10.59:627][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.25-21.10.59:629][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.11.25-21.10.59:632][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.10.59:634][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.25-21.10.59:687][947]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.11.25-21.11.19:423][259]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Blueprints/Effects/NS_Blood.NS_Blood
+[2024.11.25-21.11.19:561][259]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-21.11.19:624][259]LogChaosDD: Creating Chaos Debug Draw Scene for world World_20
+[2024.11.25-21.11.19:731][259]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2024.11.25-21.11.21:603][353]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_Blood.NS_Blood took 1.913464 sec (time since issued), 1.587080 sec (combined shader worker time).
+[2024.11.25-21.11.21:712][360]118270_NS_Blood_MessageLog: System successfully compiled.
+[2024.11.25-21.11.41:703][549]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.25-21.11.41:707][549]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.25-21.11.41:722][550]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.25-21.11.49:784][ 34]LogContentBrowser: Attempting asset rename: NewFolder -> HitReact
+[2024.11.25-21.11.49:784][ 34]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Total job queries 177, among them cache hits 22 (12.43%), DDC hits 145 (81.92%), Duplicates 1 (0.56%)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Tracking 154 distinct input hashes that result in 149 distinct outputs (96.75%)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: RAM used: 121.19 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Shaders Compiled: 9
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Average time worker was idle: 255.74 s
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Job execution time: average 0.36 s, max 1.21 s
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Job life time (pending + execution): average 0.41 s, max 1.26
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Shader code size: average 13.296 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.44 s
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Average processing rate: 2.61 jobs/sec
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Total thread time: 0.898 s
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Total thread preprocess time: 2.357 s
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Percentage time preprocessing: 262.59%
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Effective parallelization: 0.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.20 sec, max 0.24 sec, min 0.16 sec)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    7 times, average 0.07 sec, max 0.14 sec, min 0.03 sec)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display:                                     FPathTracingBuildCloudCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-21.11.57:937][509]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display:                                               FNiagaraShader - 55.08% of total time (compiled    7 times, average 0.07 sec, max 0.14 sec, min 0.03 sec)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 44.92% of total time (compiled    2 times, average 0.20 sec, max 0.24 sec, min 0.16 sec)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display:                                     FPathTracingBuildCloudCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: Materials Translated:    130
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: Material Translation Only: 0.02 s (27%)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: Material Cache Hits: 35 (27%)
+[2024.11.25-21.11.57:938][509]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.12.37:277][858]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2024.11.25-21.12.37:290][858]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2024.11.25-21.12.50:141][604]LogAssetEditorSubsystem: Opening Asset editor for Material /Niagara/DefaultAssets/DefaultSpriteMaterial.DefaultSpriteMaterial
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2024.11.25-21.12.50:147][604]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2024.11.25-21.12.50:147][604]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2024.11.25-21.12.50:162][604]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2024.11.25-21.12.50:423][604]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.12.50:424][604]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.12.50:424][604]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.12.50:424][604]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.12.50:424][604]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: Base pass shader without light map: 145 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: Shader Count: 5
+[2024.11.25-21.12.50:495][606]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.13.41:859][657]LogContentBrowser: Attempting asset rename: DefaultSpriteMaterial -> M_Pixel
+[2024.11.25-21.13.41:980][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.13.41:980][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Effects/M_Pixel] ([1] browsable assets)...
+[2024.11.25-21.13.43:312][657]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Effects/M_Pixel.M_Pixel]
+[2024.11.25-21.13.43:313][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Effects/M_Pixel]
+[2024.11.25-21.13.43:314][657]LogSavePackage: Moving output files for package: /Game/Blueprints/Effects/M_Pixel
+[2024.11.25-21.13.43:314][657]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/M_Pixel5F98352349131FD033DDB6ADECE2DE96.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Effects/M_Pixel.uasset'
+[2024.11.25-21.13.43:315][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.33 sec (total: 2.94 sec)
+[2024.11.25-21.13.43:425][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.25-21.13.43:444][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.25-21.13.43:455][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.25-21.13.43:509][657]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-21.13.43:509][657]LogContentValidation: Enabled validators:
+[2024.11.25-21.13.43:509][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.13.43:509][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.13.43:509][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.13.43:509][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.13.43:509][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.13.43:509][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.13.43:509][657]AssetCheck: /Game/Blueprints/Effects/M_Pixel Validating asset
+[2024.11.25-21.13.43:660][663]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/Effects/M_Pixel.M_Pixel
+[2024.11.25-21.13.43:662][663]LogChaosDD: Creating Chaos Debug Draw Scene for world World_23
+[2024.11.25-21.13.43:846][663]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.13.43:846][663]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.13.43:846][663]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.13.43:846][663]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.13.43:846][663]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: Base pass shader without light map: 145 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.13.43:898][665]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.22:291][961]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.14.22:291][961]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.22:291][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.22:291][961]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.14.22:291][961]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.22:740][988]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.22:740][988]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.14.22:740][988]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.22:740][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.22:740][988]MaterialEditorStats: Shader Count: 3
+[2024.11.25-21.14.22:740][988]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: Shader Count: 4
+[2024.11.25-21.14.22:840][994]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.32:491][572]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.14.32:491][572]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.32:491][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.32:491][572]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.14.32:491][572]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.32:546][574]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.32:547][574]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.32:547][574]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.14.32:547][574]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.32:547][574]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.32:547][574]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.14.32:547][574]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.37:621][877]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.14.37:621][877]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.37:621][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.37:621][877]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.14.37:621][877]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.14.37:666][879]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.46:332][398]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.14.46:332][398]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.46:332][398]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.46:332][398]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.14.46:332][398]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.14.46:391][400]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.47:519][467]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.14.47:519][467]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.47:519][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.47:519][467]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.14.47:519][467]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.14.47:571][469]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Total job queries 298, among them cache hits 97 (32.55%), DDC hits 147 (49.33%), Duplicates 4 (1.34%)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Tracking 197 distinct input hashes that result in 183 distinct outputs (92.89%)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: RAM used: 136.36 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Shaders Compiled: 50
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Average time worker was idle: 67.84 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 0.79 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.21 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 1.30
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Shader code size: average 9.815 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.06 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Average processing rate: 8.25 jobs/sec
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Total thread time: 12.707 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Total thread preprocess time: 3.486 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Percentage time preprocessing: 27.43%
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Effective parallelization: 2.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.50 sec, max 0.57 sec, min 0.45 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 0.49 sec, max 0.68 sec, min 0.36 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 0.47 sec, max 0.48 sec, min 0.46 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.22 sec, max 0.27 sec, min 0.16 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                             FDebugViewModePS - 19.45% of total time (compiled    5 times, average 0.49 sec, max 0.68 sec, min 0.36 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.83% of total time (compiled    3 times, average 0.50 sec, max 0.57 sec, min 0.45 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.01% of total time (compiled    3 times, average 0.47 sec, max 0.48 sec, min 0.46 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.50% of total time (compiled    5 times, average 0.22 sec, max 0.27 sec, min 0.16 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.71% of total time (compiled    5 times, average 0.20 sec, max 0.26 sec, min 0.16 sec)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Materials Translated:    140
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Material Translation Only: 0.02 s (28%)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: Material Cache Hits: 35 (25%)
+[2024.11.25-21.14.57:953][ 92]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.15.03:153][403]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.15.03:153][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.03:153][403]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.15.03:153][403]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.03:673][434]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.03:673][434]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.15.03:673][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.03:673][434]MaterialEditorStats: Shader Count: 2
+[2024.11.25-21.15.03:673][434]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.03:773][440]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.03:773][440]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.03:773][440]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.15.03:773][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.03:773][440]MaterialEditorStats: Shader Count: 4
+[2024.11.25-21.15.03:774][440]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.10:432][839]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.15.10:432][839]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.10:432][839]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.15.10:432][839]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.10:734][857]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.10:734][857]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.15.10:734][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.10:734][857]MaterialEditorStats: Shader Count: 3
+[2024.11.25-21.15.10:734][857]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.10:835][863]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.10:835][863]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.10:835][863]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.15.10:835][863]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.10:835][863]MaterialEditorStats: Shader Count: 4
+[2024.11.25-21.15.10:835][863]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.15:252][128]LogMaterialEditor: Applying material M_Pixel
+[2024.11.25-21.15.16:170][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.25-21.15.17:665][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.25-21.15.17:674][128]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.17:674][128]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.17:674][128]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.25-21.15.17:674][128]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.15.17:674][128]MaterialEditorStats: Shader Count: 56
+[2024.11.25-21.15.17:674][128]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.15.52:613][225]LogEditorTransaction: Undo Move Node
+[2024.11.25-21.15.52:990][231]118270_NS_Blood_MessageLog: System successfully compiled.
+[2024.11.25-21.15.53:176][237]LogEditorTransaction: Undo Material Editor: Delete
+[2024.11.25-21.15.53:252][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.25-21.15.54:834][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.11.25-21.15.54:910][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.25-21.15.55:083][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: Base pass shader without light map: 145 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: Shader Count: 56
+[2024.11.25-21.15.55:175][237]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.15.55:280][243]118270_NS_Blood_MessageLog: System successfully compiled.
+[2024.11.25-21.15.55:813][275]Cmd: TRANSACTION UNDO
+[2024.11.25-21.15.55:813][275]LogEditorTransaction: Undo Material Editor: Delete
+[2024.11.25-21.15.55:889][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.25-21.15.57:273][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.25-21.15.57:353][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.25-21.15.57:509][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: Base pass shader without light map: 139 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: Base pass vertex shader: 281 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: Shader Count: 56
+[2024.11.25-21.15.57:599][275]MaterialEditorStats: Preshaders: 5  (5 param fetches, 17 ops)
+[2024.11.25-21.15.57:701][281]118270_NS_Blood_MessageLog: System successfully compiled.
+[2024.11.25-21.16.28:430][123]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.16.28:430][123]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.28:430][123]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.16.28:430][123]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.28:468][125]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.28:468][125]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.28:468][125]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.16.28:468][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.28:468][125]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.16.28:468][125]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.34:441][483]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.16.34:441][483]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.34:441][483]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.16.34:441][483]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.34:473][485]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.34:473][485]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.34:473][485]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.16.34:473][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.34:473][485]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.16.34:473][485]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.39:099][759]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.16.39:099][759]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.39:099][759]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.16.39:099][759]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.39:147][761]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.39:147][761]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.39:147][761]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.16.39:147][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.39:147][761]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.16.39:147][761]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.41:272][888]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.16.41:272][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.41:272][888]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.16.41:272][888]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.41:319][890]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.41:319][890]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.41:319][890]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.16.41:319][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.41:319][890]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.16.41:319][890]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.44:371][ 73]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.16.44:371][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.44:371][ 73]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.16.44:371][ 73]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.16.44:402][ 75]MaterialEditorStats: Base pass shader without light map: 132 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.44:402][ 75]MaterialEditorStats: Base pass vertex shader: 275 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.16.44:402][ 75]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.25-21.16.44:402][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.16.44:402][ 75]MaterialEditorStats: Shader Count: 7
+[2024.11.25-21.16.44:402][ 75]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.17.03:813][236]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.25-21.17.03:813][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.17.03:813][236]MaterialEditorStats: Shader Count: 0
+[2024.11.25-21.17.03:813][236]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.17.04:385][270]MaterialEditorStats: Base pass shader without light map: 142 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.17.04:386][270]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2024.11.25-21.17.04:386][270]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.25-21.17.04:386][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.17.04:386][270]MaterialEditorStats: Shader Count: 4
+[2024.11.25-21.17.04:386][270]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.17.20:728][250]LogMaterialEditor: Applying material M_Pixel
+[2024.11.25-21.17.20:789][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.25-21.17.22:482][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.25-21.17.22:490][250]MaterialEditorStats: Base pass shader without light map: 142 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2024.11.25-21.17.22:490][250]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2024.11.25-21.17.22:490][250]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.25-21.17.22:490][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.25-21.17.22:490][250]MaterialEditorStats: Shader Count: 56
+[2024.11.25-21.17.22:490][250]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2024.11.25-21.17.48:085][753]118270_NS_Blood_MessageLog: System compile status unknown.
+[2024.11.25-21.17.48:644][786]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_Blood.NS_Blood took 0.653835 sec (time since issued), 0.594532 sec (combined shader worker time).
+[2024.11.25-21.17.50:086][873]118270_NS_Blood_MessageLog: System successfully compiled.
+[2024.11.25-21.17.57:969][346]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.17.57:969][346]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Total job queries 771, among them cache hits 339 (43.97%), DDC hits 150 (19.46%), Duplicates 20 (2.59%)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Tracking 412 distinct input hashes that result in 279 distinct outputs (67.72%)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: RAM used: 177.98 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Shaders Compiled: 262
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Jobs assigned 262, completed 262 (100%)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Average time worker was idle: 22.64 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 1.05 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 1.21 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 1.52
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Shader code size: average 9.277 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.06 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Jobs were issued in 262 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Average processing rate: 13.75 jobs/sec
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Total thread time: 73.087 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Total thread preprocess time: 8.618 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Percentage time preprocessing: 11.79%
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Effective parallelization: 3.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.62 sec, max 0.68 sec, min 0.58 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.48 sec, max 0.63 sec, min 0.43 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.97% of total time (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.10% of total time (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.95% of total time (compiled   31 times, average 0.21 sec, max 0.31 sec, min 0.14 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.55% of total time (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display:                                                  FVelocityVS - 7.09% of total time (compiled   25 times, average 0.21 sec, max 0.27 sec, min 0.17 sec)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Materials Translated:    168
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2024.11.25-21.17.57:970][346]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.18.54:578][725]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-21.21.05:116][509]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_Blood.NS_Blood took 1.278707 sec (time since issued), 1.207808 sec (combined shader worker time).
+[2024.11.25-21.21.05:280][519]118270_NS_Blood_MessageLog: System successfully compiled.
+[2024.11.25-21.21.23:230][584]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-21.21.38:925][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.25-21.21.40:515][515]LogSlate: Window 'Save Content' being destroyed
+[2024.11.25-21.21.40:539][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.21.40:605][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.11.25-21.21.40:610][515]LogSavePackage: Moving output files for package: /Game/Maps/DungeonMap
+[2024.11.25-21.21.40:610][515]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/DungeonMap2116461540274324A53C448B564DCD0A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Maps/DungeonMap.umap'
+[2024.11.25-21.21.40:617][515]LogFileHelpers: Saving map 'DungeonMap' took 0.037
+[2024.11.25-21.21.40:617][515]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Effects/M_Pixel] ([1] browsable assets)...
+[2024.11.25-21.21.40:625][515]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/Effects/M_Pixel.M_Pixel]
+[2024.11.25-21.21.40:625][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Effects/M_Pixel]
+[2024.11.25-21.21.40:627][515]LogSavePackage: Moving output files for package: /Game/Blueprints/Effects/M_Pixel
+[2024.11.25-21.21.40:627][515]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/M_PixelC4D32D6B4118D0C83EF0159DFA4C1CE9.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Effects/M_Pixel.uasset'
+[2024.11.25-21.21.40:627][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Effects/NS_Blood] ([1] browsable assets)...
+[2024.11.25-21.21.40:627][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Effects/NS_Blood]
+[2024.11.25-21.21.40:656][515]LogSavePackage: Moving output files for package: /Game/Blueprints/Effects/NS_Blood
+[2024.11.25-21.21.40:656][515]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/NS_BloodCBBC2B2743344718A0D8E195CCF465B5.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Effects/NS_Blood.uasset'
+[2024.11.25-21.21.40:657][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Dungeons/Sprites/TM_Dungeon] ([1] browsable assets)...
+[2024.11.25-21.21.40:657][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Dungeons/Sprites/TM_Dungeon]
+[2024.11.25-21.21.40:765][515]LogSavePackage: Moving output files for package: /Game/Assets/Dungeons/Sprites/TM_Dungeon
+[2024.11.25-21.21.40:766][515]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TM_DungeonBEF1C3AF4D46DBB7FACC36BF43483E64.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Dungeons/Sprites/TM_Dungeon.uasset'
+[2024.11.25-21.21.40:770][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.425 ms (total: 3.17 sec)
+[2024.11.25-21.21.40:830][515]LogContentValidation: Display: Starting to validate 4 assets
+[2024.11.25-21.21.40:830][515]LogContentValidation: Enabled validators:
+[2024.11.25-21.21.40:830][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.21.40:830][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.21.40:830][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.21.40:830][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.21.40:830][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.21.40:830][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.21.40:830][515]AssetCheck: /Game/Maps/DungeonMap Validating asset
+[2024.11.25-21.21.40:830][515]AssetCheck: /Game/Blueprints/Effects/M_Pixel Validating asset
+[2024.11.25-21.21.40:830][515]AssetCheck: /Game/Blueprints/Effects/NS_Blood Validating asset
+[2024.11.25-21.21.40:831][515]AssetCheck: /Game/Assets/Dungeons/Sprites/TM_Dungeon Validating asset
+[2024.11.25-21.21.51:581][158]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_CharacterBase.BP_CharacterBase
+[2024.11.25-21.21.51:581][158]LogChaosDD: Creating Chaos Debug Draw Scene for world World_24
+[2024.11.25-21.22.31:039][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.25-21.22.42:038][122]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood
+[2024.11.25-21.22.42:038][122]LogChaosDD: Creating Chaos Debug Draw Scene for world World_25
+[2024.11.25-21.23.38:691][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.25-21.23.45:154][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-21.23.45:162][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-21.23.45:201][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.23.45:205][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004254s)
+[2024.11.25-21.23.45:205][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.004316s)
+[2024.11.25-21.23.45:224][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.25-21.23.45:227][839]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-21.23.45:228][839]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2024.11.25-21.23.45:229][839]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-21.23.45:229][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-21.23.45:229][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-21.23.45:229][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-21.23.45:229][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-21.23.45:229][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-21.23.45:230][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-21.23.45:240][839]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-21.23.45:240][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-21.23.45:240][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-21.23.45:240][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-21.23.45:241][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.11.25-21.23.45:241][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.11.25-21.23.45:242][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.11.25-21.23.45:242][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.11.25-21.23.45:242][839]LogInit: FAudioDevice initialized with ID 12.
+[2024.11.25-21.23.45:242][839]LogAudio: Display: Audio Device (ID: 12) registered with world 'DungeonMap'.
+[2024.11.25-21.23.45:242][839]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.25-21.23.45:244][839]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-21.23.45:244][839]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-21.23.45:247][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-13.23.45
+[2024.11.25-21.23.45:248][839]LogWorld: Bringing up level for play took: 0.003716
+[2024.11.25-21.23.45:250][839]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.11.25-21.23.45:298][839]PIE: Server logged in
+[2024.11.25-21.23.45:299][839]PIE: Play in editor total start time 0.14 seconds.
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: Total job queries 775, among them cache hits 339 (43.74%), DDC hits 150 (19.35%), Duplicates 20 (2.58%)
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: Tracking 416 distinct input hashes that result in 281 distinct outputs (67.55%)
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: RAM used: 178.20 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-21.23.57:997][601]LogShaderCompilers: Display: Shaders Compiled: 266
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Jobs assigned 266, completed 266 (100%)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Average time worker was idle: 23.06 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 1.05 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 1.21 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 1.52
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Shader code size: average 9.384 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.93 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Jobs were issued in 266 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Average processing rate: 13.34 jobs/sec
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Total thread time: 73.351 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Total thread preprocess time: 8.62 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Percentage time preprocessing: 11.75%
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Effective parallelization: 3.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.62 sec, max 0.68 sec, min 0.58 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.48 sec, max 0.63 sec, min 0.43 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.91% of total time (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.06% of total time (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.92% of total time (compiled   31 times, average 0.21 sec, max 0.31 sec, min 0.14 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.52% of total time (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display:                                                  FVelocityVS - 7.07% of total time (compiled   25 times, average 0.21 sec, max 0.27 sec, min 0.17 sec)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Materials Translated:    168
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2024.11.25-21.23.57:998][601]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.25.02:433][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.25.02:433][444]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.25.02:433][444]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-21.25.02:435][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.25.02:442][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-21.25.02:445][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.25.02:460][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-21.25.02:461][444]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.11.25-21.25.02:461][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.25-21.25.02:462][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.11.25-21.25.02:466][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.25.02:468][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.25-21.25.02:523][445]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.11.25-21.25.28:495][992]LogContentBrowser: Deferred new asset file creation: NS_Blood1
+[2024.11.25-21.25.28:500][992]LogContentBrowser: Creating deferred item: NS_Blood1
+[2024.11.25-21.25.28:518][993]LogContentBrowser: Renaming the item being created (Deferred Item: NS_Blood1).
+[2024.11.25-21.25.41:078][747]LogContentBrowser: Attempting asset rename: NS_Blood1 -> NS_BoneDust
+[2024.11.25-21.25.41:089][747]LogContentBrowser: End creating deferred item NS_Blood1
+[2024.11.25-21.25.42:778][845]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/Blueprints/Effects/NS_BoneDust.NS_BoneDust
+[2024.11.25-21.25.42:888][845]LogChaosDD: Creating Chaos Debug Draw Scene for world World_26
+[2024.11.25-21.25.42:979][845]LogChaosDD: Creating Chaos Debug Draw Scene for world World_27
+[2024.11.25-21.25.43:347][853]128096_NS_BoneDust_MessageLog: System successfully compiled.
+[2024.11.25-21.26.15:411][752]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-21.26.33:319][807]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-21.26.39:017][124]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_BoneDust.NS_BoneDust took 1.157241 sec (time since issued), 1.125211 sec (combined shader worker time).
+[2024.11.25-21.26.39:243][136]128096_NS_BoneDust_MessageLog: System successfully compiled.
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Total job queries 779, among them cache hits 339 (43.52%), DDC hits 150 (19.26%), Duplicates 20 (2.57%)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Tracking 420 distinct input hashes that result in 283 distinct outputs (67.38%)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: RAM used: 178.42 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Shaders Compiled: 270
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Jobs assigned 270, completed 270 (100%)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Average time worker was idle: 24.01 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 1.05 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 1.21 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.52
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Shader code size: average 9.509 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.82 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Jobs were issued in 270 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Average processing rate: 12.97 jobs/sec
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Total thread time: 73.628 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Total thread preprocess time: 8.621 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Percentage time preprocessing: 11.71%
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Effective parallelization: 3.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.62 sec, max 0.68 sec, min 0.58 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.48 sec, max 0.63 sec, min 0.43 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.85% of total time (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.03% of total time (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.89% of total time (compiled   31 times, average 0.21 sec, max 0.31 sec, min 0.14 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.49% of total time (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display:                                                  FVelocityVS - 7.04% of total time (compiled   25 times, average 0.21 sec, max 0.27 sec, min 0.17 sec)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Materials Translated:    168
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2024.11.25-21.26.58:017][251]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.27.12:590][125]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-21.31.03:948][838]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_BoneDust.NS_BoneDust took 0.656581 sec (time since issued), 3.431323 sec (combined shader worker time).
+[2024.11.25-21.31.03:953][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.31.04:008][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Effects/NS_BoneDust] ([1] browsable assets)...
+[2024.11.25-21.31.04:008][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Effects/NS_BoneDust]
+[2024.11.25-21.31.04:050][838]LogSavePackage: Moving output files for package: /Game/Blueprints/Effects/NS_BoneDust
+[2024.11.25-21.31.04:050][838]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/NS_BoneDust56B9B0F5415247ECA24F60A5A8803CA7.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Effects/NS_BoneDust.uasset'
+[2024.11.25-21.31.04:055][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.610 ms (total: 3.28 sec)
+[2024.11.25-21.31.04:579][838]LogNiagara: Compiling System NiagaraSystem /Game/Blueprints/Effects/NS_BoneDust.NS_BoneDust took 0.523259 sec (time since issued), 1.326265 sec (combined shader worker time).
+[2024.11.25-21.31.04:612][838]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-21.31.04:613][838]LogContentValidation: Enabled validators:
+[2024.11.25-21.31.04:613][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.31.04:613][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.31.04:613][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.31.04:613][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.31.04:613][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.31.04:613][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.31.04:613][838]AssetCheck: /Game/Blueprints/Effects/NS_BoneDust Validating asset
+[2024.11.25-21.31.11:558][250]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Skeleton/BP_Skeleton.BP_Skeleton
+[2024.11.25-21.31.11:558][250]LogChaosDD: Creating Chaos Debug Draw Scene for world World_28
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Total job queries 791, among them cache hits 340 (42.98%), DDC hits 150 (18.96%), Duplicates 20 (2.53%)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Tracking 431 distinct input hashes that result in 288 distinct outputs (66.82%)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: RAM used: 184.77 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Shaders Compiled: 281
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Jobs assigned 281, completed 281 (100%)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Average time worker was idle: 42.40 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.05 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.21 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 1.52
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Shader code size: average 9.896 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.66 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Jobs were issued in 281 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Average processing rate: 12.97 jobs/sec
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Total thread time: 74.538 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Total thread preprocess time: 8.626 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Percentage time preprocessing: 11.57%
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.62 sec, max 0.68 sec, min 0.58 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 0.48 sec, max 0.63 sec, min 0.43 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.64% of total time (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.90% of total time (compiled   16 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.78% of total time (compiled   31 times, average 0.21 sec, max 0.31 sec, min 0.14 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.40% of total time (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display:                                                  FVelocityVS - 6.95% of total time (compiled   25 times, average 0.21 sec, max 0.27 sec, min 0.17 sec)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Materials Translated:    168
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2024.11.25-21.32.58:028][563]LogShaderCompilers: Display: ================================================
+[2024.11.25-21.33.28:541][307]LogBlueprint: Warning: [AssetLog] C:\Users\tom\Documents\Unreal Projects\Blueprints\Blueprints_RedHood\Content\Blueprints\Characters\BP_CharacterBase.uasset: [Compiler] Cast To PlayerController  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.11.25-21.33.28:710][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.25-21.33.29:570][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.33.29:614][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.25-21.33.29:614][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.25-21.33.29:622][354]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.25-21.33.29:622][354]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase867CFB0B41BBE0ACEC43DE9666F5592F.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.25-21.33.29:627][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.889 ms (total: 3.33 sec)
+[2024.11.25-21.33.29:679][354]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-21.33.29:679][354]LogContentValidation: Enabled validators:
+[2024.11.25-21.33.29:679][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.33.29:679][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.33.29:679][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.33.29:679][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.33.29:679][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.33.29:679][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.33.29:679][354]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.25-21.33.48:265][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.25-21.33.51:246][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-21.33.51:255][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-21.33.51:293][628]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.33.51:296][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002246s)
+[2024.11.25-21.33.51:296][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.002292s)
+[2024.11.25-21.33.51:308][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.25-21.33.51:312][628]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-21.33.51:313][628]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2024.11.25-21.33.51:315][628]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-21.33.51:315][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-21.33.51:315][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-21.33.51:315][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-21.33.51:315][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-21.33.51:315][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-21.33.51:317][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-21.33.51:327][628]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-21.33.51:327][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-21.33.51:327][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-21.33.51:327][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-21.33.51:327][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.11.25-21.33.51:327][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.11.25-21.33.51:329][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.11.25-21.33.51:329][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.11.25-21.33.51:329][628]LogInit: FAudioDevice initialized with ID 13.
+[2024.11.25-21.33.51:329][628]LogAudio: Display: Audio Device (ID: 13) registered with world 'DungeonMap'.
+[2024.11.25-21.33.51:329][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.25-21.33.51:331][628]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-21.33.51:331][628]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-21.33.51:335][628]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-13.33.51
+[2024.11.25-21.33.51:337][628]LogWorld: Bringing up level for play took: 0.004515
+[2024.11.25-21.33.51:338][628]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.11.25-21.33.51:387][628]PIE: Server logged in
+[2024.11.25-21.33.51:387][628]PIE: Play in editor total start time 0.135 seconds.
+[2024.11.25-21.34.48:096][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.34.48:096][ 28]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.34.48:096][ 28]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-21.34.48:097][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.34.48:100][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-21.34.48:103][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.34.48:119][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-21.34.48:119][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.11.25-21.34.48:119][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.25-21.34.48:121][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.11.25-21.34.48:123][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.34.48:126][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.25-21.34.48:178][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.11.25-21.35.18:164][804]LogSlate: Took 0.004367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.25-21.36.10:974][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.25-21.41.56:957][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.11.25-21.41.58:966][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.41.59:020][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.25-21.41.59:020][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.25-21.41.59:030][551]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.25-21.41.59:030][551]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBaseF38F71A74C5A9209C1199E969705A8D0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.25-21.41.59:034][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.290 ms (total: 3.40 sec)
+[2024.11.25-21.41.59:066][551]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-21.41.59:066][551]LogContentValidation: Enabled validators:
+[2024.11.25-21.41.59:066][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.41.59:066][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.41.59:066][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.41.59:066][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.41.59:066][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.41.59:066][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.41.59:066][551]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.25-21.42.02:597][762]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-21.42.02:606][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-21.42.02:635][762]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.42.02:637][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002895s)
+[2024.11.25-21.42.02:637][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.002936s)
+[2024.11.25-21.42.02:656][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.25-21.42.02:661][762]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-21.42.02:662][762]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2024.11.25-21.42.02:663][762]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-21.42.02:663][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-21.42.02:663][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-21.42.02:663][762]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-21.42.02:663][762]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-21.42.02:663][762]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-21.42.02:664][762]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-21.42.02:674][762]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-21.42.02:676][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-21.42.02:676][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-21.42.02:676][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-21.42.02:676][762]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.11.25-21.42.02:676][762]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.11.25-21.42.02:677][762]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.11.25-21.42.02:678][762]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.11.25-21.42.02:678][762]LogInit: FAudioDevice initialized with ID 14.
+[2024.11.25-21.42.02:678][762]LogAudio: Display: Audio Device (ID: 14) registered with world 'DungeonMap'.
+[2024.11.25-21.42.02:678][762]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.25-21.42.02:680][762]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-21.42.02:680][762]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-21.42.02:683][762]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-13.42.02
+[2024.11.25-21.42.02:684][762]LogWorld: Bringing up level for play took: 0.004745
+[2024.11.25-21.42.02:686][762]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.11.25-21.42.02:734][762]PIE: Server logged in
+[2024.11.25-21.42.02:736][762]PIE: Play in editor total start time 0.133 seconds.
+[2024.11.25-21.42.38:307][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.42.38:307][891]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.42.38:307][891]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-21.42.38:307][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.42.38:311][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-21.42.38:315][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.42.38:331][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-21.42.38:331][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.11.25-21.42.38:331][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.25-21.42.38:332][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.11.25-21.42.38:335][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.42.38:338][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.25-21.42.38:400][892]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.11.25-21.42.41:592][ 81]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-21.42.41:592][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.42.41:641][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.25-21.43.00:702][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.25-21.43.01:540][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.43.01:597][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.25-21.43.01:597][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.25-21.43.01:606][248]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.25-21.43.01:607][248]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase83C9404E49E5EF728F6E8E8FC1D6C96B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.25-21.43.01:611][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.388 ms (total: 3.47 sec)
+[2024.11.25-21.43.01:661][248]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-21.43.01:661][248]LogContentValidation: Enabled validators:
+[2024.11.25-21.43.01:661][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.43.01:661][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.43.01:661][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.43.01:661][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.43.01:661][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.43.01:661][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.43.01:661][248]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.25-21.43.03:403][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-21.43.03:411][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.25-21.43.03:411][352]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.43.03:413][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001686s)
+[2024.11.25-21.43.03:413][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001708s)
+[2024.11.25-21.43.03:425][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.25-21.43.03:431][352]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-21.43.03:432][352]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2024.11.25-21.43.03:433][352]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-21.43.03:433][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-21.43.03:433][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-21.43.03:433][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-21.43.03:433][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-21.43.03:433][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-21.43.03:434][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-21.43.03:444][352]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-21.43.03:444][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-21.43.03:444][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-21.43.03:444][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-21.43.03:444][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.11.25-21.43.03:444][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.11.25-21.43.03:445][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.11.25-21.43.03:445][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.11.25-21.43.03:445][352]LogInit: FAudioDevice initialized with ID 15.
+[2024.11.25-21.43.03:445][352]LogAudio: Display: Audio Device (ID: 15) registered with world 'DungeonMap'.
+[2024.11.25-21.43.03:445][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.25-21.43.03:448][352]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-21.43.03:448][352]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-21.43.03:451][352]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-13.43.03
+[2024.11.25-21.43.03:452][352]LogWorld: Bringing up level for play took: 0.004007
+[2024.11.25-21.43.03:454][352]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.11.25-21.43.03:501][352]PIE: Server logged in
+[2024.11.25-21.43.03:502][352]PIE: Play in editor total start time 0.094 seconds.
+[2024.11.25-21.43.41:249][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.43.41:249][610]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-21.43.41:249][610]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-21.43.41:250][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.43.41:254][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-21.43.41:256][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-21.43.41:276][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.25-21.43.41:276][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.11.25-21.43.41:276][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.11.25-21.43.41:279][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.11.25-21.43.41:282][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-21.43.41:284][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.25-21.43.41:357][611]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.11.25-21.44.20:803][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.25-21.44.21:929][971]LogSlate: Window 'Save Content' being destroyed
+[2024.11.25-21.44.21:937][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-21.44.22:001][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.25-21.44.22:001][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.25-21.44.22:007][971]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.25-21.44.22:007][971]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood9D508D9E47D7D846F7BC7D8C85C2C480.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.25-21.44.22:007][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Skeleton/BP_Skeleton] ([2] browsable assets)...
+[2024.11.25-21.44.22:007][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Skeleton/BP_Skeleton]
+[2024.11.25-21.44.22:010][971]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Skeleton/BP_Skeleton
+[2024.11.25-21.44.22:010][971]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_SkeletonCF9FE6C842065411E93694A38C92F2C5.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/Skeleton/BP_Skeleton.uasset'
+[2024.11.25-21.44.22:014][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.836 ms (total: 3.55 sec)
+[2024.11.25-21.44.22:064][971]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.25-21.44.22:064][971]LogContentValidation: Enabled validators:
+[2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-21.44.22:064][971]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.25-21.44.22:064][971]AssetCheck: /Game/Blueprints/Characters/Skeleton/BP_Skeleton Validating asset
