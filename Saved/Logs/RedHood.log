@@ -7302,3 +7302,54 @@ Make sure 'BP_CharacterBase_C' has been compiled for  Calculate New Health
 [2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.11.26-07.54.48:639][870]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-07.56.41:594][697]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/RedHood/AN_EnableInput.AN_EnableInput
+[2024.11.26-07.56.41:595][697]LogChaosDD: Creating Chaos Debug Draw Scene for world World_51
+[2024.11.26-07.58.15:880][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.26-07.58.16:825][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.58.16:877][350]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Interfaces/BPI_Player] ([2] browsable assets)...
+[2024.11.26-07.58.16:877][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Interfaces/BPI_Player]
+[2024.11.26-07.58.16:878][350]LogSavePackage: Moving output files for package: /Game/Blueprints/Interfaces/BPI_Player
+[2024.11.26-07.58.16:878][350]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BPI_Player83A2C93844AF162B4E7532A43CA019A5.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Interfaces/BPI_Player.uasset'
+[2024.11.26-07.58.16:884][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.303 ms (total: 7.94 sec)
+[2024.11.26-07.58.16:939][350]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.58.16:939][350]LogContentValidation: Enabled validators:
+[2024.11.26-07.58.16:939][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.58.16:939][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.58.16:939][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.58.16:939][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.58.16:939][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.58.16:939][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.58.16:939][350]AssetCheck: /Game/Blueprints/Interfaces/BPI_Player Validating asset
+[2024.11.26-07.59.45:338][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.26-08.00.34:304][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-08.00.34:335][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-08.00.34:335][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-08.00.34:349][467]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-08.00.34:350][467]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodFAD707484667678765637494B347AABC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-08.00.34:355][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.992 ms (total: 8.00 sec)
+[2024.11.26-08.00.34:418][467]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-08.00.34:418][467]LogContentValidation: Enabled validators:
+[2024.11.26-08.00.34:418][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-08.00.34:418][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-08.00.34:418][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-08.00.34:418][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-08.00.34:418][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-08.00.34:418][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-08.00.34:418][467]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-08.00.44:390][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.26-08.00.45:316][ 62]LogSlate: Window 'Save Content' being destroyed
+[2024.11.26-08.00.45:327][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-08.00.45:359][ 62]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/AN_EnableInput] ([2] browsable assets)...
+[2024.11.26-08.00.45:359][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/AN_EnableInput]
+[2024.11.26-08.00.45:361][ 62]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/AN_EnableInput
+[2024.11.26-08.00.45:361][ 62]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AN_EnableInput6E11FB414735802E28E89AAFD06BFE7B.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/AN_EnableInput.uasset'
+[2024.11.26-08.00.45:366][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.298 ms (total: 8.03 sec)
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: Enabled validators:
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-08.00.45:424][ 62]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-08.00.45:424][ 62]AssetCheck: /Game/Blueprints/Characters/RedHood/AN_EnableInput Validating asset
