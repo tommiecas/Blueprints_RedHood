@@ -301,6 +301,8 @@
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/Skeleton/AN_SetHitReacting.uasset",
+				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AN_ResetCombatVariables.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Sounds/MS_Footsteps.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Sounds/MS_JumpStart.uasset",
 				"C:/Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Assets/Sounds/Skeleton/Attack/MS_SkeletonHit.uasset",
