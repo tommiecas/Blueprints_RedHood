@@ -6735,3 +6735,570 @@ Make sure 'BP_CharacterBase_C' has been compiled for  Calculate New Health
 [2024.11.26-03.55.45:256][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.11.26-03.55.45:258][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2024.11.26-03.55.45:287][784]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.11.26-04.10.40:294][740]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.26-05.10.40:419][538]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.26-06.10.40:519][336]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.26-07.10.40:600][135]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.26-07.11.40:809][750]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.11.26-07.11.40:813][750]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.11.26-07.11.40:825][751]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.11.26-07.11.48:170][192]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> AttackAnimData
+[2024.11.26-07.11.48:215][192]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.11.26-07.11.52:341][439]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData.AttackAnimData
+[2024.11.26-07.12.41:422][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.12.41:479][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.12.41:479][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.12.41:480][355]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.12.41:480][355]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData54F352CA4BA21FD19CE1D7A91CD0D364.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.12.41:487][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.713 ms (total: 6.89 sec)
+[2024.11.26-07.12.41:544][355]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.12.41:544][355]LogContentValidation: Enabled validators:
+[2024.11.26-07.12.41:544][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.12.41:544][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.12.41:544][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.12.41:544][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.12.41:544][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.12.41:544][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.12.41:544][355]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.13.17:361][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.26-07.14.46:832][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.26-07.14.48:577][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.14.48:632][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow] ([2] browsable assets)...
+[2024.11.26-07.14.48:632][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow]
+[2024.11.26-07.14.48:634][940]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow
+[2024.11.26-07.14.48:634][940]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AN_SetAttackWindow950CDDF441A26A7CDB381BBBDE74F7DC.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.uasset'
+[2024.11.26-07.14.48:640][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.002 ms (total: 6.95 sec)
+[2024.11.26-07.14.48:673][940]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.14.48:673][940]LogContentValidation: Enabled validators:
+[2024.11.26-07.14.48:673][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.14.48:673][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.14.48:673][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.14.48:673][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.14.48:674][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.14.48:674][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.14.48:674][940]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow Validating asset
+[2024.11.26-07.16.05:460][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.26-07.16.35:664][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.26-07.17.15:761][676]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData.AttackAnimData
+[2024.11.26-07.18.30:367][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.18.30:427][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.18.30:427][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.18.30:428][ 87]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.18.30:428][ 87]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData1EBDDDEA442E417692B1EFB0CCBB6480.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.18.30:434][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.201 ms (total: 7.02 sec)
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: Enabled validators:
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.18.30:491][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.18.30:491][ 87]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.21.40:459][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.21.40:520][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.21.40:520][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.21.40:521][397]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.21.40:521][397]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimDataDE77253C4130735E36141D80F56F1A90.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.21.40:525][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.030 ms (total: 7.08 sec)
+[2024.11.26-07.21.40:584][397]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.21.40:584][397]LogContentValidation: Enabled validators:
+[2024.11.26-07.21.40:584][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.21.40:584][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.21.40:584][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.21.40:584][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.21.40:584][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.21.40:585][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.21.40:585][397]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.23.01:682][171]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimSequence_Flipbook /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1
+[2024.11.26-07.23.01:708][171]LogChaosDD: Creating Chaos Debug Draw Scene for world World_50
+[2024.11.26-07.23.01:865][171]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.02:092][183]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.02:126][185]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.02:163][186]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.02:562][210]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.02:596][212]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.02:613][213]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:029][238]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:063][240]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:079][241]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:496][266]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:530][268]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:546][269]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:963][294]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.03:996][296]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:013][297]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:430][322]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:463][324]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:479][325]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:896][350]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:929][352]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.04:946][353]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.05:363][378]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.05:396][380]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.05:413][381]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.05:829][406]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.05:863][408]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.05:879][409]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.06:296][434]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.06:330][436]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.06:346][437]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.06:762][462]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.06:796][464]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.06:813][465]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.07:229][490]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.07:263][492]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.07:280][493]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.07:696][518]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.07:729][520]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_AttackFinished_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_AttackFinished_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_AttackFinished.AN_AttackFinished_C:OnReceiveNotify:0016
+[2024.11.26-07.23.07:746][521]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.08:163][546]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.08:213][549]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.08:630][574]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.08:679][577]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_0
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.09:096][602]LogScript: Warning: Accessed None trying to read property OwningInstance
+	AN_SetAttackWindow_C /Game/Blueprints/Characters/RedHood/AnimSequences/Attack1.Attack1:AN_SetAttackWindow_C_1
+	Function /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.AN_SetAttackWindow_C:OnReceiveNotify:0016
+[2024.11.26-07.23.34:985][154]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.34:985][154]LogEditorTransaction: Undo Rename Variable
+[2024.11.26-07.23.35:793][179]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.35:793][179]LogEditorTransaction: Undo Add Variable
+[2024.11.26-07.23.36:026][193]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.36:026][193]LogEditorTransaction: Undo Remove Variable
+[2024.11.26-07.23.36:243][206]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.36:243][206]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.26-07.23.36:433][215]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.36:433][215]LogEditorTransaction: Undo Add Child
+[2024.11.26-07.23.36:633][227]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.36:633][227]LogEditorTransaction: Undo Add Child
+[2024.11.26-07.23.36:800][237]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.36:800][237]LogEditorTransaction: Undo Add Child
+[2024.11.26-07.23.37:000][249]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.37:000][249]LogEditorTransaction: Undo Rename Variable
+[2024.11.26-07.23.37:219][262]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.37:219][262]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.26-07.23.37:420][274]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.37:420][274]LogEditorTransaction: Undo Add Variable
+[2024.11.26-07.23.37:640][287]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.37:640][287]LogEditorTransaction: Undo Remove Variable
+[2024.11.26-07.23.37:855][300]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.37:855][300]LogEditorTransaction: Undo Add Child
+[2024.11.26-07.23.38:056][312]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.38:056][312]LogEditorTransaction: Undo Add Child
+[2024.11.26-07.23.38:256][324]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.38:256][324]LogEditorTransaction: Undo Add Child
+[2024.11.26-07.23.38:456][336]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.38:456][336]LogEditorTransaction: Undo Rename Variable
+[2024.11.26-07.23.38:673][349]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.38:673][349]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.26-07.23.38:920][354]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.38:920][354]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.26-07.23.39:146][358]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.39:146][358]LogEditorTransaction: Undo Add Variable
+[2024.11.26-07.23.39:343][367]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.39:343][367]LogEditorTransaction: Undo Rename Variable
+[2024.11.26-07.23.39:549][377]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.39:549][377]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.26-07.23.39:781][389]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.39:781][389]LogEditorTransaction: Undo Add Variable
+[2024.11.26-07.23.40:044][403]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.40:044][403]LogEditorTransaction: Undo Change Parameter Type
+[2024.11.26-07.23.40:306][417]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.40:306][417]LogEditorTransaction: Undo Rename Variable
+[2024.11.26-07.23.41:565][491]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.41:565][491]LogEditorTransaction: Undo Add Variable
+[2024.11.26-07.23.41:583][491]LogBlueprint: Error: [AssetLog] C:\Users\tom\Documents\Unreal Projects\Blueprints\Blueprints_RedHood\Content\Blueprints\Characters\RedHood\Combat\AttackAnimData.uasset: [Compiler] Structure 'UserDefinedStruct /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData.AttackAnimData' is empty 
+[2024.11.26-07.23.42:438][542]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.42:438][542]LogEditorTransaction: Undo Create Pin Link
+[2024.11.26-07.23.42:751][548]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.42:751][548]LogEditorTransaction: Undo Create Pin Link
+[2024.11.26-07.23.44:271][629]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.44:271][629]LogEditorTransaction: Undo Move Nodes
+[2024.11.26-07.23.46:190][744]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.46:190][744]LogEditorTransaction: Undo Paste clipboard contents
+[2024.11.26-07.23.48:116][839]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.48:116][839]LogEditorTransaction: Undo Create Pin Link
+[2024.11.26-07.23.49:118][899]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.49:118][899]LogEditorTransaction: Undo Move Node
+[2024.11.26-07.23.50:172][962]Cmd: TRANSACTION UNDO
+[2024.11.26-07.23.50:172][962]LogEditorTransaction: Undo Move Nodes
+[2024.11.26-07.24.00:434][556]Cmd: TRANSACTION UNDO
+[2024.11.26-07.24.00:434][556]LogEditorTransaction: Undo Add Node
+[2024.11.26-07.25.50:036][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.25.50:101][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.25.50:101][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.25.50:101][ 68]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.25.50:102][ 68]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData608A71114F70CCFBBC749E83BED66A4C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.25.50:107][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.582 ms (total: 7.15 sec)
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: Enabled validators:
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.25.50:167][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.25.50:167][ 68]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.27.41:201][628]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.11.26-07.27.41:201][628]LogStatusBar: StatusBar: LevelEditor.StatusBar was content browser was not opened
+[2024.11.26-07.27.41:201][628]LogStatusBar: Using status bar: BlueprintEditorApp_29 to dock content browser
+[2024.11.26-07.27.41:404][628]LogSlate: Took 0.003850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.26-07.28.21:610][940]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData.AttackAnimData
+[2024.11.26-07.29.18:602][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.29.18:652][254]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.29.18:652][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.29.18:653][254]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.29.18:653][254]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData165B5FB34424EA402EE9BC8E6DCE4880.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.29.18:658][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.601 ms (total: 7.21 sec)
+[2024.11.26-07.29.18:718][254]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.29.18:718][254]LogContentValidation: Enabled validators:
+[2024.11.26-07.29.18:718][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.29.18:718][254]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.29.18:718][254]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.29.18:718][254]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.29.18:718][254]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.29.18:718][254]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.29.18:718][254]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.29.18:927][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.29.18:989][267]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.29.18:989][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.29.18:990][267]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.29.18:990][267]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData417AFBB7409B684A583FFFB485C9DD4D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.29.18:995][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.880 ms (total: 7.28 sec)
+[2024.11.26-07.29.19:054][267]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.29.19:054][267]LogContentValidation: Enabled validators:
+[2024.11.26-07.29.19:054][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.29.19:054][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.29.19:054][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.29.19:054][267]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.29.19:054][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.29.19:054][267]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.29.19:054][267]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.29.19:264][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.29.19:318][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.29.19:318][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.29.19:318][280]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.29.19:319][280]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData2B815FB645A06B7D6295408F896623C8.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.29.19:323][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.998 ms (total: 7.34 sec)
+[2024.11.26-07.29.19:384][280]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.29.19:384][280]LogContentValidation: Enabled validators:
+[2024.11.26-07.29.19:384][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.29.19:384][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.29.19:384][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.29.19:384][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.29.19:384][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.29.19:384][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.29.19:384][280]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.29.19:612][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.29.19:649][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.29.19:649][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.29.19:650][294]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.29.19:650][294]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimDataD36D5ECF40FC8DFF379F36AAA0DB5C36.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.29.19:655][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.267 ms (total: 7.38 sec)
+[2024.11.26-07.29.19:712][294]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.29.19:712][294]LogContentValidation: Enabled validators:
+[2024.11.26-07.29.19:712][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.29.19:712][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.29.19:712][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.29.19:712][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.29.19:712][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.29.19:712][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.29.19:712][294]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.29.45:859][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.26-07.30.29:883][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.26-07.31.00:181][148]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData.AttackAnimData
+[2024.11.26-07.31.09:490][697]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.26-07.31.09:493][697]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.26-07.31.26:461][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.31.26:522][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.31.26:522][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.31.26:523][697]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.31.26:524][697]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData944E7EC94EE6E4B2F7E00A833AD046C9.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.31.26:529][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.633 ms (total: 7.45 sec)
+[2024.11.26-07.31.26:586][697]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.31.26:586][697]LogContentValidation: Enabled validators:
+[2024.11.26-07.31.26:586][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.31.26:586][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.31.26:586][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.31.26:586][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.31.26:586][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.31.26:586][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.31.26:586][697]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.31.32:766][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.31.32:805][ 68]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.31.32:805][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.31.32:806][ 68]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.31.32:806][ 68]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData51CAF0784A64D1CEA8BBC19F5D2DC8EA.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.31.32:811][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.651 ms (total: 7.49 sec)
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: Enabled validators:
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.31.32:867][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.31.32:867][ 68]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.31.33:093][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.31.33:141][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData] ([1] browsable assets)...
+[2024.11.26-07.31.33:141][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AttackAnimData]
+[2024.11.26-07.31.33:142][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData
+[2024.11.26-07.31.33:142][ 82]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AttackAnimData7804DB96449A80F75A9F7CAB1B162B71.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AttackAnimData.uasset'
+[2024.11.26-07.31.33:147][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.779 ms (total: 7.55 sec)
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: Enabled validators:
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.31.33:201][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.31.33:201][ 82]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AttackAnimData Validating asset
+[2024.11.26-07.31.35:622][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.11.26-07.31.36:998][224]LogSlate: Window 'Save Content' being destroyed
+[2024.11.26-07.31.37:007][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.31.37:041][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow] ([2] browsable assets)...
+[2024.11.26-07.31.37:041][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow]
+[2024.11.26-07.31.37:043][224]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow
+[2024.11.26-07.31.37:043][224]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/AN_SetAttackWindow6CFDC54947D1260E3D8266AC68EC33D9.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow.uasset'
+[2024.11.26-07.31.37:044][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-07.31.37:044][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-07.31.37:056][224]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-07.31.37:056][224]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodA169A3C541D377F149ADD59F2925F9F0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-07.31.37:061][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.513 ms (total: 7.60 sec)
+[2024.11.26-07.31.37:103][224]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.26-07.31.37:103][224]LogContentValidation: Enabled validators:
+[2024.11.26-07.31.37:103][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.31.37:103][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.31.37:103][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.31.37:103][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.31.37:103][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.31.37:103][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.31.37:103][224]AssetCheck: /Game/Blueprints/Characters/RedHood/Combat/AN_SetAttackWindow Validating asset
+[2024.11.26-07.31.37:103][224]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-07.31.43:246][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.26-07.32.20:727][807]LogClass: Warning: Type mismatch in AttackAnimData of BP_RedHood_C - Previous (StructProperty) Current(ArrayProperty) in package: FObjectReader
+[2024.11.26-07.32.20:755][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.26-07.33.15:512][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.26-07.33.16:504][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.33.16:553][ 86]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-07.33.16:553][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-07.33.16:566][ 86]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-07.33.16:566][ 86]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodAF15A0D24F1B45361F76AFB5C875ED52.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-07.33.16:571][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.324 ms (total: 7.67 sec)
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: Enabled validators:
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.33.16:620][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.33.16:620][ 86]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-07.39.59:144][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.26-07.42.59:091][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.26-07.43.00:260][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.43.00:310][762]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-07.43.00:310][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-07.43.00:323][762]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-07.43.00:323][762]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood5805F46C429E5DDCD45C60A397B9E41A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-07.43.00:329][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.002 ms (total: 7.74 sec)
+[2024.11.26-07.43.00:374][762]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.43.00:375][762]LogContentValidation: Enabled validators:
+[2024.11.26-07.43.00:375][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.43.00:375][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.43.00:375][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.43.00:375][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.43.00:375][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.43.00:375][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.43.00:375][762]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-07.43.11:244][414]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.26-07.43.11:252][414]LogPlayLevel: [PlayLevel] Compiling AN_SetAttackWindow before play...
+[2024.11.26-07.43.11:287][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.26-07.43.11:294][414]LogPlayLevel: PlayLevel: Blueprint regeneration took 41 ms (1 blueprints)
+[2024.11.26-07.43.11:294][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-07.43.11:296][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001822s)
+[2024.11.26-07.43.11:296][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001849s)
+[2024.11.26-07.43.11:308][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.26-07.43.11:311][414]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.26-07.43.11:311][414]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2024.11.26-07.43.11:312][414]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-07.43.11:312][414]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.26-07.43.11:312][414]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-07.43.11:312][414]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-07.43.11:312][414]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-07.43.11:312][414]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-07.43.11:314][414]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.26-07.43.11:324][414]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.26-07.43.11:324][414]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-07.43.11:324][414]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-07.43.11:324][414]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-07.43.11:325][414]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.11.26-07.43.11:325][414]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.11.26-07.43.11:326][414]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.11.26-07.43.11:326][414]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.11.26-07.43.11:326][414]LogInit: FAudioDevice initialized with ID 41.
+[2024.11.26-07.43.11:326][414]LogAudio: Display: Audio Device (ID: 41) registered with world 'DungeonMap'.
+[2024.11.26-07.43.11:326][414]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.11.26-07.43.11:329][414]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-07.43.11:329][414]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.26-07.43.11:332][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-23.43.11
+[2024.11.26-07.43.11:333][414]LogWorld: Bringing up level for play took: 0.004007
+[2024.11.26-07.43.11:334][414]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.11.26-07.43.11:384][414]PIE: Server logged in
+[2024.11.26-07.43.11:385][414]PIE: Play in editor total start time 0.136 seconds.
+[2024.11.26-07.43.22:094][ 57]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-07.43.22:094][ 57]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-07.43.22:094][ 57]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-07.43.22:094][ 57]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-07.43.38:944][ 68]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-07.43.38:944][ 68]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-07.43.38:944][ 68]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-07.43.38:944][ 68]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-07.43.41:585][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-07.43.41:585][224]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-07.43.41:585][224]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-07.43.41:586][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-07.43.41:592][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-07.43.41:594][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-07.43.41:607][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-07.43.41:607][224]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.11.26-07.43.41:607][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.11.26-07.43.41:609][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.11.26-07.43.41:614][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.26-07.43.41:647][225]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.11.26-07.44.17:596][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.26-07.44.18:075][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.26-07.53.34:871][567]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.26-07.53.43:095][ 54]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.26-07.53.51:102][528]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.26-07.53.55:376][778]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.26-07.53.59:720][ 32]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.26-07.54.05:277][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.26-07.54.05:335][356]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.26-07.54.06:331][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.54.06:379][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-07.54.06:379][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-07.54.06:393][413]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-07.54.06:393][413]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHoodE35098BB4CEA01A6A8420AB1DECD0A82.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-07.54.06:398][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.237 ms (total: 7.80 sec)
+[2024.11.26-07.54.06:445][413]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.54.06:445][413]LogContentValidation: Enabled validators:
+[2024.11.26-07.54.06:445][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.54.06:445][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.54.06:445][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.54.06:445][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.54.06:445][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.54.06:445][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.54.06:445][413]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-07.54.47:460][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.26-07.54.48:490][870]LogSlate: Window 'Save Content' being destroyed
+[2024.11.26-07.54.48:498][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-07.54.48:559][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-07.54.48:559][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-07.54.48:573][870]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-07.54.48:573][870]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood5050848742FE9A74294A5D9887595CE8.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-07.54.48:578][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.790 ms (total: 7.88 sec)
+[2024.11.26-07.54.48:639][870]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-07.54.48:639][870]LogContentValidation: Enabled validators:
+[2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-07.54.48:639][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-07.54.48:639][870]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
