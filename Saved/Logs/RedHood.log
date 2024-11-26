@@ -3877,3 +3877,529 @@ Sampler Limit: 32
 [2024.11.25-21.44.22:064][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.11.25-21.44.22:064][971]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
 [2024.11.25-21.44.22:064][971]AssetCheck: /Game/Blueprints/Characters/Skeleton/BP_Skeleton Validating asset
+[2024.11.25-22.10.39:042][671]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-22.36.31:471][775]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.25-22.36.31:478][775]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.25-22.36.31:493][776]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.25-22.36.35:136][995]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.11.25-22.36.35:136][995]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.25-22.37.23:364][669]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.11.25-22.37.23:373][669]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.11.25-22.37.23:378][669]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.11.25-22.37.23:409][671]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.11.25-22.37.23:415][672]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2024.11.25-22.37.28:453][974]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Overlay
+[2024.11.25-22.37.28:461][974]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/UI/WBP_Overlay.
+[2024.11.25-22.37.28:464][974]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.11.25-22.37.31:341][144]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_Overlay.WBP_Overlay
+[2024.11.25-22.37.31:341][144]LogChaosDD: Creating Chaos Debug Draw Scene for world World_29
+[2024.11.25-22.37.31:347][144]LogChaosDD: Creating Chaos Debug Draw Scene for world World_30
+[2024.11.25-22.37.31:353][144]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.11.25-22.37.31:452][144]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2024.11.25-22.37.31:452][144]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2024.11.25-22.37.31:716][144]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.11.25-22.38.14:070][670]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood
+[2024.11.25-22.38.14:070][670]LogChaosDD: Creating Chaos Debug Draw Scene for world World_31
+[2024.11.25-22.42.26:922][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.25-22.43.31:646][191]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.11.25-22.43.31:653][191]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.11.25-22.43.31:660][191]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.11.25-22.43.31:668][192]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.11.25-22.43.40:645][731]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_PlayerHealthBar
+[2024.11.25-22.43.40:647][731]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/UI/WBP_PlayerHealthBar.
+[2024.11.25-22.43.40:650][731]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.11.25-22.43.46:006][ 50]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar
+[2024.11.25-22.43.46:006][ 50]LogChaosDD: Creating Chaos Debug Draw Scene for world World_32
+[2024.11.25-22.43.46:011][ 50]LogChaosDD: Creating Chaos Debug Draw Scene for world World_33
+[2024.11.25-22.43.46:090][ 50]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2024.11.25-22.43.46:090][ 50]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2024.11.25-22.45.34:780][506]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-22.46.42:914][575]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-22.46.56:742][400]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: ================================================
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Total job queries 797, among them cache hits 340 (42.66%), DDC hits 150 (18.82%), Duplicates 20 (2.51%)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Tracking 437 distinct input hashes that result in 290 distinct outputs (66.36%)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: RAM used: 185.36 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Shaders Compiled: 287
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Jobs assigned 287, completed 287 (100%)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Average time worker was idle: 90.80 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.05 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 1.42 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 1.52
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Shader code size: average 9.868 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.69 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Jobs were issued in 287 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Average processing rate: 12.11 jobs/sec
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Total thread time: 76.187 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Total thread preprocess time: 8.684 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Percentage time preprocessing: 11.40%
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Effective parallelization: 3.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.62 sec, max 0.68 sec, min 0.58 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    9 times, average 0.48 sec, max 0.63 sec, min 0.43 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   17 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.28% of total time (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.25% of total time (compiled   17 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.01% of total time (compiled   33 times, average 0.21 sec, max 0.31 sec, min 0.14 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.28% of total time (compiled   24 times, average 0.23 sec, max 0.28 sec, min 0.16 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.24% of total time (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: === Material stats ===
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Materials Translated:    168
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2024.11.25-22.47.58:380][ 91]LogShaderCompilers: Display: ================================================
+[2024.11.25-22.51.48:424][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.25-22.51.49:467][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-22.51.49:533][865]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHealthBar] ([2] browsable assets)...
+[2024.11.25-22.51.49:535][865]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar]
+[2024.11.25-22.51.49:535][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHealthBar]
+[2024.11.25-22.51.49:538][865]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PlayerHealthBar
+[2024.11.25-22.51.49:538][865]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_PlayerHealthBarF1EA5E3A4F38AC989670649BB0FC290F.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/WBP_PlayerHealthBar.uasset'
+[2024.11.25-22.51.49:538][865]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/UI/WBP_PlayerHealthBar.
+[2024.11.25-22.51.49:544][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.156 ms (total: 3.62 sec)
+[2024.11.25-22.51.49:600][865]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-22.51.49:600][865]LogContentValidation: Enabled validators:
+[2024.11.25-22.51.49:600][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-22.51.49:600][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-22.51.49:600][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-22.51.49:600][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-22.51.49:600][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-22.51.49:600][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-22.51.49:601][865]AssetCheck: /Game/Blueprints/UI/WBP_PlayerHealthBar Validating asset
+[2024.11.25-22.52.46:711][250]LogSlate: Took 0.005991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.11.25-22.53.38:546][328]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.25-22.53.38:553][328]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.25-22.53.38:567][329]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.25-22.53.40:094][421]LogContentBrowser: Attempting asset rename: NewFolder -> Font
+[2024.11.25-22.53.40:094][421]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.25-22.54.57:742][ 55]LogAssetEditorSubsystem: Opening Asset editor for Font /Engine/EngineFonts/TinyFont.TinyFont
+[2024.11.25-22.55.09:189][723]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-22.55.58:996][683]LogTexture: Display: Building textures: /Game/Blueprints/Font/TinyFont.TinyFont:Texture2D_29 (TFO_AutoDXT, 256x128 x1x1x1) (Required Memory Estimate: 6.16659 MB), EncodeSpeed: Fast
+[2024.11.25-22.56.30:895][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.25-22.56.30:898][143]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.087
+[2024.11.25-22.56.30:898][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.25-22.56.30:898][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.25-22.56.30:905][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto4
+[2024.11.25-22.56.30:905][143]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood_Auto48A8A383E44D2D104FDB21EA894F113EA.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto4.uasset'
+[2024.11.25-22.56.30:906][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Overlay] ([2] browsable assets)...
+[2024.11.25-22.56.30:908][143]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Overlay.WBP_Overlay]
+[2024.11.25-22.56.30:908][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Overlay]
+[2024.11.25-22.56.30:910][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_Overlay_Auto4
+[2024.11.25-22.56.30:910][143]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_Overlay_Auto43D9899D74E2E2808EF637FA9879441A2.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/UI/WBP_Overlay_Auto4.uasset'
+[2024.11.25-22.56.30:910][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHealthBar] ([2] browsable assets)...
+[2024.11.25-22.56.30:912][143]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar]
+[2024.11.25-22.56.30:912][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHealthBar]
+[2024.11.25-22.56.30:915][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto4
+[2024.11.25-22.56.30:915][143]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_PlayerHealthBar_Auto472291151439DD3B4F6F526A2C09EC786.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto4.uasset'
+[2024.11.25-22.56.30:915][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Font/TinyFont] ([1] browsable assets)...
+[2024.11.25-22.56.30:915][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Font/TinyFont]
+[2024.11.25-22.56.30:917][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Font/TinyFont_Auto4
+[2024.11.25-22.56.30:917][143]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TinyFont_Auto42A41E5AF4D0702616D677F9B2236B25D.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Font/TinyFont_Auto4.uasset'
+[2024.11.25-22.56.30:917][143]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.11.25-22.57.14:770][632]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-22.57.49:389][632]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 ../../../../../../Users/tom/Downloads/Tiny5/Tiny5-Regular.ttf)
+[2024.11.25-22.57.53:710][632]LogSlate: Window 'Font Face Import Options' being destroyed
+[2024.11.25-22.57.53:716][632]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2024.11.25-22.57.53:719][632]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2024.11.25-22.57.53:726][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-22.57.53:734][633]LogSlate: Took 0.004414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.25-22.57.53:738][633]LogSlate: Took 0.003094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.25-22.57.53:742][633]LogSlate: Took 0.003215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.25-22.57.53:745][633]LogSlate: Took 0.003412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.25-22.57.53:749][633]LogSlate: Took 0.003118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.11.25-22.58.13:336][806]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.11.25-22.58.14:666][883]LogSlate: Took 0.003915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.25-23.08.44:181][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.11.25-23.09.43:355][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.25-23.09.43:359][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.021
+[2024.11.25-23.09.43:359][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHealthBar] ([2] browsable assets)...
+[2024.11.25-23.09.43:362][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar]
+[2024.11.25-23.09.43:362][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHealthBar]
+[2024.11.25-23.09.43:365][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto5
+[2024.11.25-23.09.43:365][101]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_PlayerHealthBar_Auto5C577B11949A6F8B6DF42C98D68FB5D2F.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto5.uasset'
+[2024.11.25-23.09.43:366][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Font/Tiny5-Regular] ([1] browsable assets)...
+[2024.11.25-23.09.43:366][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Font/Tiny5-Regular]
+[2024.11.25-23.09.43:366][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Font/Tiny5-Regular_Auto5
+[2024.11.25-23.09.43:366][101]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Tiny5-Regular_Auto52D13C03E43F39D8C15FB29AA70074C28.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Font/Tiny5-Regular_Auto5.uasset'
+[2024.11.25-23.09.43:366][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Font/Tiny5-Regular_Font] ([1] browsable assets)...
+[2024.11.25-23.09.43:366][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Font/Tiny5-Regular_Font]
+[2024.11.25-23.09.43:367][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Font/Tiny5-Regular_Font_Auto5
+[2024.11.25-23.09.43:367][101]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Tiny5-Regular_Font_Auto5168796984D6FCD030E6D1F8851B105E6.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Font/Tiny5-Regular_Font_Auto5.uasset'
+[2024.11.25-23.09.43:367][101]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.11.25-23.10.39:110][446]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.25-23.19.19:067][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.25-23.19.20:643][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.25-23.19.20:699][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Overlay] ([2] browsable assets)...
+[2024.11.25-23.19.20:702][637]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Overlay.WBP_Overlay]
+[2024.11.25-23.19.20:702][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Overlay]
+[2024.11.25-23.19.20:704][637]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Overlay
+[2024.11.25-23.19.20:704][637]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_Overlay35CD54A84273522E0B9A538F912A617F.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/WBP_Overlay.uasset'
+[2024.11.25-23.19.20:704][637]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/UI/WBP_Overlay.
+[2024.11.25-23.19.20:712][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.778 ms (total: 3.69 sec)
+[2024.11.25-23.19.20:764][637]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.25-23.19.20:764][637]LogContentValidation: Enabled validators:
+[2024.11.25-23.19.20:764][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.25-23.19.20:764][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.25-23.19.20:764][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.25-23.19.20:764][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.25-23.19.20:764][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.25-23.19.20:764][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.25-23.19.20:765][637]AssetCheck: /Game/Blueprints/UI/WBP_Overlay Validating asset
+[2024.11.25-23.19.23:024][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.25-23.19.23:034][772]LogPlayLevel: [PlayLevel] Compiling BP_RedHood before play...
+[2024.11.25-23.19.23:076][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.25-23.19.23:081][772]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2024.11.25-23.19.23:081][772]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-23.19.23:082][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001776s)
+[2024.11.25-23.19.23:082][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001801s)
+[2024.11.25-23.19.23:096][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.11.25-23.19.23:097][772]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.25-23.19.23:098][772]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2024.11.25-23.19.23:099][772]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.25-23.19.23:099][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.25-23.19.23:099][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.25-23.19.23:099][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.25-23.19.23:099][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.25-23.19.23:099][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.25-23.19.23:101][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.25-23.19.23:113][772]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.25-23.19.23:113][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.25-23.19.23:113][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.25-23.19.23:113][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.25-23.19.23:114][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.11.25-23.19.23:114][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.11.25-23.19.23:115][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.11.25-23.19.23:115][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.11.25-23.19.23:115][772]LogInit: FAudioDevice initialized with ID 16.
+[2024.11.25-23.19.23:115][772]LogAudio: Display: Audio Device (ID: 16) registered with world 'DungeonMap'.
+[2024.11.25-23.19.23:115][772]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.11.25-23.19.23:117][772]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.25-23.19.23:117][772]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.25-23.19.23:120][772]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-15.19.23
+[2024.11.25-23.19.23:122][772]LogWorld: Bringing up level for play took: 0.004466
+[2024.11.25-23.19.23:123][772]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.11.25-23.19.23:173][772]PIE: Server logged in
+[2024.11.25-23.19.23:174][772]PIE: Play in editor total start time 0.144 seconds.
+[2024.11.25-23.19.23:185][772]LogSlate: Took 0.004372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.25-23.28.19:958][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-23.28.19:958][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.25-23.28.19:959][219]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.25-23.28.19:959][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-23.28.19:966][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.25-23.28.19:968][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.25-23.28.19:984][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.25-23.28.19:984][219]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.11.25-23.28.19:984][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.11.25-23.28.19:987][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.11.25-23.28.19:993][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.25-23.28.20:034][220]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.11.25-23.28.58:773][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.25-23.28.58:775][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.018
+[2024.11.25-23.28.58:776][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.25-23.28.58:776][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.25-23.28.58:783][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto6
+[2024.11.25-23.28.58:783][511]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood_Auto694EB248A499CC2351F9A5995690A75E3.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto6.uasset'
+[2024.11.25-23.28.58:784][511]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHealthBar] ([2] browsable assets)...
+[2024.11.25-23.28.58:786][511]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar]
+[2024.11.25-23.28.58:786][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHealthBar]
+[2024.11.25-23.28.58:789][511]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto6
+[2024.11.25-23.28.58:789][511]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_PlayerHealthBar_Auto667CEE3CB465C0B4A413F679F6F7D4655.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto6.uasset'
+[2024.11.25-23.28.58:789][511]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.11.26-00.10.39:171][620]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.26-00.35.31:563][234]LogSlate: Took 0.003510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.26-00.38.31:013][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.26-00.42.40:966][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.26-00.45.22:475][136]LogSlate: Window 'Delete Function' being destroyed
+[2024.11.26-00.45.26:443][371]LogBlueprint: Error: [AssetLog] C:\Users\tom\Documents\Unreal Projects\Blueprints\Blueprints_RedHood\Content\Blueprints\Characters\BP_CharacterBase.uasset: [Compiler] Could not find a function named "CalculateNewHealth" in 'BP_CharacterBase_C'.
+Make sure 'BP_CharacterBase_C' has been compiled for  Calculate New Health
+[2024.11.26-00.45.26:538][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.26-00.47.33:573][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.11.26-00.49.59:535][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.26-00.49.59:539][570]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.022
+[2024.11.26-00.49.59:539][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.26-00.49.59:539][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.26-00.49.59:547][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_CharacterBase_Auto7
+[2024.11.26-00.49.59:547][570]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase_Auto70C5BF71F479AAE9F2F75F89804C9D99F.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/BP_CharacterBase_Auto7.uasset'
+[2024.11.26-00.49.59:549][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-00.49.59:549][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-00.49.59:555][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto7
+[2024.11.26-00.49.59:555][570]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood_Auto7AECA9F6746A836A28ECF4EB002638048.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto7.uasset'
+[2024.11.26-00.49.59:556][570]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHealthBar] ([2] browsable assets)...
+[2024.11.26-00.49.59:559][570]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar]
+[2024.11.26-00.49.59:559][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHealthBar]
+[2024.11.26-00.49.59:565][570]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto7
+[2024.11.26-00.49.59:565][570]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_PlayerHealthBar_Auto77AA1EEF74F5344FC3E8696AE02EF7E9A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/UI/WBP_PlayerHealthBar_Auto7.uasset'
+[2024.11.26-00.49.59:565][570]LogFileHelpers: Auto-saving content packages took 0.026
+[2024.11.26-01.04.45:557][689]LogBlueprint: Warning: Blueprint BP_RedHood (child of/implements BP_CharacterBase) has a function graph with a conflicting name (CalculateNewHealth). Changing to CalculateNewHealth_0.
+[2024.11.26-01.05.52:394][651]LogBlueprint: Error: [AssetLog] C:\Users\tom\Documents\Unreal Projects\Blueprints\Blueprints_RedHood\Content\Blueprints\Characters\BP_CharacterBase.uasset: [Compiler] In use pin  Damage  no longer exists on node  CalculateNewHealth . Please refresh node or break links to remove pin.
+[2024.11.26-01.05.52:490][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.26-01.07.12:768][454]LogBlueprint: Error: [AssetLog] C:\Users\tom\Documents\Unreal Projects\Blueprints\Blueprints_RedHood\Content\Blueprints\Characters\BP_CharacterBase.uasset: [Compiler] In use pin  Damage  no longer exists on node  CalculateNewHealth . Please refresh node or break links to remove pin.
+[2024.11.26-01.07.12:859][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.26-01.07.46:525][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.11.26-01.08.05:278][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.11.26-01.10.14:574][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.26-01.10.32:550][295]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.26-01.10.32:559][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-01.10.32:560][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-01.10.32:561][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001794s)
+[2024.11.26-01.10.32:561][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001819s)
+[2024.11.26-01.10.32:574][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.11.26-01.10.32:577][295]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.26-01.10.32:578][295]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2024.11.26-01.10.32:579][295]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-01.10.32:579][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.26-01.10.32:579][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-01.10.32:579][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-01.10.32:579][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-01.10.32:579][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-01.10.32:580][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.26-01.10.32:591][295]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.26-01.10.32:591][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-01.10.32:592][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-01.10.32:592][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-01.10.32:592][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.11.26-01.10.32:592][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.11.26-01.10.32:593][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.11.26-01.10.32:593][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.11.26-01.10.32:593][295]LogInit: FAudioDevice initialized with ID 17.
+[2024.11.26-01.10.32:593][295]LogAudio: Display: Audio Device (ID: 17) registered with world 'DungeonMap'.
+[2024.11.26-01.10.32:593][295]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.26-01.10.32:596][295]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-01.10.32:596][295]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.26-01.10.32:599][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.25-17.10.32
+[2024.11.26-01.10.32:601][295]LogWorld: Bringing up level for play took: 0.004259
+[2024.11.26-01.10.32:602][295]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.11.26-01.10.32:651][295]PIE: Server logged in
+[2024.11.26-01.10.32:652][295]PIE: Play in editor total start time 0.096 seconds.
+[2024.11.26-01.10.39:561][709]LogDerivedDataCache: C:/Users/tom/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.26-01.10.55:830][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-01.10.55:830][682]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-01.10.55:831][682]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-01.10.55:831][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-01.10.55:837][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-01.10.55:840][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-01.10.55:851][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-01.10.55:851][682]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.26-01.10.55:851][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.26-01.10.55:853][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.26-01.10.55:856][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-01.10.55:859][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.26-01.10.55:913][683]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.11.26-01.11.55:578][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.26-01.11.55:581][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DungeonMap' took 0.021
+[2024.11.26-01.11.55:581][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.26-01.11.55:581][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.26-01.11.55:590][749]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_CharacterBase_Auto8
+[2024.11.26-01.11.55:590][749]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase_Auto86EB87B6C4654A577064E7FBAED1EEEF0.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/BP_CharacterBase_Auto8.uasset'
+[2024.11.26-01.11.55:590][749]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-01.11.55:590][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-01.11.55:598][749]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto8
+[2024.11.26-01.11.55:598][749]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood_Auto831B7FA914FA060E7F6751CB61B19568C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/Characters/RedHood/BP_RedHood_Auto8.uasset'
+[2024.11.26-01.11.55:598][749]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Overlay] ([2] browsable assets)...
+[2024.11.26-01.11.55:601][749]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Overlay.WBP_Overlay]
+[2024.11.26-01.11.55:601][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Overlay]
+[2024.11.26-01.11.55:603][749]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/WBP_Overlay_Auto8
+[2024.11.26-01.11.55:603][749]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_Overlay_Auto851D4A4A4470D369E488DABA2E362448C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Autosaves/Game/Blueprints/UI/WBP_Overlay_Auto8.uasset'
+[2024.11.26-01.11.55:603][749]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.11.26-01.12.55:744][370]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-01.12.55:783][370]LogInterchangeEngine: [Pending] Importing
+[2024.11.26-01.12.55:783][370]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/tom/Downloads/Retro Inventory/Retro Inventory/Original/Heart_Red.png]
+[2024.11.26-01.12.55:841][372]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-01.12.55:842][373]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.11.26-01.13.10:054][201]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0 . Response: 
+[2024.11.26-01.13.10:054][201]LogZenServiceInstance: Display: Local ZenServer recovery being attempted...
+[2024.11.26-01.13.10:054][201]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 11760
+[2024.11.26-01.13.10:054][201]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2024.11.26-01.13.10:054][201]LogZenServiceInstance: Display: Launching executable 'C:/Users/tom/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/tom/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/tom/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\tom\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 21472 --child-id Zen_21472_Startup'
+[2024.11.26-01.13.10:116][205]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2024.11.26-01.13.10:116][205]LogZenServiceInstance: Display: Local ZenServer recovery finished.
+[2024.11.26-01.13.10:116][205]LogZenServiceInstance: Display: Local ZenServer post recovery status: Healthy
+[2024.11.26-01.13.10:116][205]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red.Heart_Red (TFO_AutoDXT, 64x16 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2024.11.26-01.13.10:128][205]LogInterchangeEngine: Display: Interchange import completed [C:/Users/tom/Downloa...o Inventory/Original/Heart_Red.png]
+[2024.11.26-01.13.10:132][205]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2024.11.26-01.13.10:132][205]LogInterchangeEngine: [Success] Import Done
+[2024.11.26-01.13.14:289][454]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/UI/Heart_Red.Heart_Red
+[2024.11.26-01.14.09:822][669]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-01.14.09:838][669]LogInterchangeEngine: [Pending] Importing
+[2024.11.26-01.14.09:838][669]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/tom/Downloads/Retro Inventory/Retro Inventory/Original/Heart_Red_1.png]
+[2024.11.26-01.14.09:839][669]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.26-01.14.09:839][669]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/tom/Downloads/Retro Inventory/Retro Inventory/Original/Heart_Red_2.png]
+[2024.11.26-01.14.09:839][669]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.11.26-01.14.09:839][669]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/tom/Downloads/Retro Inventory/Retro Inventory/Original/Heart_Red_3.png]
+[2024.11.26-01.14.09:839][669]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.11.26-01.14.09:839][669]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/tom/Downloads/Retro Inventory/Retro Inventory/Original/Heart_Red_4.png]
+[2024.11.26-01.14.09:911][671]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-01.14.09:911][672]LogCore: PNG has binary transparency, doing fill of RGB in transparent background, due to setting PNGInfill != Never
+[2024.11.26-01.14.09:911][672]LogCore: PNG has binary transparency, doing fill of RGB in transparent background, due to setting PNGInfill != Never
+[2024.11.26-01.14.09:911][672]LogCore: PNG has binary transparency, doing fill of RGB in transparent background, due to setting PNGInfill != Never
+[2024.11.26-01.14.09:911][672]LogCore: PNG has binary transparency, doing fill of RGB in transparent background, due to setting PNGInfill != Never
+[2024.11.26-01.14.09:927][672]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red_1.Heart_Red_1 (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 1.040326 MB), EncodeSpeed: Fast
+[2024.11.26-01.14.09:928][672]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red_2.Heart_Red_2 (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 1.040326 MB), EncodeSpeed: Fast
+[2024.11.26-01.14.09:928][672]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red_3.Heart_Red_3 (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 1.040326 MB), EncodeSpeed: Fast
+[2024.11.26-01.14.09:928][673]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red_4.Heart_Red_4 (TFO_AutoDXT, 16x16 x1x1x1) (Required Memory Estimate: 1.040326 MB), EncodeSpeed: Fast
+[2024.11.26-01.14.09:944][673]LogInterchangeEngine: Display: Interchange import completed [C:/Users/tom/Downloa...o Inventory/Original/Heart_Red_1.png]
+[2024.11.26-01.14.09:944][673]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.11.26-01.14.09:944][673]LogInterchangeEngine: Display: Interchange import completed [C:/Users/tom/Downloa...o Inventory/Original/Heart_Red_2.png]
+[2024.11.26-01.14.09:944][673]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.26-01.14.09:945][673]LogInterchangeEngine: Display: Interchange import completed [C:/Users/tom/Downloa...o Inventory/Original/Heart_Red_3.png]
+[2024.11.26-01.14.09:945][673]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.11.26-01.14.09:945][673]LogInterchangeEngine: Display: Interchange import completed [C:/Users/tom/Downloa...o Inventory/Original/Heart_Red_4.png]
+[2024.11.26-01.14.09:955][673]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2024.11.26-01.14.09:955][673]LogInterchangeEngine: [Success] Import Done
+[2024.11.26-01.14.15:090][981]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Blueprints/UI/Heart_Red_1.Heart_Red_1
+[2024.11.26-01.16.16:576][210]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red_1.Heart_Red_1 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Final
+[2024.11.26-01.16.21:083][474]LogTexture: Display: Building textures: /Game/Blueprints/UI/Heart_Red_2.Heart_Red_2 (BGRA8, 16x16 x1x1x1) (Required Memory Estimate: 1.008781 MB), EncodeSpeed: Fast
+[2024.11.26-01.17.49:608][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.11.26-01.17.51:389][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-01.17.51:443][821]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_PlayerHealthBar] ([2] browsable assets)...
+[2024.11.26-01.17.51:444][821]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_PlayerHealthBar.WBP_PlayerHealthBar]
+[2024.11.26-01.17.51:444][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_PlayerHealthBar]
+[2024.11.26-01.17.51:450][821]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_PlayerHealthBar
+[2024.11.26-01.17.51:450][821]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_PlayerHealthBar70898812454FED9F77F3E4BDBA35267A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/WBP_PlayerHealthBar.uasset'
+[2024.11.26-01.17.51:456][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.051 ms (total: 3.76 sec)
+[2024.11.26-01.17.51:512][821]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-01.17.51:512][821]LogContentValidation: Enabled validators:
+[2024.11.26-01.17.51:512][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-01.17.51:512][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-01.17.51:512][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-01.17.51:512][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-01.17.51:512][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-01.17.51:512][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-01.17.51:513][821]AssetCheck: /Game/Blueprints/UI/WBP_PlayerHealthBar Validating asset
+[2024.11.26-01.17.57:310][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.26-01.17.58:471][167]LogSlate: Window 'Save Content' being destroyed
+[2024.11.26-01.17.58:481][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-01.17.58:528][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.26-01.17.58:528][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.26-01.17.58:537][167]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.26-01.17.58:538][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBaseBDA33B5B44F2D7154905A7B9F93A810A.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.26-01.17.58:538][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/RedHood/BP_RedHood] ([2] browsable assets)...
+[2024.11.26-01.17.58:538][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/RedHood/BP_RedHood]
+[2024.11.26-01.17.58:545][167]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/RedHood/BP_RedHood
+[2024.11.26-01.17.58:545][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_RedHood7DF4FC414FBDD260BF4DB0AA89194876.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/RedHood/BP_RedHood.uasset'
+[2024.11.26-01.17.58:545][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Heart_Red] ([1] browsable assets)...
+[2024.11.26-01.17.58:547][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/UI/Heart_Red.Heart_Red]
+[2024.11.26-01.17.58:547][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Heart_Red]
+[2024.11.26-01.17.58:547][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Heart_Red" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/Heart_Red.uasset" SILENT=true
+[2024.11.26-01.17.58:548][167]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Heart_Red
+[2024.11.26-01.17.58:548][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Heart_Red84FEF1E249BABC620F6944B7DEC7CA04.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/Heart_Red.uasset'
+[2024.11.26-01.17.58:551][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Heart_Red_1] ([1] browsable assets)...
+[2024.11.26-01.17.58:552][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/UI/Heart_Red_1.Heart_Red_1]
+[2024.11.26-01.17.58:552][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Heart_Red_1]
+[2024.11.26-01.17.58:553][167]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Heart_Red_1
+[2024.11.26-01.17.58:553][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Heart_Red_1CF2C8FC045AD3452B7D3EA912CFDF7EF.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/Heart_Red_1.uasset'
+[2024.11.26-01.17.58:553][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Heart_Red_2] ([1] browsable assets)...
+[2024.11.26-01.17.58:555][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/UI/Heart_Red_2.Heart_Red_2]
+[2024.11.26-01.17.58:555][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Heart_Red_2]
+[2024.11.26-01.17.58:556][167]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Heart_Red_2
+[2024.11.26-01.17.58:556][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Heart_Red_27B815CFD4A8DBC8AD5F224A48AA12346.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/Heart_Red_2.uasset'
+[2024.11.26-01.17.58:556][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Heart_Red_3] ([1] browsable assets)...
+[2024.11.26-01.17.58:557][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/UI/Heart_Red_3.Heart_Red_3]
+[2024.11.26-01.17.58:557][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Heart_Red_3]
+[2024.11.26-01.17.58:558][167]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Heart_Red_3
+[2024.11.26-01.17.58:558][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Heart_Red_328E94C8143DE9D440E8218A007FFA270.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/Heart_Red_3.uasset'
+[2024.11.26-01.17.58:559][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Heart_Red_4] ([1] browsable assets)...
+[2024.11.26-01.17.58:559][167]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Blueprints/UI/Heart_Red_4.Heart_Red_4]
+[2024.11.26-01.17.58:559][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Heart_Red_4]
+[2024.11.26-01.17.58:560][167]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Heart_Red_4
+[2024.11.26-01.17.58:560][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Heart_Red_405A9408D4D18DBA61EA08681AFC356D2.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/Heart_Red_4.uasset'
+[2024.11.26-01.17.58:561][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Font/Tiny5-Regular] ([1] browsable assets)...
+[2024.11.26-01.17.58:561][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Font/Tiny5-Regular]
+[2024.11.26-01.17.58:561][167]LogSavePackage: Moving output files for package: /Game/Blueprints/Font/Tiny5-Regular
+[2024.11.26-01.17.58:561][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Tiny5-RegularD874015A4EB861C16A30A48E3E3D3386.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Font/Tiny5-Regular.uasset'
+[2024.11.26-01.17.58:562][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Font/Tiny5-Regular_Font] ([1] browsable assets)...
+[2024.11.26-01.17.58:562][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Font/Tiny5-Regular_Font]
+[2024.11.26-01.17.58:562][167]LogSavePackage: Moving output files for package: /Game/Blueprints/Font/Tiny5-Regular_Font
+[2024.11.26-01.17.58:562][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/Tiny5-Regular_FontAFD43A1641E8C674F17D9EBDFEB00310.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Font/Tiny5-Regular_Font.uasset'
+[2024.11.26-01.17.58:563][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Font/TinyFont] ([1] browsable assets)...
+[2024.11.26-01.17.58:563][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Font/TinyFont]
+[2024.11.26-01.17.58:563][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Font/TinyFont" FILE="../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Font/TinyFont.uasset" SILENT=true
+[2024.11.26-01.17.58:564][167]LogSavePackage: Moving output files for package: /Game/Blueprints/Font/TinyFont
+[2024.11.26-01.17.58:564][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/TinyFontF25D8D6F47B50866ACB402B006C4FC76.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Font/TinyFont.uasset'
+[2024.11.26-01.17.58:565][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/WBP_Overlay] ([2] browsable assets)...
+[2024.11.26-01.17.58:567][167]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/WBP_Overlay.WBP_Overlay]
+[2024.11.26-01.17.58:567][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/WBP_Overlay]
+[2024.11.26-01.17.58:569][167]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/WBP_Overlay
+[2024.11.26-01.17.58:569][167]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/WBP_OverlayC36151A64E9061EF8315D296C1FCC51C.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/UI/WBP_Overlay.uasset'
+[2024.11.26-01.17.58:575][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.915 ms (total: 3.86 sec)
+[2024.11.26-01.17.58:608][167]LogContentValidation: Display: Starting to validate 11 assets
+[2024.11.26-01.17.58:608][167]LogContentValidation: Enabled validators:
+[2024.11.26-01.17.58:608][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-01.17.58:608][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-01.17.58:608][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-01.17.58:608][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-01.17.58:608][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-01.17.58:608][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/Characters/RedHood/BP_RedHood Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/UI/Heart_Red Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/UI/Heart_Red_1 Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/UI/Heart_Red_2 Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/UI/Heart_Red_3 Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/UI/Heart_Red_4 Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/Font/Tiny5-Regular Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/Font/Tiny5-Regular_Font Validating asset
+[2024.11.26-01.17.58:608][167]AssetCheck: /Game/Blueprints/Font/TinyFont Validating asset
+[2024.11.26-01.17.58:609][167]AssetCheck: /Game/Blueprints/UI/WBP_Overlay Validating asset
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: ================================================
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Total job queries 800, among them cache hits 340 (42.50%), DDC hits 152 (19.00%), Duplicates 20 (2.50%)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Tracking 440 distinct input hashes that result in 292 distinct outputs (66.36%)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: RAM used: 185.95 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Shaders Compiled: 288
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Jobs assigned 288, completed 288 (100%)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Average time worker was idle: 123.95 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.05 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Job execution time: average 0.41 s, max 1.42 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 1.52
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Shader code size: average 9.861 KiB, min 1.877 KiB, max 37.028 KiB
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.75 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Jobs were issued in 288 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Average processing rate: 11.63 jobs/sec
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Total thread time: 76.407 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Total thread preprocess time: 8.71 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Percentage time preprocessing: 11.40%
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Effective parallelization: 3.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 0.62 sec, max 0.68 sec, min 0.58 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    9 times, average 0.48 sec, max 0.63 sec, min 0.43 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   17 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.24% of total time (compiled   25 times, average 0.50 sec, max 0.75 sec, min 0.36 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.22% of total time (compiled   17 times, average 0.46 sec, max 0.57 sec, min 0.42 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.99% of total time (compiled   33 times, average 0.21 sec, max 0.31 sec, min 0.14 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.55% of total time (compiled   25 times, average 0.23 sec, max 0.28 sec, min 0.16 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.22% of total time (compiled   12 times, average 0.46 sec, max 0.49 sec, min 0.38 sec)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: === Material stats ===
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Materials Translated:    168
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: Material Cache Hits: 35 (21%)
+[2024.11.26-01.18.00:221][264]LogShaderCompilers: Display: ================================================
