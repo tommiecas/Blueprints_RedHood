@@ -9320,3 +9320,249 @@ Make sure 'BP_CharacterBase_C' has been compiled for  Calculate New Health
 [2024.11.26-09.28.11:765][687]AssetCheck: /Game/Blueprints/Sounds/RedHood/MS_Attack2 Validating asset
 [2024.11.26-09.28.11:765][687]AssetCheck: /Game/Blueprints/Sounds/RedHood/MS_Attack3 Validating asset
 [2024.11.26-09.28.11:765][687]AssetCheck: /Game/Blueprints/Sounds/Skeleton/MS_Skeleton_Hit Validating asset
+[2024.11.26-09.31.16:109][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.26-09.31.17:056][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-09.31.17:105][613]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.26-09.31.17:106][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.26-09.31.17:120][613]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.26-09.31.17:121][613]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase5C372A884606A3FBBCBF87A8C9E2B783.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.26-09.31.17:127][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.900 ms (total: 11.2 sec)
+[2024.11.26-09.31.17:171][613]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-09.31.17:171][613]LogContentValidation: Enabled validators:
+[2024.11.26-09.31.17:171][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-09.31.17:171][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-09.31.17:171][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-09.31.17:171][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-09.31.17:171][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-09.31.17:171][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-09.31.17:171][613]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.26-09.31.21:159][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.26-09.31.21:172][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-09.31.21:172][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-09.31.21:174][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001792s)
+[2024.11.26-09.31.21:174][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001817s)
+[2024.11.26-09.31.21:190][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.26-09.31.21:199][852]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.26-09.31.21:200][852]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2024.11.26-09.31.21:200][852]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-09.31.21:200][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.26-09.31.21:200][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-09.31.21:200][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-09.31.21:200][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-09.31.21:200][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-09.31.21:203][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.26-09.31.21:213][852]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.26-09.31.21:213][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-09.31.21:213][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-09.31.21:213][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-09.31.21:213][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.11.26-09.31.21:213][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.11.26-09.31.21:215][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.11.26-09.31.21:215][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.11.26-09.31.21:215][852]LogInit: FAudioDevice initialized with ID 51.
+[2024.11.26-09.31.21:215][852]LogAudio: Display: Audio Device (ID: 51) registered with world 'DungeonMap'.
+[2024.11.26-09.31.21:215][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.11.26-09.31.21:218][852]LogStreaming: Display: FlushAsyncLoading(655): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-09.31.21:218][852]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.26-09.31.21:221][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.26-01.31.21
+[2024.11.26-09.31.21:223][852]LogWorld: Bringing up level for play took: 0.004212
+[2024.11.26-09.31.21:224][852]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2024.11.26-09.31.21:274][852]PIE: Server logged in
+[2024.11.26-09.31.21:275][852]PIE: Play in editor total start time 0.11 seconds.
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.44:777][259]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.46:494][362]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.31.48:244][467]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.31.49:082][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-09.31.49:082][515]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-09.31.49:083][515]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-09.31.49:083][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-09.31.49:088][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-09.31.49:092][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-09.31.49:106][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-09.31.49:106][515]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.11.26-09.31.49:106][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.11.26-09.31.49:108][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.11.26-09.31.49:111][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-09.31.49:112][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.26-09.31.49:144][516]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2024.11.26-09.35.30:268][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.11.26-09.35.31:424][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.26-09.35.31:472][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_CharacterBase] ([2] browsable assets)...
+[2024.11.26-09.35.31:472][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_CharacterBase]
+[2024.11.26-09.35.31:487][806]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_CharacterBase
+[2024.11.26-09.35.31:487][806]LogSavePackage: Moving '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Saved/BP_CharacterBase36CAAAE44D2E874B7B874D976941A0DE.tmp' to '../../../../../../Users/tom/Documents/Unreal Projects/Blueprints/Blueprints_RedHood/Content/Blueprints/Characters/BP_CharacterBase.uasset'
+[2024.11.26-09.35.31:493][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.277 ms (total: 11.2 sec)
+[2024.11.26-09.35.31:560][806]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.26-09.35.31:560][806]LogContentValidation: Enabled validators:
+[2024.11.26-09.35.31:560][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.26-09.35.31:560][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.26-09.35.31:560][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.26-09.35.31:560][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.26-09.35.31:560][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.26-09.35.31:560][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.26-09.35.31:560][806]AssetCheck: /Game/Blueprints/Characters/BP_CharacterBase Validating asset
+[2024.11.26-09.35.33:145][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.26-09.35.33:157][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.26-09.35.33:157][901]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-09.35.33:159][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001825s)
+[2024.11.26-09.35.33:159][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DungeonMap.DungeonMap to /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap (0.001849s)
+[2024.11.26-09.35.33:172][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.26-09.35.33:180][901]LogChaosDD: Creating Chaos Debug Draw Scene for world DungeonMap
+[2024.11.26-09.35.33:182][901]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2024.11.26-09.35.33:182][901]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.26-09.35.33:182][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.26-09.35.33:182][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.26-09.35.33:182][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.26-09.35.33:182][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.26-09.35.33:182][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.26-09.35.33:186][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.26-09.35.33:195][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2024.11.26-09.35.33:195][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.26-09.35.33:195][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.26-09.35.33:195][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.26-09.35.33:196][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.11.26-09.35.33:196][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.11.26-09.35.33:197][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.11.26-09.35.33:197][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.11.26-09.35.33:197][901]LogInit: FAudioDevice initialized with ID 52.
+[2024.11.26-09.35.33:197][901]LogAudio: Display: Audio Device (ID: 52) registered with world 'DungeonMap'.
+[2024.11.26-09.35.33:197][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.11.26-09.35.33:200][901]LogStreaming: Display: FlushAsyncLoading(656): 1 QueuedPackages, 0 AsyncPackages
+[2024.11.26-09.35.33:200][901]LogLoad: Game class is 'BP_RedHoodGameMode_C'
+[2024.11.26-09.35.33:203][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap up for play (max tick rate 60) at 2024.11.26-01.35.33
+[2024.11.26-09.35.33:204][901]LogWorld: Bringing up level for play took: 0.003961
+[2024.11.26-09.35.33:206][901]LogOnline: OSS: Created online subsystem instance for: :Context_112
+[2024.11.26-09.35.33:255][901]PIE: Server logged in
+[2024.11.26-09.35.33:256][901]PIE: Play in editor total start time 0.105 seconds.
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.41:091][368]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.42:792][470]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.44:592][578]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.46:275][679]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.48:109][789]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.49:826][892]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.51:626][  0]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'AttackAnimData' of length 3 in '/Game/Blueprints/Characters/RedHood/BP_RedHood.BP_RedHood_C'!
+[2024.11.26-09.35.53:478][111]LogScript: Warning: Script Msg called by: BP_RedHood_C /Game/Maps/UEDPIE_0_DungeonMap.DungeonMap:PersistentLevel.BP_RedHood_C_0
+[2024.11.26-09.35.53:729][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-09.35.53:729][124]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DungeonMap
+[2024.11.26-09.35.53:729][124]LogWorld: UWorld::CleanupWorld for DungeonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.26-09.35.53:730][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-09.35.53:736][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.26-09.35.53:739][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.26-09.35.53:753][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.26-09.35.53:753][124]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.11.26-09.35.53:753][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.11.26-09.35.53:755][124]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.11.26-09.35.53:759][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.26-09.35.53:761][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.26-09.35.53:818][126]LogPlayLevel: Display: Destroying online subsystem :Context_112
